@@ -49,13 +49,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   gtag('config', 'AW-725944611');
 
 </script>
-<link rel="shortcut icon" href="../favicon_1.ico" type="image/x-icon">
-<link href="../css/aos_1.css" rel="stylesheet" type="text/css" media="all">
-<link href="../css/owl.carousel.min_1.css" rel="stylesheet" type="text/css" media="all">
-<link href="../css/font-awesome.min_1.css" rel="stylesheet" type="text/css" media="all">
-<link href="../css/bootstrap.min_1.css" rel="stylesheet" type="text/css" media="all">
-<link href="../css/styles_1.css" rel="stylesheet" type="text/css" media="all">
-<link href="../css/responsive_1.css" rel="stylesheet" type="text/css" media="all">
+<link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+<link href="assets/css/aos.css" rel="stylesheet" type="text/css" media="all">
+<link href="assets/css/owl.carousel.min.css" rel="stylesheet" type="text/css" media="all">
+<link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
+<link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
+<link href="assets/css/styles.css" rel="stylesheet" type="text/css" media="all">
+<link href="assets/css/responsive.css" rel="stylesheet" type="text/css" media="all">
 
 <script>
 !function(f,b,e,v,n,t,s)
@@ -68,7 +68,7 @@ s.parentNode.insertBefore(t,s)}(window, document,'script',
 'https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '365279848190557');
 fbq('track', 'PageView');
-</script>
+</script><script type="text/javascript" src="../js_2"></script>
 <noscript><img height="1" width="1" style="display:none" src="../tr"></noscript>
 <script>
   setTimeout(function(){ 
@@ -76,7 +76,7 @@ fbq('track', 'PageView');
   }, 2000);
 </script>
 
-<script type="text/javascript" src="../js_2"></script><script src="../js/725944611_1.js"></script><style data-styled="active" data-styled-version="5.1.1"></style></head>
+<script src="../js/725944611_2.js"></script><style data-styled="active" data-styled-version="5.1.1"></style></head>
 <body>
 
 <noscript><iframe src="../ns.html" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -173,7 +173,7 @@ fbq('track', 'PageView');
 <img src="assets/images/rating2.png" alt="Rating" width="21" height="21">
 <img src="assets/images/rating2.png" alt="Rating" width="21" height="21">
 <img src="assets/images/rating2.png" alt="Rating" width="21" height="21">
-<span class="rating-label"><img src="rating3_1.png" alt="Rating" width="13" height="12"> 5.0</span>
+<span class="rating-label"><img src="assets/images/rating3.png" alt="Rating" width="13" height="12"> 5.0</span>
 </div>
 </div>
 </div>
@@ -188,7 +188,7 @@ fbq('track', 'PageView');
 <img src="assets/images/rating2.png" alt="Rating" width="21" height="21">
 <img src="assets/images/rating2.png" alt="Rating" width="21" height="21">
 <img src="assets/images/rating2.png" alt="Rating" width="21" height="21">
-<span class="rating-label"><img src="rating3_1.png" alt="Rating" width="13" height="12"> 4.5</span>
+<span class="rating-label"><img src="assets/images/rating3.png" alt="Rating" width="13" height="12"> 4.5</span>
 </div>
 </div>
 </div>
@@ -203,7 +203,7 @@ fbq('track', 'PageView');
 <img src="assets/images/rating2.png" alt="Rating" width="21" height="21">
 <img src="assets/images/rating2.png" alt="Rating" width="21" height="21">
 <img src="assets/images/rating2.png" alt="Rating" width="21" height="21">
-<span class="rating-label"><img src="rating3_1.png" alt="Rating" width="13" height="12"> 4.5</span>
+<span class="rating-label"><img src="assets/images/rating3.png" alt="Rating" width="13" height="12"> 4.5</span>
 </div>
 </div>
 </div>
@@ -1275,7 +1275,7 @@ Hire Yii Developer
 </li>
 <li>
 <a href="hire-opencart-developer.html">
-<span class="dropdown-icon opencart-menu"><span class="sprites-image"></span></span>
+ <span class="dropdown-icon opencart-menu"><span class="sprites-image"></span></span>
 Hire Open Cart Developer
 </a>
 </li>
@@ -1557,8 +1557,8 @@ Hire ReactJS Developer
 <li><a href="realestate-solution.html">Real Estate</a></li>
 <li><a href="healthcare-fitness.html">Healthcare &amp; Fitness</a></li>
 <li><a href="banking-finance.html">Banking &amp; Finance</a></li>
-<li><a href="logistic-transportation.html">Logistics &amp; Transport</a></li>
- <li><a href="education-elearning.html">Education &amp; eLearning</a></li>
+ <li><a href="logistic-transportation.html">Logistics &amp; Transport</a></li>
+<li><a href="education-elearning.html">Education &amp; eLearning</a></li>
 <li><a href="gaming-leisure.html">Sports $ Gaming</a></li>
 <li><a href="events-tickets.html">Ticketing &amp; Event</a></li>
 </ul>
@@ -1624,7 +1624,7 @@ Hire ReactJS Developer
 <div class="row">
 <div class="col-lg-3 col-6">
 <h3>Contact Us</h3>
-<div class="contact-item">
+ <div class="contact-item">
 <div class="emizentech-icon"><span class="sprites-image"></span></div>
 <div class="contact-info">
 <h4>USA OFFICE</h4>
@@ -1708,15 +1708,15 @@ Hire ReactJS Developer
 <div class="emizentech-image">
 <a href="https://www.appfirms.co/developer/developerProfile.php?user=techemizen" target="_blank"><img src="assets/images/client10.png" alt="Client" width="110" height="110"></a>
 </div>
+ </div>
+<div class="item">
+<div class="emizentech-image">
+<a href="https://topwebdevelopmentcompanies.com/in/top-10/app-development/jaipur" target="_blank"><img src="assets/images/client11.png" alt="Client" width="135" height="110"></a>
+</div>
 </div>
 <div class="item">
 <div class="emizentech-image">
- <a href="https://topwebdevelopmentcompanies.com/in/top-10/app-development/jaipur" target="_blank"><img src="assets/images/client11.png" alt="Client" width="135" height="110"></a>
-</div>
-</div>
-<div class="item">
-<div class="emizentech-image">
-<a href="https://topfirms.co/companies/magento-development/usa" target="_blank"><img src="client12_1.png" alt="Client" width="130" height="110"></a>
+<a href="https://topfirms.co/companies/magento-development/usa" target="_blank"><img src="assets/images/client12.png" alt="Client" width="130" height="110"></a>
 </div>
 </div>
 <div class="item">
@@ -1736,7 +1736,7 @@ Hire ReactJS Developer
 </div>
 <div class="item">
 <div class="emizentech-image">
-<a href="https://appdevelopmentcompanies.co/local-agencies/us/app-developers/usa" target="_blank"><img src="assets/images/client16.png" alt="Client" width="120" height="110"></a>
+<a href="https://appdevelopmentcompanies.co/local-agencies/us/app-developers/usa" target="_blank"><img src="client16_1.png" alt="Client" width="120" height="110"></a>
 </div>
 </div>
 <div class="item">
@@ -1782,7 +1782,7 @@ Hire ReactJS Developer
 <div class="item">
 <div class="emizentech-image">
 <a href="http://www.trustfirms.com/top-ecommerce-development-companies-usa/" target="_blank"><img src="assets/images/client25.png" alt="Client" width="110" height="110"></a>
- </div>
+</div>
 </div>
 <div class="item">
 <div class="emizentech-image">
@@ -1796,7 +1796,7 @@ Hire ReactJS Developer
 </div>
 <div class="item">
 <div class="emizentech-image">
-<a href="https://allaboutapps.co/top-web-development-companies-in-usa/" target="_blank"><img src="client28_1.png" alt="Client" width="110" height="110"></a>
+<a href="https://allaboutapps.co/top-web-development-companies-in-usa/" target="_blank"><img src="client28_2.png" alt="Client" width="110" height="110"></a>
 </div>
 </div>
 <div class="item">
@@ -1806,12 +1806,12 @@ Hire ReactJS Developer
 </div>
 <div class="item">
 <div class="emizentech-image">
-<a href="https://topappfirms.co/developers/app-development-companies/" target="_blank"><img src="client30_1.png" alt="Client" width="145" height="102"></a>
+<a href="https://topappfirms.co/developers/app-development-companies/" target="_blank"><img src="assets/images/client30.png" alt="Client" width="145" height="102"></a>
 </div>
 </div>
 <div class="item">
 <div class="emizentech-image">
-<a href="https://wadline.com/mobile/us" target="_blank"><img src="assets/images/client31.png" alt="Client" width="110" height="110"></a>
+<a href="https://wadline.com/mobile/us" target="_blank"><img src="client31_1.png" alt="Client" width="110" height="110"></a>
 </div>
 </div>
 </div>
@@ -1846,13 +1846,13 @@ Overall client rating is 4.9 out of 250 Clients for Emizentech
 
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>
-<script src="../js/counterup.min_1.js"></script>
-<script src="../js/waypoints.min_1.js"></script>
+<script src="assets/js/counterup.min.js"></script>
+<script src="assets/js/waypoints.min.js"></script>
 <script src="assets/js/owl.carousel.min.js"></script>
 <script src="assets/js/isotope.min.js"></script>
 <script src="assets/js/packery.min.js"></script>
 <script src="assets/js/aos.js"></script>
-<script src="../js/swiper.min_1.js"></script>
+<script src="assets/js/swiper.min.js"></script>
 <script src="../js/jquery.ihavecookies.js"></script>
 <script id="ze-snippet" src="../js/snippet.js"></script>
 <script src="assets/js/scripts.js"></script>
@@ -1881,4 +1881,4 @@ Overall client rating is 4.9 out of 250 Clients for Emizentech
 </script>
 
 
-<iframe data-product="web_widget" title="No content" tabindex="-1" aria-hidden="true" src="about:blank" style="width: 0px; height: 0px; border: 0px; position: absolute; top: -9999px;"></iframe><div><iframe title="Opens a widget where you can chat to one of our agents" id="launcher" tabindex="-1" style="width: 107px; height: 50px; padding: 0px; margin: 10px 20px; position: fixed; bottom: 30px; overflow: visible; opacity: 0; border: 0px; z-index: 999998; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1); transition-property: opacity, top, bottom; top: -9999px; visibility: hidden;"></iframe><iframe title="Find more information here" id="webWidget" tabindex="0" style="width: 374px; max-height: calc(100vh - 32px); height: 572px; position: fixed; opacity: 1; border: 0px; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1); transition-property: opacity, top, bottom; z-index: 999999; right: 0px; bottom: 0px;"></iframe></div><div id="gb-widget-7161" style="bottom: 21px; left: 23px; opacity: 1; transition: opacity 0.5s ease 0s; box-sizing: border-box; direction: ltr; position: fixed !important; z-index: 16000160 !important;"><div><div class="q8c6tt-2 dJvETY"><a href="https://wa.me/442032877992" target="_blank" class="sc-1s18q3d-1 sc-8eqc3y-1 iILOR"><div class="sc-8eqc3y-0 fXBuHm">Let's Chat</div></a><a href="https://wa.me/442032877992" target="_blank" color="#4dc247" id class="q8c6tt-0 jvFDcV"><svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="width: 100%; height: 100%; fill: rgb(255, 255, 255); stroke: none;"><path d="M19.11 17.205c-.372 0-1.088 1.39-1.518 1.39a.63.63 0 0 1-.315-.1c-.802-.402-1.504-.817-2.163-1.447-.545-.516-1.146-1.29-1.46-1.963a.426.426 0 0 1-.073-.215c0-.33.99-.945.99-1.49 0-.143-.73-2.09-.832-2.335-.143-.372-.214-.487-.6-.487-.187 0-.36-.043-.53-.043-.302 0-.53.115-.746.315-.688.645-1.032 1.318-1.06 2.264v.114c-.015.99.472 1.977 1.017 2.78 1.23 1.82 2.506 3.41 4.554 4.34.616.287 2.035.888 2.722.888.817 0 2.15-.515 2.478-1.318.13-.33.244-.73.244-1.088 0-.058 0-.144-.03-.215-.1-.172-2.434-1.39-2.678-1.39zm-2.908 7.593c-1.747 0-3.48-.53-4.942-1.49L7.793 24.41l1.132-3.337a8.955 8.955 0 0 1-1.72-5.272c0-4.955 4.04-8.995 8.997-8.995S25.2 10.845 25.2 15.8c0 4.958-4.04 8.998-8.998 8.998zm0-19.798c-5.96 0-10.8 4.842-10.8 10.8 0 1.964.53 3.898 1.546 5.574L5 27.176l5.974-1.92a10.807 10.807 0 0 0 16.03-9.455c0-5.958-4.842-10.8-10.802-10.8z"/></svg></a></div><a type="link" href="http://getbutton.io/?utm_campaign=multy_widget&amp;utm_medium=widget&amp;utm_source=www.emizentech.com" class="sc-7dvmpp-1 gCdMUP">GetButton</a></div></div></body></html>
+<iframe data-product="web_widget" title="No content" tabindex="-1" aria-hidden="true" src="about:blank" style="width: 0px; height: 0px; border: 0px; position: absolute; top: -9999px;"></iframe><div><iframe title="Opens a widget where you can chat to one of our agents" id="launcher" tabindex="0" style="width: 107px; height: 50px; padding: 0px; margin: 10px 20px; position: fixed; bottom: 0px; overflow: visible; opacity: 1; border: 0px; z-index: 999998; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1); transition-property: opacity, top, bottom; right: 0px;"></iframe></div><iframe src="https://bid.g.doubleclick.net/xbbe/pixel?d=KAE" style="display: none;"></iframe><div id="gb-widget-3993" style="bottom: 21px; left: 23px; opacity: 1; transition: opacity 0.5s ease 0s; box-sizing: border-box; direction: ltr; position: fixed !important; z-index: 16000160 !important;"><div><div class="q8c6tt-2 dJvETY"><a href="https://wa.me/442032877992" target="_blank" class="sc-1s18q3d-1 sc-8eqc3y-1 iILOR"><div class="sc-8eqc3y-0 fXBuHm">Let's Chat</div></a><a href="https://wa.me/442032877992" target="_blank" color="#4dc247" id class="q8c6tt-0 jvFDcV"><svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="width: 100%; height: 100%; fill: rgb(255, 255, 255); stroke: none;"><path d="M19.11 17.205c-.372 0-1.088 1.39-1.518 1.39a.63.63 0 0 1-.315-.1c-.802-.402-1.504-.817-2.163-1.447-.545-.516-1.146-1.29-1.46-1.963a.426.426 0 0 1-.073-.215c0-.33.99-.945.99-1.49 0-.143-.73-2.09-.832-2.335-.143-.372-.214-.487-.6-.487-.187 0-.36-.043-.53-.043-.302 0-.53.115-.746.315-.688.645-1.032 1.318-1.06 2.264v.114c-.015.99.472 1.977 1.017 2.78 1.23 1.82 2.506 3.41 4.554 4.34.616.287 2.035.888 2.722.888.817 0 2.15-.515 2.478-1.318.13-.33.244-.73.244-1.088 0-.058 0-.144-.03-.215-.1-.172-2.434-1.39-2.678-1.39zm-2.908 7.593c-1.747 0-3.48-.53-4.942-1.49L7.793 24.41l1.132-3.337a8.955 8.955 0 0 1-1.72-5.272c0-4.955 4.04-8.995 8.997-8.995S25.2 10.845 25.2 15.8c0 4.958-4.04 8.998-8.998 8.998zm0-19.798c-5.96 0-10.8 4.842-10.8 10.8 0 1.964.53 3.898 1.546 5.574L5 27.176l5.974-1.92a10.807 10.807 0 0 0 16.03-9.455c0-5.958-4.842-10.8-10.802-10.8z"/></svg></a></div><a type="link" href="http://getbutton.io/?utm_campaign=multy_widget&amp;utm_medium=widget&amp;utm_source=www.emizentech.com" class="sc-7dvmpp-1 gCdMUP">GetButton</a></div></div></body></html>
