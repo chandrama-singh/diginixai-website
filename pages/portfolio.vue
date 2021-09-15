@@ -3783,7 +3783,7 @@ View Case Study
 <div class="row align-items-center">
 <div class="col-md-6 order-md-2">
 <div class="app-bg" style="background-image: url(~/assets/images/S_Mart_Electronics.png);">
-<div class="app-device" style="top: auto; bottom: 0; transform: translatey(0);"><img src="~/assets/images/S_Mart%20Electronics-overlay.png" alt="App Device"></div>
+<div class="app-device" style="top: auto; bottom: 0; transform: translatey(0);"><img src="~/assets/images/S_Mart_Electronics-overlay.png" alt="App Device"></div>
 </div>
 </div>
 <div class="col-md-6 order-md-1">
@@ -3962,7 +3962,7 @@ View Case Study
 <div class="row align-items-center">
 <div class="col-md-6 order-md-2">
 <div class="app-bg" style="background-image: url(~/assets/images/Brick-Salvage.png);">
-<div class="app-device" style="top: auto; bottom: 0; transform: translatey(0);"><img src="~/assets/images/Brick%20Salvage-overlay.png" alt="App Device"></div>
+<div class="app-device" style="top: auto; bottom: 0; transform: translatey(0);"><img src="~/assets/images/Brick_Salvage-overlay.png" alt="App Device"></div>
 </div>
 </div>
 <div class="col-md-6 order-md-1">

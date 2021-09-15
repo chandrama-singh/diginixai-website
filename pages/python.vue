@@ -197,7 +197,7 @@ Magento 2 Migration
 <a href="magento-2-responsive-theme.html">
 <span class="dropdown-icon magento-responsive"><span class="sprites-image"></span></span>
 Magento Responsive Theme
-</a>
+ </a>
 </li>
 <li>
 <a href="magento-2-payment-module-integration.html">
@@ -266,7 +266,7 @@ Magento Commerce Cloud Services
 Shopify APP Development
 </a>
 </li>
-<li>
+ <li>
 <a href="shopify-integration-services.html">
 <span class="dropdown-icon shopify-menu"><span class="sprites-image"></span></span>
 Shopify Integration Services
@@ -329,7 +329,7 @@ Theme Design &amp; Development
 <ul>
 <li>
 <a href="shopware-integration-services.html">
- <span class="dropdown-icon shopware-menu"><span class="sprites-image"></span></span>
+<span class="dropdown-icon shopware-menu"><span class="sprites-image"></span></span>
 Shopware integration services
 </a>
 </li>
@@ -402,7 +402,7 @@ Salesforce Consulting
 </li>
 <li>
 <a href="salesforce-migration-services.html">
-<span class="dropdown-icon salesforce-force"><span class="sprites-image"></span></span>
+ <span class="dropdown-icon salesforce-force"><span class="sprites-image"></span></span>
 Salesforce Migration
 </a>
 </li>
@@ -472,7 +472,7 @@ Pardot Implementation
 </li>
 <li>
 <a href="salesforce-einstein-analytics.html">
-<span class="dropdown-icon salesforce-force"><span class="sprites-image"></span></span>
+ <span class="dropdown-icon salesforce-force"><span class="sprites-image"></span></span>
 Einstein Implementation
 </a>
 </li>
@@ -535,7 +535,7 @@ Health Cloud
 </a>
 </li>
 <li>
- <a href="hire-salesforce-developer.html">
+<a href="hire-salesforce-developer.html">
 <span class="dropdown-icon salesforce-force"><span class="sprites-image"></span></span>
 Salesforce Developer
 </a>
@@ -544,7 +544,7 @@ Salesforce Developer
 </div>
 </div>
 </div>
-<div class="sub-dropdown" data-nav-id="3">
+ <div class="sub-dropdown" data-nav-id="3">
 <a href="ecommerce-development.html" class="dropdown-main-link ecommerce-link"><span class="sprites-image"></span>Ecommerce</a>
 <div class="row">
 <div class="col-xl-6 col-md-12 col-6">
@@ -606,7 +606,7 @@ WooCommerce
 <span class="dropdown-icon bigcommerce-menu"><span class="sprites-image"></span></span>
 BigCommerce
 </a>
- </li>
+</li>
 <li>
 <a href="oscommerce-development.html">
 <span class="dropdown-icon oscommerce-menu"><span class="sprites-image"></span></span>
@@ -677,7 +677,7 @@ Xamarin App
 <li>
 <a href="ionic-app-development.html">
 <span class="dropdown-icon ionic-app"><span class="sprites-image"></span></span>
- Ionic App
+Ionic App
 </a>
 </li>
 <li>
@@ -751,7 +751,7 @@ Joomla
 <a href="wordpress-development.html">
 <span class="dropdown-icon wordpress-menu"><span class="sprites-image"></span></span>
 Wordpress
- </a>
+</a>
 </li>
 <li>
 <a href="laravel-development.html">
@@ -763,7 +763,7 @@ Laravel
 <a href="cakephp-development.html">
 <span class="dropdown-icon cakephp-menu"><span class="sprites-image"></span></span>
 Cakephp
-</a>
+ </a>
 </li>
 <li>
 <a href="yii-development.html">
@@ -825,7 +825,7 @@ Vue JS
 <a href="web-design.html" class="dropdown-main-link design-link"><span class="sprites-image"></span>Web Design</a>
 <div class="row align-items-center">
 <div class="col-xl-5">
- <ul>
+<ul>
 <li>
 <a href="web-design.html">
 <span class="dropdown-icon uiux-menu"><span class="sprites-image"></span></span>
@@ -839,7 +839,7 @@ Web Design
 </a>
 </li>
 <li>
-<a href="web-design.html">
+ <a href="web-design.html">
 <span class="dropdown-icon graphic-menu"><span class="sprites-image"></span></span>
 Graphic &amp; Logo
 </a>
@@ -909,7 +909,7 @@ On-Demand Grocery App
 </div>
 <div class="col-xl-7 text-right">
 <div class="sub-dropdown-link">
-<img src="~/assets/images/food-menu-image.png" alt="Food" width="541" height="313">
+ <img src="~/assets/images/food-menu-image.png" alt="Food" width="541" height="313">
 <div class="dropdown-link-info">
 <h4>Top Trending IT Solutions at EmizenTech</h4>
 <p>Futuristic IT Solutions to Stay Ahead of Competitors</p>
@@ -1052,7 +1052,7 @@ Sports $ Gaming
 <a href="javascript:void(0)">Hiring</a>
 <div class="dropdown-nav">
 <div class="sub-dropdown">
- <div class="row">
+<div class="row">
 <div class="col-xl-3">
 <ul>
 <li>
@@ -1070,7 +1070,7 @@ Hire PHP Developer
 <li>
 <a href="hire-asp.net-developers.html">
 <span class="dropdown-icon asp-menu"><span class="sprites-image"></span></span>
-Hire .NET Developer
+ Hire .NET Developer
 </a>
 </li>
 <li>
@@ -1146,7 +1146,7 @@ Hire PhoneGap Developer
 <li>
 <a href="hire-cakephp-developers.html">
 <span class="dropdown-icon cakephp-menu"><span class="sprites-image"></span></span>
-Hire Cakephp Developer
+ Hire Cakephp Developer
 </a>
 </li>
 <li>
@@ -1223,8 +1223,8 @@ Hire Prestashop Developer
 Hire Magento Developer
 </a>
 </li>
- <li>
-<a href="hire-bigcommerce-developers.html">
+<li>
+ <a href="hire-bigcommerce-developers.html">
 <span class="dropdown-icon bigcommerce-menu"><span class="sprites-image"></span></span>
 BigCommerce Developer
 </a>
@@ -1535,14 +1535,13 @@ Hire ReactJS Developer
 <div class="row align-items-center">
 <div class="col-md-7">
 <div class="banner-info">
-<h1>Travel &amp; Hospitality <span>Software Solutions</span></h1>
-<p>Rendering distinct experiences to travel industries by offering powerful mobility, web, and software solutions that assist digital travel brands to streamline the operations, automate personalization, and attract conversion.</p>
+<h1>Hire Python <br> <span>Developers</span></h1>
+<p>Holding a team of expert Python developers that attempts hard to meet the required business targets to be one of the leading Python web development companies all over the globe.</p>
 <a href="enqiry.html" class="emizentech-btn"><span class="sprites-image"></span> Talk to Consultant</a>
-<div class="scroll-link"><a href="#first-section"></a></div>
 </div>
 </div>
 <div class="col-md-5">
-<div class="banner-image-wrap"><img src="~/assets/images/travel-bg.png" alt="Magento"></div>
+<div class="banner-image-wrap"><img src="~/assets/images/python-bg.png" alt="Python"></div>
 </div>
 </div>
 </div>
@@ -1551,52 +1550,460 @@ Hire ReactJS Developer
 <section class="emizentech-about about-style-five" id="first-section">
 <div class="container">
 <div class="section-title">
-<h2><span>Attain business goals </span>through our Travel &amp; Hospitality App and Software development solutions.</h2>
-<p>Let’s put an eye on our key services and solutions offerings that deliver excellence.</p>
+<h2><span>Hire Experienced</span> , and Certified Python Developers</h2>
+<p>Our proficient Python developers offer perfect python development services relevant to python app development.</p>
 </div>
 <div class="small-title">
-<p>Well, as we all know, the main ground for any business is the best customer experience. Therefore, we craft travel and hospitality solutions that may offer extraordinary experience on the first engagement only. At Emizentech, an esteemed travel and hospitality software development company, we hold a broad range of industry-specific services to provide mobile apps, websites, software, booking engines, 3rd party API, module integrations, and more customized development solutions.</p>
-<p>For a lasting altering market, such as travel and hospitality, the advancement in the services becomes stale sooner than expected. That’s why we depend on modern technologies, like cloud computing, IoT, AR/VR, etc. to assist us to invent and explore innovative and new solutions for all sized-businesses of travel and hospitality. At the moment, we clutch end-to-end solutions for the industry that encourage productivity, efficiency, transparency, great user experience, and profound control.</p>
-<p>Being an experienced and professional travel and hospitality software development company, Emizentech aims for developing powerful mobile and web apps for taking the user experience and organizational management a level up. We understand the requirements of the traveling industries, that’s why we make mobile applications that permit our customers to book plans and the tickets for their journey.</p>
-<p>We, at Emizentech, a famous travel and hospitality development company, build excellent and best travel and hospitality apps that permit you to exchange or transfer the currency, find out the travel guide, and also facilitates you to match the time zones, in case it’s abroad traveling, this is how we make your journey hassle-free and simple.</p>
-<div class="row skill-style-two">
-<div class="col-md-3">
-<div class="skill-item">
-<img src="~/assets/images/icon4.png" alt="Web &amp; Mobile Project" width="65" height="65">
-<div class="skill-info">
-<h2><span class="emizentech-counter">8</span>+ years</h2>
-<h4>of Industry Experience</h4>
+<p>Serves as one of the best programming languages, Python develops the most complicated websites and web apps. Hire Python developers from Emizentech who are adept in using the full caliber of this open-source programming language. The best advantage of Python is its scalability, which has made this language the most preferred choice.</p>
+<p>Being one of the top Python Development Company, Emizentech strives hard to develop web apps with the least codes. At Emizentech, we deploy the best python developers who have years of experience in Python and ensure the best quality coding and stability. The exclusive balance of expertise, along with the innovation, makes us a well-recognized Python development company. We hold many business hiring models that you can pick and can also hire Python programmers for your website and web app development. We have a team of the top Python web developers who just make sure that they craft stable and scalable websites or web applications for your business.</p>
+<p>From mobile app development to hybrid programming using Django and other frameworks, we, at Emizentech, hold much experience in Python development services. If you are looking to hire dedicated Python developers, then you may pick us as we are top-class proficients who can function like an extension of your in-house team.</p>
+<p>Being a top-notch Python development company, we allow the rapid development of MVP for testing the product adoption. We also enable CMS development of complex websites, speed-up time-to-market along with ready-to-use IT infrastructure, and develop UI rich mobile application from the ideation phase.</p>
+</div>
+</div>
+</section>
+
+<section class="emizentech-api api-style-two api-spacer-two">
+<div class="container">
+<div class="api-info">
+<div class="row">
+<div class="col-md-4 col-6">
+<div class="api-item">
+<div class="emizentech-icon"><img src="~/assets/images/developers.png" alt="Developers" width="34" height="30"></div>
+<h4>Certified Developers</h4>
+</div>
+</div>
+<div class="col-md-4 col-6">
+<div class="api-item">
+<div class="emizentech-icon"><img src="~/assets/images/secure.png" alt="Secure" width="24" height="30"></div>
+<h4>Secure with NDA</h4>
+</div>
+</div>
+<div class="col-md-4 col-6">
+<div class="api-item">
+<div class="emizentech-icon"><img src="~/assets/images/buy.png" alt="Buy"></div>
+<h4>Try &amp; Buy Model</h4>
+</div>
+</div>
+<div class="col-md-4 col-6">
+<div class="api-item">
+<div class="emizentech-icon"><img src="~/assets/images/refund.png" alt="Refund"></div>
+<h4>7 Day Refund Policy</h4>
+</div>
+</div>
+<div class="col-md-4 col-6">
+<div class="api-item">
+<div class="emizentech-icon"><img src="~/assets/images/flexible.png" alt="Flexible"></div>
+<h4>Flexible Working Hours</h4>
+</div>
+</div>
+<div class="col-md-4 col-6">
+<div class="api-item">
+<div class="emizentech-icon"><img src="~/assets/images/support.png" alt="Support"></div>
+<h4>24 X 7 Support</h4>
+</div>
+</div>
+<div class="col-md-4 col-6">
+<div class="api-item">
+<div class="emizentech-icon"><img src="~/assets/images/security.png" alt="Security"></div>
+<h4>Security &amp; IP Protection</h4>
+</div>
+</div>
+<div class="col-md-4 col-6">
+<div class="api-item">
+<div class="emizentech-icon"><img src="~/assets/images/source.png" alt="Source"></div>
+<h4>Source Code Authorization</h4>
+</div>
+</div>
+<div class="col-md-4 col-6">
+<div class="api-item">
+<div class="emizentech-icon"><img src="~/assets/images/precise.png" alt="Precise"></div>
+<h4>Precise Reporting</h4>
+</div>
+</div>
+<div class="col-md-4 col-6">
+<div class="api-item">
+<div class="emizentech-icon"><img src="~/assets/images/beacon.png" alt="Beacon"></div>
+<h4>Quick Team Scaling</h4>
+</div>
+</div>
+<div class="col-md-4 col-6">
+<div class="api-item">
+<div class="emizentech-icon"><img src="~/assets/images/interviews.png" alt="Interviews"></div>
+<h4>Conduct Interviews</h4>
+</div>
+</div>
+<div class="col-md-4 col-6">
+<div class="api-item">
+<div class="emizentech-icon"><img src="~/assets/images/engagement.png" alt="Engagement"></div>
+<h4>Multiple Engagement Models</h4>
 </div>
 </div>
 </div>
-<div class="col-md-3">
-<div class="skill-item">
-<img src="~/assets/images/icon5.png" alt="Repeated clients" width="65" height="65">
-<div class="skill-info">
-<h2><span class="emizentech-counter">450</span>+</h2>
-<h4>Delighted Clients</h4>
+</div>
+</div>
+</section>
+
+<section class="emizentech-development">
+<div class="container">
+<div class="section-title">
+<h2><span>Flexible Hiring</span> &amp; Engagement Model</h2>
+<p>This model provides both the employees and the employers the best where the companies can hold the proficiency and expertise on their board, on their payroll, directly or indirectly, while the employee also get advantage of flexible working.</p>
+</div>
+<div class="row">
+<div class="col-lg-6">
+<div class="development-item development-spacer">
+<div class="emizentech-image"><img src="~/assets/images/engagement_1.png" alt="Engagement"></div>
+<h3>Engagement<span> Model</span></h3>
+<p>This model allows the efficiency and the best cost savings to our clients, be it a multi-year or one-time project engagement. We offer effective Python engagement models customized for your business needs.</p>
+<div class="development-inner">
+<div class="development-item-wrap">
+<div class="emizentech-icon"><img src="~/assets/images/icon43.png" alt="Onsite"></div>
+<div class="development-info">
+<h5>Onsite Team</h5>
+<p>The Onsite Python team at Emizentech offers the assistance all through our adept python developers who work on the projects from your place with your team.</p>
+</div>
+</div>
+<div class="development-item-wrap">
+<div class="emizentech-icon"><img src="~/assets/images/icon44.png" alt="Offsite"></div>
+<div class="development-info">
+<h5>Offsite Team</h5>
+<p>Our Offsite Python development team do their job of Python development for our clients from our spot by using our resources and provide complete support.</p>
+</div>
+</div>
+<div class="development-item-wrap">
+<div class="emizentech-icon"><img src="~/assets/images/icon45.png" alt="Hybrid"></div>
+<div class="development-info">
+<h5>Hybrid Team</h5>
+<p>Our skillful team of hybrid Python developers performs for our clients from our place only to fulfill their required business needs and perform frequent visits if needed.</p>
 </div>
 </div>
 </div>
-<div class="col-md-3">
-<div class="skill-item">
-<img src="~/assets/images/icon6.png" alt="Happy clients" width="65" height="65">
-<div class="skill-info">
-<h2><span class="emizentech-counter">200</span>+</h2>
-<h4>Team Members</h4>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="development-item">
+<div class="emizentech-image"><img src="~/assets/images/pricing.png" alt="Pricing"></div>
+<h3>Pricing <span>Model</span></h3>
+<p>We have an exceptional pricing model through which you can hire our Python developers for your clients from all over the globe that helps in showing an explicit agreement to them.</p>
+<div class="development-inner">
+<div class="development-item-wrap">
+<div class="emizentech-icon"><img src="~/assets/images/fix-price.png" alt="Fix"></div>
+<div class="development-info">
+<h5>Fix Price Model</h5>
+<p>When you are ready with varied projects and choose our fixed price model then, you will need to run according to the one-time fixed price payment agreement.</p>
+</div>
+</div>
+<div class="development-item-wrap">
+<div class="emizentech-icon"><img src="~/assets/images/dedicated.png" alt="Dedicated"></div>
+<div class="development-info">
+<h5>Dedicated Model</h5>
+<p>When you are looking for a company to pick dedicated attention to your project, you choose a dedicated Python model in which you need to pay for the work the developers perform for your plan per month.</p>
+</div>
+</div>
+<div class="development-item-wrap">
+<div class="emizentech-icon"><img src="~/assets/images/time-material.png" alt="Time"></div>
+<div class="development-info">
+<h5>Time &amp; Material</h5>
+<p>This model showcases that you need to pay only for the amount of time and effort our dedicated Python developers invest in the completion of your project.</p>
 </div>
 </div>
 </div>
-<div class="col-md-3">
-<div class="skill-item">
-<img src="~/assets/images/icon7.png" alt="Years for Company" width="65" height="65">
-<div class="skill-info">
-<h2><span class="emizentech-counter">50</span>%</h2>
-<h4>Senior and Expert Staff</h4>
 </div>
 </div>
 </div>
 </div>
+</section>
+
+<section class="emizentech-magento">
+<div class="container">
+<div class="row">
+<div class="col-lg-4">
+<div class="magento-image">
+<img src="~/assets/images/magento-img.png" alt="Magento">
+<div class="magento-image-info">
+<h2>Hire Expert Python Developers <span>&amp; Avail the Best Python Development Services</span></h2>
+<a href="enqiry.html" class="emizentech-btn emizentech-white-btn"><img src="~/assets/images/red-btn-icon.png" alt="Btn Icon"> Talk to Consultant</a>
+</div>
+</div>
+</div>
+<div class="col-lg-8">
+<div class="magento-wrap">
+<div class="row">
+<div class="col-md-4 col-sm-6">
+<div class="magento-item">
+<div class="emizentech-icon"><img src="~/assets/images/magento-shopping.png" alt="magento-shopping"></div>
+<h5>Python Web Development</h5>
+<p>We hold years of experience and are proficients and experts in Python development services through which we develop stable, reliable, speedy, and secure web development solutions.</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6">
+<div class="magento-item">
+<div class="emizentech-icon"><img src="~/assets/images/magento-extension.png" alt="magento-Extension"></div>
+<h5>Python Back-End App Development</h5>
+<p>Python developers at our company develop compatible and powerful back-end apps that ensure seamless performance to the end-user.</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6">
+<div class="magento-item">
+<div class="emizentech-icon"><img src="~/assets/images/magento-speed.png" alt="magento-Speed"></div>
+<h5>Python CMS Development</h5>
+<p>Being a top Python development firm, we are adept at developing scalable CMS.</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6">
+<div class="magento-item">
+<div class="emizentech-icon"><img src="~/assets/images/magento-theme.png" alt="magento-Theme"></div>
+<h5>Desktop App Development</h5>
+<p>Our Python development team uses advanced technologies to develop desktop apps.</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6">
+<div class="magento-item">
+<div class="emizentech-icon"><img src="~/assets/images/magento-migration.png" alt="magento-Migration"></div>
+<h5>Python Gaming Solution</h5>
+<p>We hold an extensive experience in crafting Python gaming solutions at the best price and less time.</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6">
+<div class="magento-item">
+<div class="emizentech-icon"><img src="~/assets/images/magento-integration.png" alt="magento-Integration"></div>
+<h5>Python Migration Solutions</h5>
+<p>We permit the business of our clients to grow and meet the grounds above the comfort level and showcase it to limitless opportunities.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="emizentech-cloud cloud-spacer-two cloud-style-four">
+<div class="container">
+<div class="cloud-item">
+<div class="row align-items-center">
+<div class="col-lg-5">
+<div class="emizentech-image"><img src="~/assets/images/icon138.png" alt="3dcart Integration"></div>
+</div>
+<div class="col-lg-7">
+<div class="cloud-info">
+<h3><span>Our Python </span>Developer Skill Set</h3>
+<p>We are a renowned Python development company holding a team of proficient Python developers who are experts at their work and perform hard to fulfill the needed business goals of our clients. They hold the below skillset:</p>
+<div class="row">
+<div class="col-md-6">
+<ul class="bullet-list">
+<li>Proficiency in Core Python</li>
+<li>Good Knowledge of Multi-Process Architecture</li>
+<li>Sound Understanding of Web Frameworks</li>
+<li>Analytical, Design, and Communication Skills</li>
+</ul>
+</div>
+<div class="col-md-6">
+<ul class="bullet-list">
+<li>Knowledge of User Authorization and Authentication</li>
+<li>Good Debugging and Unit Test Skills</li>
+<li>Python Event-Driven programming</li>
+<li>Knowledge of Server-Side Templating Language</li>
+</ul>
+</div>
+</div>
+<a href="enqiry.html" class="emizentech-btn"><span class="sprites-image"></span> Talk to Consultant</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="emizentech-hire">
+<div class="container">
+<div class="section-title">
+<h2><span>Hire Certified</span> Python Developer</h2>
+<p>We hold a team of skillful Python developers who work hard to meet the business requirements of our clients.</p>
+</div>
+<div class="hire-wrap">
+<div class="owl-carousel owl-loaded owl-drag" data-items="3" data-margin="100" data-items-tablet="2" data-items-mobile-landscape="2" data-loop="true" data-nav="true" data-dots="false" data-autoplay="true">
+
+
+
+
+<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1245px, 0px, 0px); transition: all 0.6s ease 0s; width: 3320px;"><div class="owl-item cloned" style="width: 315px; margin-right: 100px;"><div class="item">
+<div class="hire-item">
+<div class="emizentech-image"><img src="~/assets/images/python-developer1.png" alt="Hire"></div>
+<div class="hire-info">
+<div class="hire-name">
+<h4>Dikhsha <br> Jain</h4>
+<h4>Python <br> Developer</h4>
+</div>
+<p>She is among the top Python developers of Emizentech, who is picked repeatedly by our clients to resolve their project relevant issues.</p>
+<div class="hire-meta">
+<span>Python</span>
+<span>SQL</span>
+<span>AI</span>
+<span>ML</span>
+<span>Data Science</span>
+<span>NPL</span>
+<span>API</span>
+<span>DB</span>
+</div>
+<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 315px; margin-right: 100px;"><div class="item">
+<div class="hire-item">
+<div class="emizentech-image"><img src="~/assets/images/python-developer1.png" alt="Hire"></div>
+<div class="hire-info">
+<div class="hire-name">
+<h4>Suman <br> Vyas</h4>
+<h4>Python <br> Developer</h4>
+</div>
+<p>He has 7 years of experience being an expert developer of Python projects who analyze the business needs and then work hard to meet all.</p>
+<div class="hire-meta">
+<span>Python</span>
+<span>SQL</span>
+<span>AI</span>
+<span>ML</span>
+<span>Data Science</span>
+<span>NPL</span>
+<span>API</span>
+<span>DB</span>
+</div>
+<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
+</div>
+</div>
+</div></div><div class="owl-item" style="width: 315px; margin-right: 100px;"><div class="item">
+<div class="hire-item">
+<div class="emizentech-image"><img src="~/assets/images/python-developer1.png" alt="Hire"></div>
+<div class="hire-info">
+<div class="hire-name">
+<h4>Aditi Kalra</h4>
+<h4>Python <br> Developer</h4>
+</div>
+<p>She is the most hard-working Python developer at Emizentech, who strives to fulfill all the business needs to make it run correctly.</p>
+<div class="hire-meta">
+<span>Python</span>
+<span>SQL</span>
+<span>AI</span>
+<span>ML</span>
+<span>Data Science</span>
+<span>NPL</span>
+<span>API</span>
+<span>DB</span>
+</div>
+<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
+</div>
+</div>
+</div></div><div class="owl-item active" style="width: 315px; margin-right: 100px;"><div class="item">
+<div class="hire-item">
+<div class="emizentech-image"><img src="~/assets/images/python-developer1.png" alt="Hire"></div>
+<div class="hire-info">
+<div class="hire-name">
+<h4>Suman <br> Vyas</h4>
+<h4>Python <br> Developer</h4>
+</div>
+<p>He has 7 years of experience being an expert developer of Python projects who analyze the business needs and then work hard to meet all.</p>
+<div class="hire-meta">
+<span>Python</span>
+<span>SQL</span>
+<span>AI</span>
+<span>ML</span>
+<span>Data Science</span>
+<span>NPL</span>
+<span>API</span>
+<span>DB</span>
+</div>
+<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
+</div>
+</div>
+</div></div><div class="owl-item active" style="width: 315px; margin-right: 100px;"><div class="item">
+<div class="hire-item">
+<div class="emizentech-image"><img src="~/assets/images/python-developer1.png" alt="Hire"></div>
+<div class="hire-info">
+<div class="hire-name">
+<h4>Dikhsha <br> Jain</h4>
+<h4>Python <br> Developer</h4>
+</div>
+<p>She is among the top Python developers of Emizentech, who is picked repeatedly by our clients to resolve their project relevant issues.</p>
+<div class="hire-meta">
+<span>Python</span>
+<span>SQL</span>
+<span>AI</span>
+<span>ML</span>
+<span>Data Science</span>
+<span>NPL</span>
+<span>API</span>
+<span>DB</span>
+</div>
+<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
+</div>
+</div>
+</div></div><div class="owl-item" style="width: 315px; margin-right: 100px;"><div class="item">
+<div class="hire-item">
+<div class="emizentech-image"><img src="~/assets/images/python-developer1.png" alt="Hire"></div>
+<div class="hire-info">
+<div class="hire-name">
+<h4>Suman <br> Vyas</h4>
+<h4>Python <br> Developer</h4>
+</div>
+<p>He has 7 years of experience being an expert developer of Python projects who analyze the business needs and then work hard to meet all.</p>
+<div class="hire-meta">
+<span>Python</span>
+<span>SQL</span>
+<span>AI</span>
+<span>ML</span>
+<span>Data Science</span>
+<span>NPL</span>
+<span>API</span>
+<span>DB</span>
+</div>
+<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 315px; margin-right: 100px;"><div class="item">
+<div class="hire-item">
+<div class="emizentech-image"><img src="~/assets/images/python-developer1.png" alt="Hire"></div>
+<div class="hire-info">
+<div class="hire-name">
+<h4>Aditi Kalra</h4>
+<h4>Python <br> Developer</h4>
+</div>
+<p>She is the most hard-working Python developer at Emizentech, who strives to fulfill all the business needs to make it run correctly.</p>
+<div class="hire-meta">
+<span>Python</span>
+<span>SQL</span>
+<span>AI</span>
+<span>ML</span>
+<span>Data Science</span>
+<span>NPL</span>
+<span>API</span>
+<span>DB</span>
+</div>
+<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 315px; margin-right: 100px;"><div class="item">
+<div class="hire-item">
+<div class="emizentech-image"><img src="~/assets/images/python-developer1.png" alt="Hire"></div>
+<div class="hire-info">
+<div class="hire-name">
+<h4>Suman <br> Vyas</h4>
+<h4>Python <br> Developer</h4>
+</div>
+<p>He has 7 years of experience being an expert developer of Python projects who analyze the business needs and then work hard to meet all.</p>
+<div class="hire-meta">
+<span>Python</span>
+<span>SQL</span>
+<span>AI</span>
+<span>ML</span>
+<span>Data Science</span>
+<span>NPL</span>
+<span>API</span>
+<span>DB</span>
+</div>
+<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
+</div>
+</div>
+</div></div></div></div><div class="owl-nav"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">0</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
 </div>
 </div>
 </section>
@@ -1604,102 +2011,20 @@ Hire ReactJS Developer
 <section class="emizentech-api api-spacer-two">
 <div class="container">
 <div class="section-title">
-<h2><span>Benefits of digital</span> transformation for a Travel &amp; Hospitality business.</h2>
-<p>Define your brand through quality experiences all across an extension of touch-points.</p>
+<h2><span>Benefits of Hiring</span> Certified Python Developers</h2>
+<p>There are various benefits of hiring dedicated Python developers; let’s check out a few.</p>
 </div>
 <div class="row">
-<div class="col-md-4">
-<h3><span>S</span>peed up your process, magnetize the potential customers, and improve your sales by allowing our exceptional industry experts.</h3>
+<div class="col-lg-4">
+<h3><span>W</span>e Develop Technology-Rich Apps &amp; Make Your Business Grow Smoothly.</h3>
 </div>
-<div class="col-md-8">
+<div class="col-lg-8">
 <div class="api-info">
-<h4>Reputation Management</h4>
-<p>Providing the right information to your customers about your business is very vital. Our team uses search engine marketing and social media marketing techniques to positively influence the opinion of customers about your business, which helps in gaining customers and ultimately more earnings.</p>
-<h4>Better Customer Service</h4>
-<p>Having a website will help you cater your services to your target audience round the clock. So, your potential customers can reach out to you directly through your website anytime. Quality customer service will lead to customer satisfaction, which will help in building trust and credibility.</p>
-<h4>Cost Efficient Marketing</h4>
-<p>Gone are the days when you needed a brick and mortar establishment to sell your products and services. With a well-designed website, you can increase the customer reach, market your services, and beat the competitors without spending a fortune.</p>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-<section class="emizentech-estate">
-<div class="container">
-<div class="section-title">
-<h2><span>Harness the potential </span> of IT solutions to craft, manage, and improve travel business processes.</h2>
-<p>We employ the technology to attain customer satisfaction and enhance their experience through digital platform implementation that propagates product and service advancement.</p>
-</div>
-<div class="row">
-<div class="col-md-6">
-<div class="estate-item">
-<h3>Bookings Engines Development</h3>
-</div>
-</div>
-<div class="col-md-6">
-<div class="estate-item">
-<h3>GDS Integration Solutions</h3>
-</div>
-</div>
-<div class="col-md-6">
-<div class="estate-item">
-<h3>OTA Websites Development</h3>
-</div>
-</div>
-<div class="col-md-6">
-<div class="estate-item">
-<h3>OTA Websites Development</h3>
-</div>
-</div>
-<div class="col-md-6">
-<div class="estate-item">
-<h3>PMS Software Development</h3>
-</div>
-</div>
-<div class="col-md-6">
-<div class="estate-item">
-<h3>Hotel Booking Software</h3>
-</div>
-</div>
-<div class="col-md-6">
-<div class="estate-item">
-<h3>Airbnb Integration</h3>
-</div>
-</div>
-<div class="col-md-6">
-<div class="estate-item">
-<h3>Hotel &amp; Restaurant POS</h3>
-</div>
-</div>
-<div class="col-md-6">
-<div class="estate-item">
-<h3>Vacation Rental Software</h3>
-</div>
-</div>
-<div class="col-md-6">
-<div class="estate-item">
-<h3>Restaurant/Hotel Search Portal</h3>
-</div>
-</div>
-<div class="col-md-6">
-<div class="estate-item">
-<h3>Restaurant/Mobile Mobile Apps</h3>
-</div>
-</div>
-<div class="col-md-6">
-<div class="estate-item">
-<h3>Restaurant Management Software</h3>
-</div>
-</div>
-<div class="col-md-6">
-<div class="estate-item">
-<h3>Loyalty Programs Software</h3>
-</div>
-</div>
-<div class="col-md-6">
-<div class="estate-item">
-<h3>Travel portal Solutions</h3>
+<p><strong>24*7 Support</strong> By hiring dedicated Python developers, you are assured round the clock assistance as the developers locate all the problems in no time.</p>
+<p><strong>Flexible Hiring</strong> It permits hiring developers dedicatedly when one doesn't want to pick them for full time. One can relieve them after the completion of the project or can alter the size of the team as per the need.</p>
+<p><strong>100% Client Satisfaction</strong> The client satisfaction is the priority when it comes to hiring dedicated developers.</p>
+<p><strong>Save Money &amp; Time</strong> Hiring dedicated Python programmers proves to be cost-effective as the hiring models go well with SMEs and startups. The clients don't need to purchase a place to hold their team members and will also get their projects complete according to their time limit.</p>
+<p><strong>Best Access to Resources</strong> The clients don't need to invest in advanced resources that they require for only single use as the dedicated developers hold a lot of the latest resources.</p>
 </div>
 </div>
 </div>
@@ -1708,7 +2033,7 @@ Hire ReactJS Developer
 
 <section class="emizentech-studies">
 <div class="swiper-container swiper-container-fade swiper-container-initialized swiper-container-horizontal swiper-container-autoheight">
-<div class="swiper-wrapper" style="transition-duration: 0ms; height: 728px;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="3" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(0px, 0px, 0px);">
+<div class="swiper-wrapper" style="transition-duration: 0ms; height: 844px;"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="3" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(0px, 0px, 0px);">
 <div class="row">
 <div class="col-lg-5 studies-bg-4">
 <div class="studies-info">
@@ -1716,7 +2041,7 @@ Hire ReactJS Developer
 <div class="emizentech-align-wrap bottom">
 <div class="rebellious-logo"><img src="~/assets/images/rebellious-logo.png" alt="Rebellious" width="282" height="62"></div>
 <div class="studies-info-wrap">
-<h2>Rebellious</h2>
+ <h2>Rebellious</h2>
 <p>Holding 20 years of experience in the fashion industry, Rebellious fashion prides itself on availing the latest and in-demand trends at best prices.</p>
 </div>
 </div>
@@ -1737,7 +2062,7 @@ Hire ReactJS Developer
 </div>
 </div>
 </div>
-<div class="swiper-slide swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(-801px, 0px, 0px);">
+<div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="0" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(-801px, 0px, 0px);">
 <div class="row">
 <div class="col-lg-5 studies-bg-1">
 <div class="studies-info">
@@ -1766,7 +2091,7 @@ Hire ReactJS Developer
 </div>
 </div>
 </div>
-<div class="swiper-slide" data-swiper-slide-index="1" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(-1602px, 0px, 0px);">
+<div class="swiper-slide swiper-slide-active" data-swiper-slide-index="1" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(-1602px, 0px, 0px);">
 <div class="row">
 <div class="col-lg-5 studies-bg-2">
 <div class="studies-info">
@@ -1795,7 +2120,7 @@ Hire ReactJS Developer
 </div>
 </div>
 </div>
-<div class="swiper-slide" data-swiper-slide-index="2" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(-2403px, 0px, 0px);">
+<div class="swiper-slide swiper-slide-next" data-swiper-slide-index="2" style="width: 801px; transition-duration: 0ms; opacity: 0; transform: translate3d(-2403px, 0px, 0px);">
 <div class="row">
 <div class="col-lg-5 studies-bg-3">
 <div class="studies-info">
@@ -1824,7 +2149,7 @@ Hire ReactJS Developer
 </div>
 </div>
 </div>
-<div class="swiper-slide swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="3" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(-3204px, 0px, 0px);">
+<div class="swiper-slide" data-swiper-slide-index="3" style="width: 801px; transition-duration: 0ms; opacity: 0; transform: translate3d(-3204px, 0px, 0px);">
 <div class="row">
 <div class="col-lg-5 studies-bg-4">
 <div class="studies-info">
@@ -1832,7 +2157,7 @@ Hire ReactJS Developer
 <div class="emizentech-align-wrap bottom">
 <div class="rebellious-logo"><img src="~/assets/images/rebellious-logo.png" alt="Rebellious" width="282" height="62"></div>
 <div class="studies-info-wrap">
-<h2>Rebellious</h2>
+ <h2>Rebellious</h2>
 <p>Holding 20 years of experience in the fashion industry, Rebellious fashion prides itself on availing the latest and in-demand trends at best prices.</p>
 </div>
 </div>
@@ -1853,7 +2178,7 @@ Hire ReactJS Developer
 </div>
 </div>
 </div>
-<div class="swiper-slide swiper-slide-duplicate swiper-slide-active" data-swiper-slide-index="0" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(-4005px, 0px, 0px);">
+<div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0" style="width: 801px; transition-duration: 0ms; opacity: 0; transform: translate3d(-4005px, 0px, 0px);">
 <div class="row">
 <div class="col-lg-5 studies-bg-1">
 <div class="studies-info">
@@ -1888,8 +2213,8 @@ Hire ReactJS Developer
 <section class="emizentech-services services-style-two" id="skip-section">
 <div class="container">
 <div class="section-title">
-<h2><span>Why Emizentech</span> for Travel &amp; Hospitality Software Development Solutions.</h2>
-<p>We constantly thrive to enhance operational efficiencies of the travel and hospitality industry by developing environments.</p>
+<h2><span>Why Hire Python</span> Developer from Emizentech</h2>
+<p>Our team of expert Python developers develop customized web and desktop apps in Django, Python, and other frameworks.</p>
 </div>
 <div class="row justify-content-center">
 <div class="service-item">
@@ -1897,7 +2222,7 @@ Hire ReactJS Developer
 <h4>Rapid Delivery</h4>
 </div>
 <div class="service-item">
-<img src="~/assets/images/icon88.png" alt="Shopify">
+<img src="~/assets/images/icon88.png" alt="3dCart">
 <h4>Proficient and <br> Skilled Developers</h4>
 </div>
 <div class="service-item">
@@ -1926,7 +2251,7 @@ Hire ReactJS Developer
 </div>
 <div class="service-item">
 <img src="~/assets/images/icon95.png" alt="Magento">
-<h4>The Best <br> Opencart Developer</h4>
+<h4>The Best <br> Python Developer</h4>
 </div>
 <div class="service-item">
 <img src="~/assets/images/icon96.png" alt="Magento">
@@ -1940,158 +2265,11 @@ Hire ReactJS Developer
 </div>
 </section>
 
-<section class="emizentech-industries industries-spacer-two">
-<div class="container">
-<div class="row">
-<div class="col-md-6">
-<h3 data-aos="zoom-in" class="aos-init aos-animate">Serving Diverse</h3>
-<h2 data-aos="zoom-in" class="aos-init aos-animate">Industries</h2>
-</div>
-<div class="col-md-6">
-<div class="owl-carousel owl-loaded owl-drag" data-items="5" data-margin="30" data-auto-width="true" data-loop="true" data-nav="true" data-dots="false" data-autoplay="true">
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1085px, 0px, 0px); transition: all 0.6s ease 0s; width: 3720px;"><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-two">
-<div class="emizentech-image"><img src="~/assets/images/healthcare-icon.png" alt="Healthcare" style="opacity: 1;"></div>
-<h4><a href="healthcare-fitness.html">Healthcare &amp; Fitness</a></h4>
-</div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-three">
-<div class="emizentech-image"><img src="~/assets/images/banking-icon.png" alt="Banking &amp; Finance" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="banking-finance.html">Banking &amp; Finance</a></h4>
-</div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-four">
-<div class="emizentech-image"><img src="~/assets/images/logistics.png" alt="Logistics" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="logistic-transportation.html">Logistics &amp; Transport</a></h4>
-</div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-five">
-<div class="emizentech-image"><img src="~/assets/images/education-icon.png" alt="Education" style="opacity: 1;"></div>
-<h4><a href="ecommerce-retail.html">Education &amp; eLearning</a></h4>
-</div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-six">
-<div class="emizentech-image"><img src="~/assets/images/sports-icon.png" alt="Entertainment" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="gaming-leisure.html">Sports $ Gaming</a></h4>
-</div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-three">
-<div class="emizentech-image"><img src="~/assets/images/ticketing.png" alt="Ticketing" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="events-tickets.html">Ticketing &amp; Event</a></h4>
-</div>
-</div></div><div class="owl-item" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item">
-<div class="emizentech-image"><img src="~/assets/images/icon20.png" alt="eCommerce &amp; Retail" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="ecommerce-retail.html">eCommerce <br> &amp; Retail</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-two">
-<div class="emizentech-image"><img src="~/assets/images/icon21.png" alt="Food" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="food-solution.html">Food &amp; Beverage</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-three">
-<div class="emizentech-image"><img src="~/assets/images/icon22.png" alt="Travel" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="travel-hospitality.html">Travel &amp; Hospitality</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-four">
-<div class="emizentech-image"><img src="~/assets/images/icon23.png" alt="Automotive" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="automotive-industry.html">Automotive Industry</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-five">
-<div class="emizentech-image"><img src="~/assets/images/icon24-1.png" alt="Media" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="media-entertainment.html">Media &amp; Entertainment</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-six">
-<div class="emizentech-image"><img src="~/assets/images/icon25.png" alt="Real Estate" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="realestate-solution.html">Real <br> Estate</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-two">
-<div class="emizentech-image"><img src="~/assets/images/healthcare-icon.png" alt="Healthcare" style="opacity: 1;"></div>
-<h4><a href="healthcare-fitness.html">Healthcare &amp; Fitness</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-three">
-<div class="emizentech-image"><img src="~/assets/images/banking-icon.png" alt="Banking &amp; Finance" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="banking-finance.html">Banking &amp; Finance</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-four">
-<div class="emizentech-image"><img src="~/assets/images/logistics.png" alt="Logistics" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="logistic-transportation.html">Logistics &amp; Transport</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-five">
-<div class="emizentech-image"><img src="~/assets/images/education-icon.png" alt="Education" style="opacity: 1;"></div>
-<h4><a href="ecommerce-retail.html">Education &amp; eLearning</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-six">
-<div class="emizentech-image"><img src="~/assets/images/sports-icon.png" alt="Entertainment" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="gaming-leisure.html">Sports $ Gaming</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-three">
-<div class="emizentech-image"><img src="~/assets/images/ticketing.png" alt="Ticketing" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="events-tickets.html">Ticketing &amp; Event</a></h4>
-</div>
-</div></div><div class="owl-item cloned active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item">
-<div class="emizentech-image"><img src="~/assets/images/icon20.png" alt="eCommerce &amp; Retail" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="ecommerce-retail.html">eCommerce <br> &amp; Retail</a></h4>
-</div>
-</div></div><div class="owl-item cloned active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-two">
-<div class="emizentech-image"><img src="~/assets/images/icon21.png" alt="Food" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="food-solution.html">Food &amp; Beverage</a></h4>
-</div>
-</div></div><div class="owl-item cloned active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-three">
-<div class="emizentech-image"><img src="~/assets/images/icon22.png" alt="Travel" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="travel-hospitality.html">Travel &amp; Hospitality</a></h4>
-</div>
-</div></div><div class="owl-item cloned active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-four">
-<div class="emizentech-image"><img src="~/assets/images/icon23.png" alt="Automotive" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="automotive-industry.html">Automotive Industry</a></h4>
-</div>
-</div></div><div class="owl-item cloned active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-five">
-<div class="emizentech-image"><img src="~/assets/images/icon24-1.png" alt="Media" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="media-entertainment.html">Media &amp; Entertainment</a></h4>
-</div>
-</div></div><div class="owl-item cloned active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-six">
-<div class="emizentech-image"><img src="~/assets/images/icon25.png" alt="Real Estate" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="realestate-solution.html">Real <br> Estate</a></h4>
-</div>
-</div></div></div></div><div class="owl-nav"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">0</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
-</div>
-</div>
-</div>
-</section>
-
 <section class="emizentech-testimonials testimonials-style-two">
 <div class="container">
 <div class="section-title">
-<h2><span>Our performance</span> their words!</h2>
-<p>Come let’s witness their words of appreciation about our work, offerings, and upshots.</p>
+<h2><span>Check out</span> What Our Clients Say</h2>
+<p>Witness the words of appreciation for our work</p>
 </div>
 <div class="testimonials-wrap">
 <div class="owl-carousel owl-loaded owl-drag" data-items="1" data-margin="0" data-loop="true" data-nav="true" data-dots="false" data-autoplay="false">
@@ -2206,7 +2384,7 @@ Hire ReactJS Developer
 <h4>$10,000 <br> to <br> $49,999</h4>
 </div>
 <div class="testimonials-meta-item">
- <img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
+<img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
 <h4>Case Studies</h4>
 </div>
 <div class="testimonials-meta-item">
@@ -2293,7 +2471,7 @@ Hire ReactJS Developer
 </div>
 </div>
 <div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
- <div class="emizentech-image"><img src="~/assets/images/testimonials2.jpg" alt="Haroon Hussain" width="223" height="347"></div>
+<div class="emizentech-image"><img src="~/assets/images/testimonials2.jpg" alt="Haroon Hussain" width="223" height="347"></div>
 </div>
 <div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
 <div class="row">
@@ -2446,7 +2624,7 @@ Hire ReactJS Developer
 <h4>$10,000 <br> to <br> $49,999</h4>
 </div>
 <div class="testimonials-meta-item">
- <img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
+<img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
 <h4>Case Studies</h4>
 </div>
 <div class="testimonials-meta-item">
@@ -2533,7 +2711,7 @@ Hire ReactJS Developer
 </div>
 </div>
 <div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
- <div class="emizentech-image"><img src="~/assets/images/testimonials2.jpg" alt="Haroon Hussain" width="223" height="347"></div>
+<div class="emizentech-image"><img src="~/assets/images/testimonials2.jpg" alt="Haroon Hussain" width="223" height="347"></div>
 </div>
 <div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
 <div class="row">
@@ -2588,36 +2766,37 @@ Hire ReactJS Developer
 <div class="container">
 <div class="section-title">
 <h2><span>FAQs</span></h2>
-<p>Scroll more and know more about the travel and hospitality software development solutions.</p>
+<p>Scroll more to know more about our service, “hire Python developers”.</p>
 </div>
 <div class="faq-wrap">
 <div id="accordion">
 <div class="card">
 <div class="card-header" id="headingOne">
 <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-What is the need for a Digital solution for your travel and hospitality business?
+Why should we hire dedicated Python developers?
 </button>
 </div>
 <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
 <div class="card-body">
-<p>One of the most important commercial business sectors, travel, and hospitality is progressing rapidly. With the launch of top-notch technology in the traveling industry, the experiences of tourism are appearing to be better than ever.</p>
+<p>If you want to accomplish your project at the best price with fast results, then hiring dedicated Python developers would be a perfect choice.</p>
 </div>
 </div>
 </div>
 <div class="card">
 <div class="card-header" id="headingTwo">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-Brief about the travel and hospitality app development workflow of Emizentech?
+Why choose Emizentech to hire Python developers?
 </button>
 </div>
 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
 <div class="card-body">
-<p>We emerge with the methods and draft the proven approaches to render the best travel and hospitality apps while targeting particular business needs. </p>
 <ul class="bullet-list">
-<li>Planning</li>
-<li>Requirement analysis</li>
-<li>Development</li>
-<li>Delivery</li>
+<li>Goal-oriented Performance</li>
+<li>Competitive pricing model</li>
+<li>Certified developers</li>
+<li>Quality Assurance</li>
+<li>Reliable maintenance &amp; support</li>
+<li>Rapid response over query</li>
 </ul>
 </div>
 </div>
@@ -2625,46 +2804,40 @@ Brief about the travel and hospitality app development workflow of Emizentech?
 <div class="card">
 <div class="card-header" id="headingThree">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-Which offering you provide with Travel and Hospitality app development services.
+How can I hire Python developers as per my specifications?
 </button>
 </div>
 <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
 <div class="card-body">
-<ul class="bullet-list">
-<li>Bookings Engines Development</li>
-<li>GDS Integration Solutions</li>
-<li>OTA Websites Development</li>
-<li>PMS Software Development</li>
-<li>Hotel Booking Software</li>
-<li>Airbnb Integration</li>
-<li>Hotel &amp; Restaurant POS</li>
-<li>Vacation Rental Software</li>
-<li>Restaurant/Hotel Search Portal, and more.</li>
-</ul>
+<p>After our team analyzes your business needs, we allocate an expert programmer to our clients to work for them under a well-established IT set-up.</p>
 </div>
 </div>
 </div>
 <div class="card">
 <div class="card-header" id="headingFour">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-Does your company offer custom travel and hospitality app development services?
+What are the benefits of hiring Python development services?
 </button>
 </div>
 <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
 <div class="card-body">
-<p>Emizentech serves the best when it comes to the development of quality apps that render varied requirements, allowing the users to access them hassle-free and from anywhere smoothly. We, at Emizentech, develop travel and hospitality apps that enhance customer engagement and improve your ROI. </p>
+<ul class="bullet-list">
+<li>It saves time and cost.</li>
+<li>Offer hassle-free workflow.</li>
+<li>Provide tech expertise that we need at a single spot. </li>
+</ul>
 </div>
 </div>
 </div>
 <div class="card">
 <div class="card-header" id="headingFive">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-Does Emizentech hold dedicated travel and hospitality application developers?
+Can I hire a developer for a project-based task?
 </button>
 </div>
 <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
 <div class="card-body">
-<p>Emizentech is well-recognized as a top travel and hospitality app development company as we assure to offer the most latest and custom solutions according to the business needs. Our adroit team of developers has been rendering the perfect travel and hospitality app development services for Android, iPhone, and hybrid platforms enhancing your engagement with your customers.</p>
+<p>Yes, of course! You can pick our dedicated developers even as per hourly basis or for completing your project task. Also, we offer flexibility to alter the hire model later on.</p>
 </div>
 </div>
 </div>
@@ -3097,9 +3270,7 @@ Overall client rating is 4.9 out of 250 Clients for Emizentech
 </div>
 </footer>
 
-
-
-<iframe data-product="web_widget" title="No content" tabindex="-1" aria-hidden="true" src="about:blank" style="width: 0px; height: 0px; border: 0px; position: absolute; top: -9999px;"></iframe><div id="gdpr-cookie-message" style="display: block;"><h4>🍪 Accept Cookies &amp; Privacy Policy?</h4><p>We use cookies to improve your web experience. If you continue to browse our website, you acknowledge our use of cookies. For detailed information on how we use cookies, view our... <a href="privacy-policy.html">More information</a></p><div id="gdpr-cookie-types" style="display:none;"><h5>Select which cookies you want to accept</h5><ul><li><input type="checkbox" name="gdpr[]" value="necessary" checked="checked" disabled="disabled"> <label title="These are essential for the website to work correctly.">Essential</label></li><li><input type="checkbox" id="gdpr-cookietype-preferences" name="gdpr[]" value="preferences" data-auto="on"> <label for="gdpr-cookietype-preferences" title="These are cookies that are related to your site preferences, e.g. remembering your username, site colours, etc.">Site Preferences</label></li><li><input type="checkbox" id="gdpr-cookietype-analytics" name="gdpr[]" value="analytics" data-auto="on"> <label for="gdpr-cookietype-analytics" title="Cookies related to site visits, browser types, etc.">Analytics</label></li><li><input type="checkbox" id="gdpr-cookietype-marketing" name="gdpr[]" value="marketing" data-auto="on"> <label for="gdpr-cookietype-marketing" title="Cookies related to marketing, e.g. newsletters, social media, etc">Marketing</label></li></ul></div><p><button id="gdpr-cookie-accept" type="button">Accept Cookies</button><button id="gdpr-cookie-advanced" type="button">Customise Cookies</button></p></div><div><iframe title="Opens a widget where you can chat to one of our agents" id="launcher" tabindex="-1" style="width: 107px; height: 50px; padding: 0px; margin: 10px 20px; position: fixed; bottom: 30px; overflow: visible; opacity: 0; border: 0px; z-index: 999998; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1); transition-property: opacity, top, bottom; top: -9999px; visibility: hidden;"></iframe><iframe title="Find more information here" id="webWidget" tabindex="0" style="width: 374px; max-height: calc(100vh - 32px); height: 572px; position: fixed; opacity: 1; border: 0px; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1); transition-property: opacity, top, bottom; z-index: 999999; right: 0px; bottom: 0px;"></iframe></div><div id="gb-widget-5436" style="bottom: 21px; left: 23px; opacity: 1; transition: opacity 0.5s ease 0s; box-sizing: border-box; direction: ltr; position: fixed !important; z-index: 16000160 !important;"><div><div class="q8c6tt-2 dJvETY"><a href="https://wa.me/442032877992" target="_blank" class="sc-1s18q3d-1 sc-8eqc3y-1 iILOR"><div class="sc-8eqc3y-0 fXBuHm">Let's Chat</div></a><a href="https://wa.me/442032877992" target="_blank" color="#4dc247" id class="q8c6tt-0 jvFDcV"><svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="width: 100%; height: 100%; fill: rgb(255, 255, 255); stroke: none;"><path d="M19.11 17.205c-.372 0-1.088 1.39-1.518 1.39a.63.63 0 0 1-.315-.1c-.802-.402-1.504-.817-2.163-1.447-.545-.516-1.146-1.29-1.46-1.963a.426.426 0 0 1-.073-.215c0-.33.99-.945.99-1.49 0-.143-.73-2.09-.832-2.335-.143-.372-.214-.487-.6-.487-.187 0-.36-.043-.53-.043-.302 0-.53.115-.746.315-.688.645-1.032 1.318-1.06 2.264v.114c-.015.99.472 1.977 1.017 2.78 1.23 1.82 2.506 3.41 4.554 4.34.616.287 2.035.888 2.722.888.817 0 2.15-.515 2.478-1.318.13-.33.244-.73.244-1.088 0-.058 0-.144-.03-.215-.1-.172-2.434-1.39-2.678-1.39zm-2.908 7.593c-1.747 0-3.48-.53-4.942-1.49L7.793 24.41l1.132-3.337a8.955 8.955 0 0 1-1.72-5.272c0-4.955 4.04-8.995 8.997-8.995S25.2 10.845 25.2 15.8c0 4.958-4.04 8.998-8.998 8.998zm0-19.798c-5.96 0-10.8 4.842-10.8 10.8 0 1.964.53 3.898 1.546 5.574L5 27.176l5.974-1.92a10.807 10.807 0 0 0 16.03-9.455c0-5.958-4.842-10.8-10.802-10.8z"/></svg></a></div><a type="link" href="http://getbutton.io/?utm_campaign=multy_widget&amp;utm_medium=widget&amp;utm_source=www.emizentech.com" class="sc-7dvmpp-1 gCdMUP">GetButton</a></div></div>
+<div id="gdpr-cookie-message" style="display: block;"><h4>🍪 Accept Cookies &amp; Privacy Policy?</h4><p>We use cookies to improve your web experience. If you continue to browse our website, you acknowledge our use of cookies. For detailed information on how we use cookies, view our... <a href="privacy-policy.html">More information</a></p><div id="gdpr-cookie-types" style="display:none;"><h5>Select which cookies you want to accept</h5><ul><li><input type="checkbox" name="gdpr[]" value="necessary" checked="checked" disabled="disabled"> <label title="These are essential for the website to work correctly.">Essential</label></li><li><input type="checkbox" id="gdpr-cookietype-preferences" name="gdpr[]" value="preferences" data-auto="on"> <label for="gdpr-cookietype-preferences" title="These are cookies that are related to your site preferences, e.g. remembering your username, site colours, etc.">Site Preferences</label></li><li><input type="checkbox" id="gdpr-cookietype-analytics" name="gdpr[]" value="analytics" data-auto="on"> <label for="gdpr-cookietype-analytics" title="Cookies related to site visits, browser types, etc.">Analytics</label></li><li><input type="checkbox" id="gdpr-cookietype-marketing" name="gdpr[]" value="marketing" data-auto="on"> <label for="gdpr-cookietype-marketing" title="Cookies related to marketing, e.g. newsletters, social media, etc">Marketing</label></li></ul></div><p><button id="gdpr-cookie-accept" type="button">Accept Cookies</button><button id="gdpr-cookie-advanced" type="button">Customise Cookies</button></p></div><iframe data-product="web_widget" title="No content" tabindex="-1" aria-hidden="true" src="about:blank" style="width: 0px; height: 0px; border: 0px; position: absolute; top: -9999px;"></iframe><div><iframe title="Opens a widget where you can chat to one of our agents" id="launcher" tabindex="-1" style="width: 107px; height: 50px; padding: 0px; margin: 10px 20px; position: fixed; bottom: 30px; overflow: visible; opacity: 0; border: 0px; z-index: 999998; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1); transition-property: opacity, top, bottom; top: -9999px; visibility: hidden;"></iframe><iframe title="Find more information here" id="webWidget" tabindex="0" style="width: 374px; max-height: calc(100vh - 32px); height: 572px; position: fixed; opacity: 1; border: 0px; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1); transition-property: opacity, top, bottom; z-index: 999999; right: 0px; bottom: 0px;"></iframe></div><div id="gb-widget-9794" style="bottom: 21px; left: 23px; opacity: 1; transition: opacity 0.5s ease 0s; box-sizing: border-box; direction: ltr; position: fixed !important; z-index: 16000160 !important;"><div><div class="q8c6tt-2 dJvETY"><a href="https://wa.me/442032877992" target="_blank" class="sc-1s18q3d-1 sc-8eqc3y-1 iILOR"><div class="sc-8eqc3y-0 fXBuHm">Let's Chat</div></a><a href="https://wa.me/442032877992" target="_blank" color="#4dc247" id class="q8c6tt-0 jvFDcV"><svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="width: 100%; height: 100%; fill: rgb(255, 255, 255); stroke: none;"><path d="M19.11 17.205c-.372 0-1.088 1.39-1.518 1.39a.63.63 0 0 1-.315-.1c-.802-.402-1.504-.817-2.163-1.447-.545-.516-1.146-1.29-1.46-1.963a.426.426 0 0 1-.073-.215c0-.33.99-.945.99-1.49 0-.143-.73-2.09-.832-2.335-.143-.372-.214-.487-.6-.487-.187 0-.36-.043-.53-.043-.302 0-.53.115-.746.315-.688.645-1.032 1.318-1.06 2.264v.114c-.015.99.472 1.977 1.017 2.78 1.23 1.82 2.506 3.41 4.554 4.34.616.287 2.035.888 2.722.888.817 0 2.15-.515 2.478-1.318.13-.33.244-.73.244-1.088 0-.058 0-.144-.03-.215-.1-.172-2.434-1.39-2.678-1.39zm-2.908 7.593c-1.747 0-3.48-.53-4.942-1.49L7.793 24.41l1.132-3.337a8.955 8.955 0 0 1-1.72-5.272c0-4.955 4.04-8.995 8.997-8.995S25.2 10.845 25.2 15.8c0 4.958-4.04 8.998-8.998 8.998zm0-19.798c-5.96 0-10.8 4.842-10.8 10.8 0 1.964.53 3.898 1.546 5.574L5 27.176l5.974-1.92a10.807 10.807 0 0 0 16.03-9.455c0-5.958-4.842-10.8-10.802-10.8z"/></svg></a></div><a type="link" href="http://getbutton.io/?utm_campaign=multy_widget&amp;utm_medium=widget&amp;utm_source=www.emizentech.com" class="sc-7dvmpp-1 gCdMUP">GetButton</a></div></div>
 </div>
 </template>
 
