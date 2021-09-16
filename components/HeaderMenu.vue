@@ -168,85 +168,85 @@
 </div>
 <div class="col-xl-8">
 <div class="sub-dropdown active" data-nav-id="1">
-<a href="magento-development-services.html" class="dropdown-main-link"><span class="sprites-image"></span>Magento Web Development</a>
+<nuxt-link to="/magneto-services" class="dropdown-main-link"><span class="sprites-image"></span>Magento Web Development</nuxt-link>
 <div class="row">
 <div class="col-xl-6">
 <ul>
 <li>
-<a href="magento-development-services.html">
+<nuxt-link to="/magneto-services" >
 <span class="dropdown-icon"><span class="sprites-image"></span></span>
 Magento Development Services
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-magento-developer.html">
+<nuxt-link to="/magneto-developer" >
 <span class="dropdown-icon hire-magento"><span class="sprites-image"></span></span>
 Hire Magento 2 Certifed Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="magento2-migration.html">
+<nuxt-link to="/magneto-migration" >
 <span class="dropdown-icon magento-migration"><span class="sprites-image"></span></span>
 Magento 2 Migration
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="magento-2-responsive-theme.html">
+<nuxt-link to="/magneto-responsive" >
 <span class="dropdown-icon magento-responsive"><span class="sprites-image"></span></span>
 Magento Responsive Theme
-</a>
+</nuxt-link>
  </li>
 <li>
-<a href="magento-2-payment-module-integration.html">
+<nuxt-link to="/magneto-payment" >
 <span class="dropdown-icon magento-payment"><span class="sprites-image"></span></span>
 Magento Payment Module Services
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="magento-2-performance-optimization.html">
+<nuxt-link to="/magneto-performance" >
 <span class="dropdown-icon magento-performance"><span class="sprites-image"></span></span>
 Magento Performance Optimization
-</a>
+</nuxt-link>
 </li>
 </ul>
 </div>
 <div class="col-xl-6">
 <ul>
 <li>
-<a href="magento-2-api-module-integration.html">
+<nuxt-link to="/magneto-api" >
 <span class="dropdown-icon magento-api"><span class="sprites-image"></span></span>
 Magento API Module Integration
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="magento-2-front-end-development.html">
+<nuxt-link to="/magneto-frontend" >
 <span class="dropdown-icon magento-front"><span class="sprites-image"></span></span>
 Magento Front-End Development
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="magento-2-custom-module-development.html">
+<nuxt-link to="/magneto-custom" >
 <span class="dropdown-icon magento-module"><span class="sprites-image"></span></span>
 Magento Custom Module Creation
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="magento-2-multilingual-store.html">
+<nuxt-link to="/magneto-store" >
 <span class="dropdown-icon magento-store"><span class="sprites-image"></span></span>
 Multilingual Magento Store
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="magento-2-data-migration.html">
+<nuxt-link to="/magneto-data" >
 <span class="dropdown-icon magento-data"><span class="sprites-image"></span></span>
 Magento Data Migration Services
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="magento-commerce-cloud-services.html">
+<nuxt-link to="/magneto-cloud" >
 <span class="dropdown-icon magento-commerce-cloud"><span class="sprites-image"></span></span>
 Magento Commerce Cloud Services
-</a>
+</nuxt-link>
 </li>
 </ul>
 </div>
@@ -1319,16 +1319,16 @@ Hire ReactJS Developer
 <a href="javascript:void(0)">Offerings</a>
 <ul class="mobile-dropdown-nav">
 <li>
-<a href="magento-development-services.html">Magento</a>
+<nuxt-link to="/magneto-services" >Magento</nuxt-link>
 <span class="mobile-dropdown-icon"></span>
 <ul class="mobile-dropdown-sub">
-<li><a href="magento-development-services.html">Magento Development Services</a></li>
-<li><a href="hire-magento-developer.html">Hire Magento 2 Certifed Developer</a></li>
-<li><a href="magento2-migration.html">Magento 2 Migration</a></li>
-<li><a href="magento-2-responsive-theme.html">Magento Responsive Theme</a></li>
-<li><a href="magento-2-payment-module-integration.html">Magento Payment Module Services</a></li>
-<li><a href="magento-2-performance-optimization.html">Magento Performance Optimization</a></li>
-<li><a href="magento-2-api-module-integration.html">Magento API Module Integration</a></li>
+<li><nuxt-link to="/magneto-services" >Magento Development Services</nuxt-link></li>
+<li><nuxt-link to="/magneto-developer" >Hire Magento 2 Certifed Developer</nuxt-link></li>
+<li><nuxt-link to="/magneto-migration" >Magento 2 Migration</nuxt-link></li>
+<li><nuxt-link to="/magneto-responsive" >Magento Responsive Theme</nuxt-link></li>
+<li><nuxt-link to="/magneto-payment" >Magento Payment Module Services</nuxt-link></li>
+<li><nuxt-link to="/magneto-performance" >Magento Performance Optimization</nuxt-link></li>
+<li><nuxt-link to="/magneto-api" >Magento API Module Integration</nuxt-link></li>
 </ul>
 </li>
 <li>
