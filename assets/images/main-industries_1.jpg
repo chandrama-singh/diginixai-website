@@ -49,13 +49,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   gtag('config', 'AW-725944611');
 
 </script>
-<link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
-<link href="assets/css/aos.css" rel="stylesheet" type="text/css" media="all">
-<link href="assets/css/owl.carousel.min.css" rel="stylesheet" type="text/css" media="all">
-<link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
-<link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
-<link href="assets/css/styles.css" rel="stylesheet" type="text/css" media="all">
-<link href="assets/css/responsive.css" rel="stylesheet" type="text/css" media="all">
+<link rel="shortcut icon" href="../favicon_2.ico" type="image/x-icon">
+<link href="../css/aos_2.css" rel="stylesheet" type="text/css" media="all">
+<link href="../css/owl.carousel.min_2.css" rel="stylesheet" type="text/css" media="all">
+<link href="../css/font-awesome.min_2.css" rel="stylesheet" type="text/css" media="all">
+<link href="../css/bootstrap.min_2.css" rel="stylesheet" type="text/css" media="all">
+<link href="../css/styles_2.css" rel="stylesheet" type="text/css" media="all">
+<link href="../css/responsive_2.css" rel="stylesheet" type="text/css" media="all">
 
 <script>
 !function(f,b,e,v,n,t,s)
@@ -76,7 +76,7 @@ fbq('track', 'PageView');
   }, 2000);
 </script>
 
-<script type="text/javascript" src="../js_2"></script><script src="../js/725944611_1.js"></script><style data-styled="active" data-styled-version="5.1.1"></style></head>
+<script type="text/javascript" src="../js_2"></script><script src="../js/725944611_2.js"></script><style data-styled="active" data-styled-version="5.1.1"></style></head>
 <body>
 
 <noscript><iframe src="../ns.html" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -86,7 +86,7 @@ fbq('track', 'PageView');
 <div class="container">
 <div class="row align-items-center">
 <div class="col-md-6 col-7">
-<a href="https://www.emizentech.com/" class="emizentech-logo"><img src="assets/images/emizentech.png" alt="Emizentech" width="630" height="157"></a>
+<a href="https://www.emizentech.com/" class="emizentech-logo"><img src="emizentech_1.png" alt="Emizentech" width="630" height="157"></a>
 </div>
 <div class="col-md-6 col-5 text-right">
 <div class="header-links">
@@ -106,7 +106,7 @@ fbq('track', 'PageView');
 <div class="container">
 <div class="row align-items-center">
 <div class="col-xl-3">
-<a href="https://www.emizentech.com/" class="emizentech-logo"><img src="assets/images/emizentech.png" alt="Emizentech" width="630" height="157"></a>
+<a href="https://www.emizentech.com/" class="emizentech-logo"><img src="emizentech_1.png" alt="Emizentech" width="630" height="157"></a>
 <div class="mobile-close-link"><a href="javascript:void(0)" class="close-icon"><span></span></a></div>
 </div>
 <div class="col-xl-9 text-xl-right">
@@ -163,7 +163,7 @@ fbq('track', 'PageView');
 <div class="col-md-7">
 <div class="medium-dropdown-wrap">
 <div class="medium-dropdown-item">
-<div class="emizentech-icon"><img src="assets/images/clutch.png" alt="clutch" width="90" height="90"></div>
+<div class="emizentech-icon"><img src="clutch_2.png" alt="clutch" width="90" height="90"></div>
 <div class="medium-dropdown-info">
 <h3>Clutch</h3>
 <p>Top Ecommerce Developer</p>
@@ -193,7 +193,7 @@ fbq('track', 'PageView');
 </div>
 </div>
 <div class="medium-dropdown-item">
-<div class="emizentech-icon"><img src="goodfirms_1.png" alt="Goodfirms" width="90" height="90"></div>
+<div class="emizentech-icon"><img src="assets/images/goodfirms.png" alt="Goodfirms" width="90" height="90"></div>
 <div class="medium-dropdown-info">
 <h3>Goodfirms</h3>
 <p>Top eCommerce Developer</p>
@@ -384,7 +384,7 @@ Theme Design &amp; Development
 </div>
 <div class="col-xl-7 text-right">
 <div class="sub-dropdown-link">
-<img src="assets/images/shopify-menu-image.png" alt="Web" width="541" height="313">
+<img src="shopify-menu-image_1.png" alt="Web" width="541" height="313">
 <div class="dropdown-link-info">
 <div class="row align-items-center">
 <div class="col-md-10">
@@ -926,7 +926,7 @@ Graphic &amp; Logo
 </div>
 <div class="col-xl-7 text-right">
 <div class="sub-dropdown-link">
-<img src="assets/images/web-menu.png" alt="Web" width="541" height="313">
+<img src="web-menu_1.png" alt="Web" width="541" height="313">
 <div class="dropdown-link-info">
 <div class="row align-items-center">
 <div class="col-md-10">
@@ -1119,7 +1119,7 @@ Sports $ Gaming
 </div>
 <div class="col-xl-5 text-right">
 <div class="emizentech-image">
-<img src="main-industries_1.jpg" alt="Industries" width="450" height="300">
+<img src="main-industries_2.jpg" alt="Industries" width="450" height="300">
 </div>
 </div>
 </div>
@@ -1268,7 +1268,7 @@ Hire Laravel Developer
 </a>
 </li>
 <li>
-<a href="hire-yii-developers.html">
+ <a href="hire-yii-developers.html">
 <span class="dropdown-icon yii-menu"><span class="sprites-image"></span></span>
 Hire Yii Developer
 </a>
@@ -1359,7 +1359,7 @@ Hire ReactJS Developer
 <div class="menu-header">
 <div class="row align-items-center">
 <div class="col-9">
-<a href="https://www.emizentech.com/" class="emizentech-logo"><img src="assets/images/emizentech.png" alt="Emizentech" width="630" height="157"></a>
+<a href="https://www.emizentech.com/" class="emizentech-logo"><img src="emizentech_1.png" alt="Emizentech" width="630" height="157"></a>
 </div>
 <div class="col-3 text-right">
 <div class="mobile-close-link"><a href="javascript:void(0)" class="close-icon"><span></span></a></div>
@@ -1422,7 +1422,7 @@ Hire ReactJS Developer
 <li><a href="shopify-mobile-app-development.html">Shopify Mobile APP Development</a></li>
 <li><a href="shopify-plus-development-services.html">Shopify Plus Development</a></li>
 <li><a href="shopify-store-development.html">Shopify Store Development</a></li>
-<li><a href="shopify-theme-design-and-development.html">Theme Design &amp; Development</a></li>
+ <li><a href="shopify-theme-design-and-development.html">Theme Design &amp; Development</a></li>
 </ul>
 </li>
 <li>
@@ -1558,7 +1558,7 @@ Hire ReactJS Developer
 <li><a href="healthcare-fitness.html">Healthcare &amp; Fitness</a></li>
 <li><a href="banking-finance.html">Banking &amp; Finance</a></li>
 <li><a href="logistic-transportation.html">Logistics &amp; Transport</a></li>
- <li><a href="education-elearning.html">Education &amp; eLearning</a></li>
+<li><a href="education-elearning.html">Education &amp; eLearning</a></li>
 <li><a href="gaming-leisure.html">Sports $ Gaming</a></li>
 <li><a href="events-tickets.html">Ticketing &amp; Event</a></li>
 </ul>
@@ -1711,7 +1711,7 @@ Hire ReactJS Developer
 </div>
 <div class="item">
 <div class="emizentech-image">
- <a href="https://topwebdevelopmentcompanies.com/in/top-10/app-development/jaipur" target="_blank"><img src="assets/images/client11.png" alt="Client" width="135" height="110"></a>
+<a href="https://topwebdevelopmentcompanies.com/in/top-10/app-development/jaipur" target="_blank"><img src="assets/images/client11.png" alt="Client" width="135" height="110"></a>
 </div>
 </div>
 <div class="item">
@@ -1731,7 +1731,7 @@ Hire ReactJS Developer
 </div>
 <div class="item">
 <div class="emizentech-image">
-<a href="https://www.topdevelopers.co/directory/ecommerce-developers/magento" target="_blank"><img src="client15_1.png" alt="Client" width="110" height="108"></a>
+<a href="https://www.topdevelopers.co/directory/ecommerce-developers/magento" target="_blank"><img src="assets/images/client15.png" alt="Client" width="110" height="108"></a>
 </div>
 </div>
 <div class="item">
@@ -1782,7 +1782,7 @@ Hire ReactJS Developer
 <div class="item">
 <div class="emizentech-image">
 <a href="http://www.trustfirms.com/top-ecommerce-development-companies-usa/" target="_blank"><img src="assets/images/client25.png" alt="Client" width="110" height="110"></a>
- </div>
+</div>
 </div>
 <div class="item">
 <div class="emizentech-image">
@@ -1829,7 +1829,7 @@ Hire ReactJS Developer
 <img src="assets/images/star.png" alt="Star" width="21" height="22">
 Overall client rating is 4.9 out of 250 Clients for Emizentech
 </p>
-<h6>Copyright © 2013 - <script type="text/javascript">document.write(new Date().getFullYear())</script>2021 - Emizentech . All Rights Reserved. <a href="JavaScript:void(0)">Refund Policy</a> | <a href="privacy-policy.html">Privacy Policy</a> <img src="assets/images/protect.png" alt="Protect" width="96" height="16"></h6>
+<h6>Copyright © 2013 - <script type="text/javascript">document.write(new Date().getFullYear())</script>2021 - Emizentech . All Rights Reserved. <a href="JavaScript:void(0)">Refund Policy</a> | <a href="privacy-policy.html">Privacy Policy</a> <img src="protect_1.png" alt="Protect" width="96" height="16"></h6>
 </div>
 <div class="col-lg-4 text-lg-right">
 <div class="emizentech-social">
@@ -1844,15 +1844,15 @@ Overall client rating is 4.9 out of 250 Clients for Emizentech
 </div>
 </footer>
 
-<script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/bootstrap.min.js"></script>
-<script src="assets/js/counterup.min.js"></script>
+<script src="../js/jquery.min_2.js"></script>
+<script src="../js/bootstrap.min_1.js"></script>
+<script src="../js/counterup.min_2.js"></script>
 <script src="assets/js/waypoints.min.js"></script>
-<script src="assets/js/owl.carousel.min.js"></script>
+<script src="../js/owl.carousel.min_2.js"></script>
 <script src="assets/js/isotope.min.js"></script>
-<script src="assets/js/packery.min.js"></script>
-<script src="assets/js/aos.js"></script>
-<script src="assets/js/swiper.min.js"></script>
+<script src="../js/packery.min_2.js"></script>
+<script src="../js/aos_2.js"></script>
+<script src="../js/swiper.min_2.js"></script>
 <script src="../js/jquery.ihavecookies.js"></script>
 <script id="ze-snippet" src="../js/snippet.js"></script>
 <script src="assets/js/scripts.js"></script>
@@ -1881,4 +1881,4 @@ Overall client rating is 4.9 out of 250 Clients for Emizentech
 </script>
 
 
-<iframe data-product="web_widget" title="No content" tabindex="-1" aria-hidden="true" src="about:blank" style="width: 0px; height: 0px; border: 0px; position: absolute; top: -9999px;"></iframe><div><iframe title="Opens a widget where you can chat to one of our agents" id="launcher" tabindex="-1" style="width: 107px; height: 50px; padding: 0px; margin: 10px 20px; position: fixed; bottom: 30px; overflow: visible; opacity: 0; border: 0px; z-index: 999998; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1); transition-property: opacity, top, bottom; top: -9999px; visibility: hidden;"></iframe><iframe title="Find more information here" id="webWidget" tabindex="0" style="width: 374px; max-height: calc(100vh - 32px); height: 572px; position: fixed; opacity: 1; border: 0px; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1); transition-property: opacity, top, bottom; z-index: 999999; right: 0px; bottom: 0px;"></iframe></div><div id="gb-widget-3093" style="bottom: 21px; left: 23px; opacity: 1; transition: opacity 0.5s ease 0s; box-sizing: border-box; direction: ltr; position: fixed !important; z-index: 16000160 !important;"><div><div class="q8c6tt-2 dJvETY"><a href="https://wa.me/442032877992" target="_blank" class="sc-1s18q3d-1 sc-8eqc3y-1 iILOR"><div class="sc-8eqc3y-0 fXBuHm">Let's Chat</div></a><a href="https://wa.me/442032877992" target="_blank" color="#4dc247" id class="q8c6tt-0 jvFDcV"><svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="width: 100%; height: 100%; fill: rgb(255, 255, 255); stroke: none;"><path d="M19.11 17.205c-.372 0-1.088 1.39-1.518 1.39a.63.63 0 0 1-.315-.1c-.802-.402-1.504-.817-2.163-1.447-.545-.516-1.146-1.29-1.46-1.963a.426.426 0 0 1-.073-.215c0-.33.99-.945.99-1.49 0-.143-.73-2.09-.832-2.335-.143-.372-.214-.487-.6-.487-.187 0-.36-.043-.53-.043-.302 0-.53.115-.746.315-.688.645-1.032 1.318-1.06 2.264v.114c-.015.99.472 1.977 1.017 2.78 1.23 1.82 2.506 3.41 4.554 4.34.616.287 2.035.888 2.722.888.817 0 2.15-.515 2.478-1.318.13-.33.244-.73.244-1.088 0-.058 0-.144-.03-.215-.1-.172-2.434-1.39-2.678-1.39zm-2.908 7.593c-1.747 0-3.48-.53-4.942-1.49L7.793 24.41l1.132-3.337a8.955 8.955 0 0 1-1.72-5.272c0-4.955 4.04-8.995 8.997-8.995S25.2 10.845 25.2 15.8c0 4.958-4.04 8.998-8.998 8.998zm0-19.798c-5.96 0-10.8 4.842-10.8 10.8 0 1.964.53 3.898 1.546 5.574L5 27.176l5.974-1.92a10.807 10.807 0 0 0 16.03-9.455c0-5.958-4.842-10.8-10.802-10.8z"/></svg></a></div><a type="link" href="http://getbutton.io/?utm_campaign=multy_widget&amp;utm_medium=widget&amp;utm_source=www.emizentech.com" class="sc-7dvmpp-1 gCdMUP">GetButton</a></div></div></body></html>
+<iframe data-product="web_widget" title="No content" tabindex="-1" aria-hidden="true" src="about:blank" style="width: 0px; height: 0px; border: 0px; position: absolute; top: -9999px;"></iframe><div><iframe title="Opens a widget where you can chat to one of our agents" id="launcher" tabindex="-1" style="width: 107px; height: 50px; padding: 0px; margin: 10px 20px; position: fixed; bottom: 30px; overflow: visible; opacity: 0; border: 0px; z-index: 999998; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1); transition-property: opacity, top, bottom; top: -9999px; visibility: hidden;"></iframe><iframe title="Find more information here" id="webWidget" tabindex="0" style="width: 374px; max-height: calc(100vh - 32px); height: 572px; position: fixed; opacity: 1; border: 0px; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1); transition-property: opacity, top, bottom; z-index: 999999; right: 0px; bottom: 0px;"></iframe></div><div id="gb-widget-5766" style="bottom: 21px; left: 23px; opacity: 1; transition: opacity 0.5s ease 0s; box-sizing: border-box; direction: ltr; position: fixed !important; z-index: 16000160 !important;"><div><div class="q8c6tt-2 dJvETY"><a href="https://wa.me/442032877992" target="_blank" class="sc-1s18q3d-1 sc-8eqc3y-1 iILOR"><div class="sc-8eqc3y-0 fXBuHm">Let's Chat</div></a><a href="https://wa.me/442032877992" target="_blank" color="#4dc247" id class="q8c6tt-0 jvFDcV"><svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="width: 100%; height: 100%; fill: rgb(255, 255, 255); stroke: none;"><path d="M19.11 17.205c-.372 0-1.088 1.39-1.518 1.39a.63.63 0 0 1-.315-.1c-.802-.402-1.504-.817-2.163-1.447-.545-.516-1.146-1.29-1.46-1.963a.426.426 0 0 1-.073-.215c0-.33.99-.945.99-1.49 0-.143-.73-2.09-.832-2.335-.143-.372-.214-.487-.6-.487-.187 0-.36-.043-.53-.043-.302 0-.53.115-.746.315-.688.645-1.032 1.318-1.06 2.264v.114c-.015.99.472 1.977 1.017 2.78 1.23 1.82 2.506 3.41 4.554 4.34.616.287 2.035.888 2.722.888.817 0 2.15-.515 2.478-1.318.13-.33.244-.73.244-1.088 0-.058 0-.144-.03-.215-.1-.172-2.434-1.39-2.678-1.39zm-2.908 7.593c-1.747 0-3.48-.53-4.942-1.49L7.793 24.41l1.132-3.337a8.955 8.955 0 0 1-1.72-5.272c0-4.955 4.04-8.995 8.997-8.995S25.2 10.845 25.2 15.8c0 4.958-4.04 8.998-8.998 8.998zm0-19.798c-5.96 0-10.8 4.842-10.8 10.8 0 1.964.53 3.898 1.546 5.574L5 27.176l5.974-1.92a10.807 10.807 0 0 0 16.03-9.455c0-5.958-4.842-10.8-10.802-10.8z"/></svg></a></div><a type="link" href="http://getbutton.io/?utm_campaign=multy_widget&amp;utm_medium=widget&amp;utm_source=www.emizentech.com" class="sc-7dvmpp-1 gCdMUP">GetButton</a></div></div></body></html>

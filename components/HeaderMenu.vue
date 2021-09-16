@@ -253,51 +253,51 @@ Magento Commerce Cloud Services
 </div>
 </div>
 <div class="sub-dropdown" data-nav-id="8">
-<a href="shopify-development.html" class="dropdown-main-link shopify-link"><span class="sprites-image"></span>Shopify Store Development Services</a>
+<nuxt-link to="/sh-development" class="dropdown-main-link shopify-link"><span class="sprites-image"></span>Shopify Store Development Services</nuxt-link>
 <div class="row align-items-center">
 <div class="col-xl-5">
 <ul>
 <li>
-<a href="shopify-app-development-services.html">
+<nuxt-link to="/sh-app" >
 <span class="dropdown-icon shopify-menu"><span class="sprites-image"></span></span>
 Shopify APP Development
-</a>
+</nuxt-link>
  </li>
 <li>
-<a href="shopify-integration-services.html">
+<nuxt-link to="/sh-integration" >
 <span class="dropdown-icon shopify-menu"><span class="sprites-image"></span></span>
 Shopify Integration Services
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="shopify-migration-services.html">
+<nuxt-link to="/sh-migration" >
 <span class="dropdown-icon shopify-menu"><span class="sprites-image"></span></span>
 Shopify Migration Services
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="shopify-mobile-app-development.html">
+<nuxt-link to="/sh-mobile-app" >
 <span class="dropdown-icon shopify-menu"><span class="sprites-image"></span></span>
 Shopify Mobile APP Development
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="shopify-plus-development-services.html">
+<nuxt-link to="/sh-plus-development" >
 <span class="dropdown-icon shopify-menu"><span class="sprites-image"></span></span>
 Shopify Plus Development
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="shopify-store-development.html">
+<nuxt-link to="/sh-store">
 <span class="dropdown-icon shopify-menu"><span class="sprites-image"></span></span>
 Shopify Store Development
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="shopify-theme-design-and-development.html">
+<nuxt-link to="/sh-design" >
 <span class="dropdown-icon shopify-menu"><span class="sprites-image"></span></span>
 Theme Design &amp; Development
-</a>
+</nuxt-link>
 </li>
 </ul>
 </div>
@@ -311,7 +311,7 @@ Theme Design &amp; Development
 <p>Creative, innovative and visually appealing</p>
 </div>
 <div class="col-md-2">
-<a href="shopify-development.html" class="dropdown-link"><span class="sprites-image"></span></a>
+<nuxt-link to="/sh-development"  class="dropdown-link"><span class="sprites-image"></span></nuxt-link>
 </div>
 </div>
 </div>
@@ -320,45 +320,45 @@ Theme Design &amp; Development
 </div>
 </div>
 <div class="sub-dropdown" data-nav-id="9">
-<a href="shopware-development.html" class="dropdown-main-link shopware-link"><span class="sprites-image"></span>Shopware Store Development Services</a>
+<nuxt-link to="/shop-development"  class="dropdown-main-link shopware-link"><span class="sprites-image"></span>Shopware Store Development Services</nuxt-link>
 <div class="row align-items-center">
 <div class="col-xl-5">
 <ul>
 <li>
-<a href="shopware-integration-services.html">
+<nuxt-link to="/shop-integration" >
 <span class="dropdown-icon shopware-menu"><span class="sprites-image"></span></span>
 Shopware integration services
- </a>
+ </nuxt-link>
 </li>
 <li>
-<a href="shopware-migration-services.html">
+<nuxt-link to="/shop-migration" >
 <span class="dropdown-icon shopware-menu"><span class="sprites-image"></span></span>
 Shopware Migration Services
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="shopware-mobile-app-development.html">
+<nuxt-link to="/shop-app" >
 <span class="dropdown-icon shopware-menu"><span class="sprites-image"></span></span>
 Shopware Mobile App
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="shopware-plugin-development.html">
+<nuxt-link to="/shop-plugin" >
 <span class="dropdown-icon shopware-menu"><span class="sprites-image"></span></span>
 Shopware Plugin Development
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="shopware-theme-design-and-development.html">
+<nuxt-link to="/shop-design" >
 <span class="dropdown-icon shopware-menu"><span class="sprites-image"></span></span>
 Theme Design &amp; Development
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-shopware-developer.html">
+<nuxt-link to="/shop-developer" >
 <span class="dropdown-icon shopware-menu"><span class="sprites-image"></span></span>
 Hire Shopware Developer
-</a>
+</nuxt-link>
 </li>
 </ul>
 </div>
@@ -372,7 +372,7 @@ Hire Shopware Developer
 <p>Creative, innovative and visually appealing</p>
 </div>
 <div class="col-md-2">
-<a href="shopware-development.html" class="dropdown-link"><span class="sprites-image"></span></a>
+<nuxt-link to="/shop-development"  class="dropdown-link"><span class="sprites-image"></span></nuxt-link>
 </div>
 </div>
 </div>
@@ -819,27 +819,27 @@ Vue JS
 </div>
 </div>
 <div class="sub-dropdown" data-nav-id="6">
-<a href="web-design.html" class="dropdown-main-link design-link"><span class="sprites-image"></span>Web Design</a>
+<nuxt-link to="/webdesign"  class="dropdown-main-link design-link"><span class="sprites-image"></span>Web Design</nuxt-link>
 <div class="row align-items-center">
 <div class="col-xl-5">
 <ul>
 <li>
-<a href="web-design.html">
+<nuxt-link to="/webdesign" >
  <span class="dropdown-icon uiux-menu"><span class="sprites-image"></span></span>
 UXUI Solutions
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="web-design.html">
+<nuxt-link to="/webdesign" >
 <span class="dropdown-icon web-design"><span class="sprites-image"></span></span>
 Web Design
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="web-design.html">
+<nuxt-link to="/webdesign" >
 <span class="dropdown-icon graphic-menu"><span class="sprites-image"></span></span>
 Graphic &amp; Logo
-</a>
+</nuxt-link>
 </li>
 </ul>
 </div>
@@ -853,7 +853,7 @@ Graphic &amp; Logo
 <p>Creative, innovative and visually appealing</p>
 </div>
 <div class="col-md-2">
-<a href="web-design.html" class="dropdown-link"><span class="sprites-image"></span></a>
+<nuxt-link to="/webdesign"  class="dropdown-link"><span class="sprites-image"></span></nuxt-link>
 </div>
 </div>
 </div>
@@ -867,40 +867,40 @@ Graphic &amp; Logo
 <div class="col-xl-5">
 <ul>
 <li>
-<a href="outsystems-development-services.html">
+<nuxt-link to="/tr-outsystems" >
 <span class="dropdown-icon outsystems-menu"><span class="sprites-image"></span></span>
 Outsystems Development
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="microsoft-powerapps-development.html">
+<nuxt-link to="/tr-microsoft" >
 <span class="dropdown-icon microsoft-menu"><span class="sprites-image"></span></span>
 Microsoft Powerapps
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="creatio-development-services.html">
+<nuxt-link to="/tr-creatio" >
 <span class="dropdown-icon creatio-menu"><span class="sprites-image"></span></span>
 Creatio Development
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="appian-development-services.html">
+<nuxt-link to="/tr-appian" >
 <span class="dropdown-icon appian-menu"><span class="sprites-image"></span></span>
 Appian Development
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="fantasy-sports-app-development.html">
+<nuxt-link to="/tr-fantasy" >
 <span class="dropdown-icon sports-menu"><span class="sprites-image"></span></span>
  Fantasy Sports
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="emizentech-grocery-app-development.html">
+<nuxt-link to="/tr-grocery" >
 <span class="dropdown-icon food-menu"><span class="sprites-image"></span></span>
 On-Demand Grocery App
-</a>
+</nuxt-link>
 </li>
 </ul>
 </div>
@@ -954,85 +954,85 @@ On-Demand Grocery App
 <a href="javascript:void(0)">Industries</a>
 <div class="dropdown-nav">
 <div class="sub-dropdown">
-<a href="industries.html" class="dropdown-main-link industries-link"><span class="sprites-image"></span>Industry Specific Solutions</a>
+<nuxt-link to="/" href="industries.html" class="dropdown-main-link industries-link"><span class="sprites-image"></span>Industry Specific Solutions</nuxt-link>
 <div class="row">
 <div class="col-xl-4">
 <ul>
 <li>
-<a href="ecommerce-retail.html">
+<nuxt-link to="/ecommerce" >
 <span class="dropdown-icon ecommerce-icon"><span class="sprites-image"></span></span>
 eCommerce &amp; Retail
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="food-solution.html">
+<nuxt-link to="/food" >
 <span class="dropdown-icon food-icon"><span class="sprites-image"></span></span>
 Food &amp; Beverage
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="travel-hospitality.html">
+<nuxt-link to="/travel" >
 <span class="dropdown-icon travel-icon"><span class="sprites-image"></span></span>
 Travel &amp; Hospitality
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="automotive-industry.html">
+<nuxt-link to="/automotive" >
 <span class="dropdown-icon automotive-icon"><span class="sprites-image"></span></span>
 Automotive
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="media-entertainment.html">
+<nuxt-link to="/media" >
 <span class="dropdown-icon media-icon"><span class="sprites-image"></span></span>
 Media &amp; Entertainment
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="events-tickets.html">
+<nuxt-link to="/ticketing" >
 <span class="dropdown-icon ticketing-icon"><span class="sprites-image"></span></span>
 Ticketing &amp; Event
-</a>
+</nuxt-link>
 </li>
 </ul>
 </div>
 <div class="col-xl-3">
 <ul>
 <li>
-<a href="realestate-solution.html">
+<nuxt-link to="/realestate" >
 <span class="dropdown-icon estate-icon"><span class="sprites-image"></span></span>
 Real Estate
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="healthcare-fitness.html">
+<nuxt-link to="/healthcare" >
 <span class="dropdown-icon healthcare-icon"><span class="sprites-image"></span></span>
 Healthcare &amp; Fitness
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="logistic-transportation.html">
+<anuxt-link to="/transport">
 <span class="dropdown-icon logistics-icon"><span class="sprites-image"></span></span>
 Logistics &amp; Transport
-</a>
+</anuxt-link>
 </li>
 <li>
-<a href="education-elearning.html">
+<nuxt-link to="/education" >
 <span class="dropdown-icon education-icon"><span class="sprites-image"></span></span>
 Education &amp; eLearning
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="banking-finance.html">
+<nuxt-link to="/banking" >
 <span class="dropdown-icon banking-icon"><span class="sprites-image"></span></span>
 Banking &amp; Finance
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="gaming-leisure.html">
+<nuxt-link to="/sports" >
 <span class="dropdown-icon sports-icon"><span class="sprites-image"></span></span>
 Sports $ Gaming
-</a>
+</nuxt-link>
 </li>
 </ul>
 </div>
@@ -1053,208 +1053,208 @@ Sports $ Gaming
 <div class="col-xl-3">
 <ul>
 <li>
- <a href="hire-python-developers.html">
+ <nuxt-link to="/python" >
 <span class="dropdown-icon python-menu"><span class="sprites-image"></span></span>
 Hire Python Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-php-developers.html">
+<nuxt-link to="/php">
 <span class="dropdown-icon php-menu"><span class="sprites-image"></span></span>
 Hire PHP Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-asp.net-developers.html">
+<nuxt-link to="/net" >
 <span class="dropdown-icon asp-menu"><span class="sprites-image"></span></span>
 Hire .NET Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-ruby-on-rails-developers.html">
+<nuxt-link to="/ruby" >
 <span class="dropdown-icon ruby-menu"><span class="sprites-image"></span></span>
 Hire ROR Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-java-developers.html">
+<nuxt-link to="/java" >
 <span class="dropdown-icon java-menu"><span class="sprites-image"></span></span>
 Hire JAVA Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-full-stack-developers.html">
+<nuxt-link to="/fullstack" >
 <span class="dropdown-icon fullstack-menu"><span class="sprites-image"></span></span>
 Hire FullStack Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-hybrid-developers.html">
+<nuxt-link to="/hybrid" >
 <span class="dropdown-icon hybrid-app"><span class="sprites-image"></span></span>
 Hire Hybrid Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-bigcart-developers.html">
+<nuxt-link to="/bigcart" >
 <span class="dropdown-icon bigcart-menu"><span class="sprites-image"></span></span>
 Hire Bigcart Developers
-</a>
+</nuxt-link>
 </li>
 </ul>
 </div>
 <div class="col-xl-3">
 <ul>
 <li>
-<a href="hire-iphone-app-developers.html">
+<nuxt-link to="/ios" >
 <span class="dropdown-icon iphone-app"><span class="sprites-image"></span></span>
 Hire iOS Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-android-app-developers.html">
+<nuxt-link to="/android" >
 <span class="dropdown-icon android-app"><span class="sprites-image"></span></span>
 Hire Android Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-ionic-app-developers.html">
+<nuxt-link to="/app" >
 <span class="dropdown-icon ionic-app"><span class="sprites-image"></span></span>
 Hire Ionic App Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-xamarin-app-developers.html">
+<nuxt-link to="/xamarin" >
 <span class="dropdown-icon xamarin-app"><span class="sprites-image"></span></span>
 Hire Xamarin Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-react-native-developers.html">
+<nuxt-link to="/react" >
 <span class="dropdown-icon react-native2"><span class="sprites-image"></span></span>
 Hire React Native Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-phonegap-developers.html">
+<nuxt-link to="/phonegap" >
 <span class="dropdown-icon phonegap-app"><span class="sprites-image"></span></span>
 Hire PhoneGap Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-cakephp-developers.html">
+<nuxt-link to="/cakephp" >
 <span class="dropdown-icon cakephp-menu"><span class="sprites-image"></span></span>
 Hire Cakephp Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-woocommerce-developers.html">
+<nuxt-link to="/woocommerce">
 <span class="dropdown-icon woocommerce-menu"><span class="sprites-image"></span></span>
 Woocommerce Developers
-</a>
+</nuxt-link>
 </li>
 </ul>
 </div>
 <div class="col-xl-3">
 <ul>
 <li>
-<a href="hire-wordpress-developers.html">
+<nuxt-link to="/wordpress" >
 <span class="dropdown-icon wordpress-menu"><span class="sprites-image"></span></span>
 Hire Wordpress Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-drupal-developers.html">
+<nuxt-link to="/drupal" >
 <span class="dropdown-icon drupal-menu"><span class="sprites-image"></span></span>
 Hire Drupal Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-joomla-developers.html">
+<nuxt-link to="/joomla" >
 <span class="dropdown-icon joomla-menu"><span class="sprites-image"></span></span>
 Hire Joomla Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-codeIgniter-developers.html">
+<nuxt-link to="/Codeigniter" >
 <span class="dropdown-icon codeigniter-menu"><span class="sprites-image"></span></span>
 Hire Codeigniter Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-laravel-developers.html">
+<nuxt-link to="/laravel" >
 <span class="dropdown-icon laravel-menu"><span class="sprites-image"></span></span>
 Hire Laravel Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-yii-developers.html">
+<nuxt-link to="/yii" >
 <span class="dropdown-icon yii-menu"><span class="sprites-image"></span></span>
 Hire Yii Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-opencart-developer.html">
+<nuxt-link to="/opencart" >
 <span class="dropdown-icon opencart-menu"><span class="sprites-image"></span></span>
 Hire Open Cart Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-shopify-developer.html">
+<nuxt-link to="/shopify" >
 <span class="dropdown-icon shopify-menu"><span class="sprites-image"></span></span>
  Hire Shopify Developer
-</a>
+</nuxt-link>
 </li>
 </ul>
 </div>
 <div class="col-xl-3">
 <ul>
 <li>
-<a href="hire-prestashop-developers.html">
+<nuxt-link to="/prestashop" >
 <span class="dropdown-icon prestashop-menu"><span class="sprites-image"></span></span>
 Hire Prestashop Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-magento-developer.html">
+<nuxt-link to="/magento" >
 <span class="dropdown-icon magento-menu"><span class="sprites-image"></span></span>
 Hire Magento Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-bigcommerce-developers.html">
+<nuxt-link to="/bigcommerce" >
 <span class="dropdown-icon bigcommerce-menu"><span class="sprites-image"></span></span>
 BigCommerce Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-oscommerce-developers.html">
+<nuxt-link to="/oscommerce" >
 <span class="dropdown-icon oscommerce-menu"><span class="sprites-image"></span></span>
 OsCommerce Developers
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-salesforce-developer.html">
+<nuxt-link to="/salesforce" >
 <span class="dropdown-icon salesforce-force"><span class="sprites-image"></span></span>
 Hire Salesforce Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-angularjs-developers.html">
+<nuxt-link to="/angularjs" >
 <span class="dropdown-icon angular-menu"><span class="sprites-image"></span></span>
 Hire Angularjs Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-nodejs-developers.html">
+<nuxt-link to="/nodejs" >
 <span class="dropdown-icon node-menu"><span class="sprites-image"></span></span>
 Hire NodeJs Developer
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hire-reactjs-developers.html">
+<nuxt-link to="/reactjs" >
 <span class="dropdown-icon react-menu"><span class="sprites-image"></span></span>
 Hire ReactJS Developer
-</a>
+</nuxt-link>
 </li>
 </ul>
 </div>
@@ -1262,8 +1262,8 @@ Hire ReactJS Developer
 </div>
 </div>
 </li>
-<li><a href="portfolio.html">Portfolio</a></li>
-<li><a href="case-studies.html">Case Studies</a></li>
+<li><nuxt-link to="/portfolio" >Portfolio</nuxt-link></li>
+<li><nuxt-link to="/casestudies" >Case Studies</nuxt-link></li>
 <li><a href="https://www.emizentech.com/blog/">Blog</a></li>
 </ul>
 </nav>
@@ -1335,25 +1335,25 @@ Hire ReactJS Developer
 <a href="shopify-development.html">Shopify Development</a>
 <span class="mobile-dropdown-icon"></span>
 <ul class="mobile-dropdown-sub">
-<li><a href="shopify-app-development-services.html">Shopify APP Development</a></li>
-<li><a href="shopify-integration-services.html">Shopify Integration Services</a></li>
-<li><a href="shopify-migration-services.html">Shopify Migration Services</a></li>
-<li><a href="shopify-mobile-app-development.html">Shopify Mobile APP Development</a></li>
-<li><a href="shopify-plus-development-services.html">Shopify Plus Development</a></li>
-<li><a href="shopify-store-development.html">Shopify Store Development</a></li>
-<li><a href="shopify-theme-design-and-development.html">Theme Design &amp; Development</a></li>
+<li><nuxt-link to="/sh-app" >Shopify APP Development</nuxt-link></li>
+<li><nuxt-link to="/sh-integration" >Shopify Integration Services</nuxt-link></li>
+<li><nuxt-link to="/sh-migration" >Shopify Migration Services</nuxt-link></li>
+<li><nuxt-link to="/sh-mobile-app" >Shopify Mobile APP Development</nuxt-link></li>
+<li><nuxt-link to="/sh-plus-development" >Shopify Plus Development</nuxt-link></li>
+<li><nuxt-link to="/sh-store" >Shopify Store Development</nuxt-link></li>
+<li><nuxt-link to="/sh-design" >Theme Design &amp; Development</nuxt-link></li>
 </ul>
 </li>
 <li>
 <a href="shopware-development.html">Shopware Development</a>
 <span class="mobile-dropdown-icon"></span>
 <ul class="mobile-dropdown-sub">
-<li><a href="shopware-integration-services.html">Shopware integration services</a></li>
-<li><a href="shopware-migration-services.html">Shopware Migration Services</a></li>
-<li><a href="shopware-mobile-app-development.html">Shopware Mobile App</a></li>
-<li><a href="shopware-plugin-development.html">Shopware Plugin Development</a></li>
-<li><a href="shopware-theme-design-and-development.html">Theme Design &amp; Development</a></li>
-<li><a href="hire-shopware-developer.html">Hire Shopware Developer</a></li>
+<li><nuxt-link to="/shop-integration" >Shopware integration services</nuxt-link></li>
+<li><nuxt-link to="/shopmigration">Shopware Migration Services</nuxt-link></li>
+<li><nuxt-link to="/shop-app" >Shopware Mobile App</nuxt-link></li>
+<li><nuxt-link to="/shop-plugin" >Shopware Plugin Development</nuxt-link></li>
+<li><nuxt-link to="/shop-design" >Theme Design &amp; Development</nuxt-link></li>
+<li><nuxt-link to="/shop-development" >Hire Shopware Developer</nuxt-link></li>
 </ul>
 </li>
 <li>
@@ -1422,45 +1422,45 @@ Hire ReactJS Developer
 <a href="web-development.html">Web Development</a>
 <span class="mobile-dropdown-icon"></span>
 <ul class="mobile-dropdown-sub">
-<li><a href="php-development.html">Php</a></li>
-<li><a href="asp-net-development.html">Asp.Net</a></li>
-<li><a href="python-development-services.html">Python</a></li>
-<li><a href="ruby-on-rails.html">Ruby</a></li>
-<li><a href="java-development.html">Java</a></li>
-<li><a href="drupal-development.html">Drupal</a></li>
-<li><a href="joomla-development.html">Joomla</a></li>
-<li><a href="wordpress-development.html">Wordpress</a></li>
-<li><a href="laravel-development.html">Laravel</a></li>
-<li><a href="cakephp-development.html">Cakephp</a></li>
-<li><a href="yii-development.html">Yii</a></li>
-<li><a href="symfony-development.html">Symfony</a></li>
-<li><a href="zend-development.html">Zend</a></li>
-<li><a href="codeigniter-development.html">Codeigniter</a></li>
-<li><a href="angularjs-development.html">Angular JS</a></li>
-<li><a href="reactjs-development.html">React JS</a></li>
-<li><a href="nodejs-development.html">Node JS</a></li>
-<li><a href="vuejs-development.html">Vue JS</a></li>
+<li><nuxt-link to="/web-php" >Php</nuxt-link></li>
+<li><nuxt-link to="/web-aspnet" >Asp.Net</nuxt-link></li>
+<li><nuxt-link to="/web-python" >Python</nuxt-link></li>
+<li><nuxt-link to="/web-ruby" >Ruby</nuxt-link></li>
+<li><nuxt-link to="/web-java" >Java</nuxt-link></li>
+<li><nuxt-link to="/web-drupal" >Drupal</nuxt-link></li>
+<li><nuxt-link to="/web-joomla" >Joomla</nuxt-link></li>
+<li><nuxt-link to="/web-wordpress" >Wordpress</nuxt-link></li>
+<li><nuxt-link to="/web-laravel" >Laravel</nuxt-link></li>
+<li><nuxt-link to="/web-cakephp" >Cakephp</nuxt-link></li>
+<li><nuxt-link to="/web-yii" >Yii</nuxt-link></li>
+<li><nuxt-link to="/web-symfony" >Symfony</nuxt-link></li>
+<li><nuxt-link to="/web-zend" >Zend</nuxt-link></li>
+<li><nuxt-link to="/web-codeigniter" >Codeigniter</nuxt-link></li>
+<li><nuxt-link to="/web-angularjs" >Angular JS</nuxt-link></li>
+<li><nuxt-link to="/web-reactjs" >React JS</nuxt-link></li>
+<li><nuxt-link to="/web-nodejs" >Node JS</nuxt-link></li>
+<li><nuxt-link to="/web-vuejs" >Vue JS</nuxt-link></li>
 </ul>
 </li>
 <li>
-<a href="web-design.html">Web Design</a>
+<nuxt-link to="/webdesign">Web Design</nuxt-link>
 <span class="mobile-dropdown-icon"></span>
 <ul class="mobile-dropdown-sub">
-<li><a href="web-design.html">UXUI Solutions</a></li>
-<li><a href="web-design.html">Web Design</a></li>
-<li><a href="web-design.html">Graphic &amp; Logo</a></li>
+<li><nuxt-link to="/webdesign">UXUI Solutions</nuxt-link></li>
+<li><nuxt-link to="/webdesign">Web Design</nuxt-link></li>
+<li><nuxt-link to="/webdesign">Graphic &amp; Logo</nuxt-link></li>
 </ul>
 </li>
 <li>
 <a href="javascript:void(0)">Trending Solution</a>
 <span class="mobile-dropdown-icon"></span>
 <ul class="mobile-dropdown-sub">
-<li><a href="outsystems-development-services.html">Outsystems Development</a></li>
-<li><a href="microsoft-powerapps-development.html">Microsoft Powerapps</a></li>
-<li><a href="creatio-development-services.html">Creatio Development</a></li>
-<li><a href="appian-development-services.html">Appian Development</a></li>
-<li><a href="fantasy-sports-app-development.html">Fantasy Sports</a></li>
-<li><a href="emizentech-grocery-app-development.html">On-Demand Grocery App</a></li>
+<li><nuxt-link to="/tr-outsystems" >Outsystems Development</nuxt-link></li>
+<li><nuxt-link to="/tr-microsoft" >Microsoft Powerapps</nuxt-link></li>
+<li><nuxt-link to="/tr-creatio">Creatio Development</nuxt-link></li>
+<li><nuxt-link to="/tr-appian" >Appian Development</nuxt-link></li>
+<li><nuxt-link to="/tr-fantasy" >Fantasy Sports</nuxt-link></li>
+<li><nuxt-link to="/tr-emizentech" >On-Demand Grocery App</nuxt-link></li>
 </ul>
 </li>
 </ul>
@@ -1468,62 +1468,62 @@ Hire ReactJS Developer
 <li class="mobile-dropdown">
 <a href="javascript:void(0)">Industries</a>
 <ul class="mobile-dropdown-nav">
-<li><a href="ecommerce-retail.html">eCommerce &amp; Retail</a></li>
-<li><a href="food-solution.html">Food &amp; Beverage</a></li>
-<li><a href="travel-hospitality.html">Travel &amp; Hospitality</a></li>
-<li><a href="automotive-industry.html">Automotive</a></li>
-<li><a href="media-entertainment.html">Media &amp; Entertainment</a></li>
-<li><a href="realestate-solution.html">Real Estate</a></li>
-<li><a href="healthcare-fitness.html">Healthcare &amp; Fitness</a></li>
-<li><a href="banking-finance.html">Banking &amp; Finance</a></li>
-<li><a href="logistic-transportation.html">Logistics &amp; Transport</a></li>
-<li><a href="education-elearning.html">Education &amp; eLearning</a></li>
-<li><a href="gaming-leisure.html">Sports $ Gaming</a></li>
-<li><a href="events-tickets.html">Ticketing &amp; Event</a></li>
+<li><nuxt-link to="/ecommerce" >eCommerce &amp; Retail</nuxt-link></li>
+<li><nuxt-link to="/food" >Food &amp; Beverage</nuxt-link></li>
+<li><nuxt-link to="/travel" >Travel &amp; Hospitality</nuxt-link></li>
+<li><nuxt-link to="/automotive" >Automotive</nuxt-link></li>
+<li><nuxt-link to="/media" >Media &amp; Entertainment</nuxt-link></li>
+<li><nuxt-link to="/realestate" >Real Estate</nuxt-link></li>
+<li><nuxt-link to="/healthcare" >Healthcare &amp; Fitness</nuxt-link></li>
+<li><nuxt-link to="/banking" >Banking &amp; Finance</nuxt-link></li>
+<li><nuxt-link to="/transport" >Logistics &amp; Transport</nuxt-link></li>
+<li><nuxt-link to="/education" >Education &amp; eLearning</nuxt-link></li>
+<li><nuxt-link to="/sports" >Sports $ Gaming</nuxt-link></li>
+<li><nuxt-link to="/ticketing">Ticketing &amp; Event</nuxt-link></li>
 </ul>
 </li>
 <li class="mobile-dropdown">
 <a href="javascript:void(0)">Hiring</a>
 <ul class="mobile-dropdown-nav">
-<li><a href="hire-python-developers.html">Hire Python Developer</a></li>
-<li><a href="hire-php-developers.html">Hire PHP Developer</a></li>
-<li><a href="hire-asp.net-developers.html">Hire .NET Developer</a></li>
-<li><a href="hire-ruby-on-rails-developers.html">Hire ROR Developer</a></li>
-<li><a href="hire-java-developers.html">Hire JAVA Developer</a></li>
-<li><a href="hire-full-stack-developers.html">Hire FullStack Developer</a></li>
-<li><a href="hire-bigcart-developers.html">Hire Bigcart Developers</a></li>
-<li><a href="hire-hybrid-developers.html">Hire Hybrid Developer</a></li>
-<li><a href="hire-iphone-app-developers.html">Hire iOS Developer</a></li>
-<li><a href="hire-android-app-developers.html">Hire Android Developer</a></li>
-<li><a href="hire-ionic-app-developers.html">Hire Ionic App Developer</a></li>
-<li><a href="hire-xamarin-app-developers.html">Hire Xamarin Developer</a></li>
-<li><a href="hire-react-native-developers.html">Hire React Native Developer</a></li>
-<li><a href="hire-phonegap-developers.html">Hire PhoneGap Developer</a></li>
-<li><a href="hire-cakephp-developers.html">Hire Cakephp Developer</a></li>
-<li><a href="hire-woocommerce-developers.html">Woocommerce Developers</a></li>
-<li><a href="hire-wordpress-developers.html">Hire Wordpress Developer</a></li>
-<li><a href="hire-drupal-developers.html">Hire Drupal Developer</a></li>
-<li><a href="hire-joomla-developers.html">Hire Joomla Developer</a></li>
-<li><a href="hire-codeIgniter-developers.html">Hire Codeigniter Developer</a></li>
-<li><a href="hire-laravel-developers.html">Hire Laravel Developer</a></li>
-<li><a href="hire-yii-developers.html">Hire Yii Developer</a></li>
-<li><a href="hire-opencart-developer.html">Hire Open Cart Developer</a></li>
-<li><a href="hire-shopify-developer.html">Hire Shopify Developer</a></li>
-<li><a href="hire-prestashop-developers.html">Hire Prestashop Developer</a></li>
-<li><a href="hire-magento-developer.html">Hire Magento Developer</a></li>
-<li><a href="hire-bigcommerce-developers.html">BigCommerce Developer</a></li>
-<li><a href="hire-oscommerce-developers.html">OsCommerce Developers</a></li>
-<li><a href="hire-salesforce-developer.html">Hire Salesforce Developer</a></li>
-<li><a href="hire-angularjs-developers.html">Hire Angularjs Developer</a></li>
-<li><a href="hire-nodejs-developers.html">Hire NodeJs Developer</a></li>
-<li><a href="hire-reactjs-developers.html">Hire ReactJS Developer</a></li>
+<li><nuxt-link to="/python" >Hire Python Developer</nuxt-link></li>
+<li><nuxt-link to="/php" >Hire PHP Developer</nuxt-link></li>
+<li><nuxt-link to="/net" >Hire .NET Developer</nuxt-link></li>
+<li><nuxt-link to="/ruby" >Hire ROR Developer</nuxt-link></li>
+<li><nuxt-link to="/java" >Hire JAVA Developer</nuxt-link></li>
+<li><nuxt-link to="/fullstack" >Hire FullStack Developer</nuxt-link></li>
+<li><nuxt-link to="/bigcart" >Hire Bigcart Developers</nuxt-link></li>
+<li><nuxt-link to="/hybrid" >Hire Hybrid Developer</nuxt-link></li>
+<li><nuxt-link to="/ios" >Hire iOS Developer</nuxt-link></li>
+<li><nuxt-link to="/android" >Hire Android Developer</nuxt-link></li>
+<li><nuxt-link to="/app" >Hire Ionic App Developer</nuxt-link></li>
+<li><nuxt-link to="/xamarin" >Hire Xamarin Developer</nuxt-link></li>
+<li><nuxt-link to="/react" >Hire React Native Developer</nuxt-link></li>
+<li><nuxt-link to="/phonegap" >Hire PhoneGap Developer</nuxt-link></li>
+<li><nuxt-link to="/cakephp" >Hire Cakephp Developer</nuxt-link></li>
+<li><nuxt-link to="/woocommerce" >Woocommerce Developers</nuxt-link></li>
+<li><nuxt-link to="/wordpress" >Hire Wordpress Developer</nuxt-link></li>
+<li><nuxt-link to="/drupal" >Hire Drupal Developer</nuxt-link></li>
+<li><nuxt-link to="/joomla" >Hire Joomla Developer</nuxt-link></li>
+<li><nuxt-link to="/codeigniter" >Hire Codeigniter Developer</nuxt-link></li>
+<li><nuxt-link to="/laravel" >Hire Laravel Developer</nuxt-link></li>
+<li><nuxt-link to="/yii" >Hire Yii Developer</nuxt-link></li>
+<li><nuxt-link to="/opencart" >Hire Open Cart Developer</nuxt-link></li>
+<li><nuxt-link to="/shopify" >Hire Shopify Developer</nuxt-link></li>
+<li><nuxt-link to="/prestashop" >Hire Prestashop Developer</nuxt-link></li>
+<li><nuxt-link to="/magento" >Hire Magento Developer</nuxt-link></li>
+<li><nuxt-link to="/bigcommerce" >BigCommerce Developer</nuxt-link></li>
+<li><nuxt-link to="/oscommerce" >OsCommerce Developers</nuxt-link></li>
+<li><nuxt-link to="/salesforce" >Hire Salesforce Developer</nuxt-link></li>
+<li><nuxt-link to="/angularjs" >Hire Angularjs Developer</nuxt-link></li>
+<li><nuxt-link to="/nodejs" >Hire NodeJs Developer</nuxt-link></li>
+<li><nuxt-link to="/reactjs">Hire ReactJS Developer</nuxt-link></li>
 </ul>
 </li>
-<li><a href="portfolio.html">Portfolio</a></li>
-<li><a href="case-studies.html">Case Studies</a></li>
+<li><nuxt-link to="/portfolio" >Portfolio</nuxt-link></li>
+<li><nuxt-link to="/casestudies" >Case Studies</nuxt-link></li>
 <li><a href="https://www.emizentech.com/blog/">Blog</a></li>
 </ul>
-<a href="enqiry.html" class="header-btn"><span class="sprites-image"></span><span>Enquire Now</span></a>
+<nuxt-link to="/enqiry"  class="header-btn"><span class="sprites-image"></span><span>Enquire Now</span></nuxt-link>
 </div>
 </div>
 
