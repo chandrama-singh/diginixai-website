@@ -542,134 +542,134 @@ Salesforce Developer
 </div>
 </div>
 <div class="sub-dropdown" data-nav-id="3">
-<a href="ecommerce-development.html" class="dropdown-main-link ecommerce-link"><span class="sprites-image"></span>Ecommerce</a>
+<nuxt-link to="" href="ecommerce-development.html" class="dropdown-main-link ecommerce-link"><span class="sprites-image"></span>Ecommerce</nuxt-link>
 <div class="row">
 <div class="col-xl-6 col-md-12 col-6">
 <ul>
 <li>
-<a href="magento-development-services.html">
+<nuxt-link to="" href="magento-development-services.html">
 <span class="dropdown-icon magento-menu"><span class="sprites-image"></span></span>
 Magento
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="salesforce.html">
+<nuxt-link to="" href="salesforce.html">
 <span class="dropdown-icon salesforce-menu2"><span class="sprites-image"></span></span>
 Salesforce
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="shopify-development.html">
+<nuxt-link to="" href="shopify-development.html">
 <span class="dropdown-icon shopify-menu"><span class="sprites-image"></span></span>
 Shopify
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="opencart-ecommerce-development.html">
+<nuxt-link to="" href="opencart-ecommerce-development.html">
 <span class="dropdown-icon opencart-menu"><span class="sprites-image"></span></span>
 Opencart
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="bigcart-development.html">
+<nuxt-link to="" href="bigcart-development.html">
 <span class="dropdown-icon bigcart-menu"><span class="sprites-image"></span></span>
 Bigcart
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="3dcart-development.html">
+<nuxt-link to="" href="3dcart-development.html">
 <span class="dropdown-icon threedcart-menu"><span class="sprites-image"></span></span>
 3dCart
-</a>
+</nuxt-link>
 </li>
 </ul>
 </div>
 <div class="col-xl-6 col-md-12 col-6">
 <ul>
 <li>
-<a href="prestashop-development.html">
+<nuxt-link to="" href="prestashop-development.html">
 <span class="dropdown-icon prestashop-menu"><span class="sprites-image"></span></span>
 Prestashop
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="woocommerce-development.html">
+<nuxt-link to="" href="woocommerce-development.html">
 <span class="dropdown-icon woocommerce-menu"><span class="sprites-image"></span></span>
 WooCommerce
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="bigcommerce-development.html">
+<nuxt-link to="" href="bigcommerce-development.html">
 <span class="dropdown-icon bigcommerce-menu"><span class="sprites-image"></span></span>
 BigCommerce
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="oscommerce-development.html">
+<nuxt-link to="" href="oscommerce-development.html">
  <span class="dropdown-icon oscommerce-menu"><span class="sprites-image"></span></span>
 OsCommerce
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="shopware-development.html">
+<nuxt-link to="" href="shopware-development.html">
 <span class="dropdown-icon shopware-menu"><span class="sprites-image"></span></span>
 Shopware
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="sylius-development.html">
+<nuxt-link to="" href="sylius-development.html">
 <span class="dropdown-icon sylius-menu"><span class="sprites-image"></span></span>
 Sylius
-</a>
+</nuxt-link>
 </li>
 </ul>
 </div>
 </div>
 </div>
 <div class="sub-dropdown" data-nav-id="4">
-<a href="mobile-app-development.html" class="dropdown-main-link mobile-link"><span class="sprites-image"></span>Mobile App Development</a>
+<nuxt-link to="" href="mobile-app-development.html" class="dropdown-main-link mobile-link"><span class="sprites-image"></span>Mobile App Development</nuxt-link>
 <div class="row">
 <div class="col-xl-6">
 <ul>
 <li>
-<a href="android-app-development-services.html">
+<nuxt-link to="" href="android-app-development-services.html">
 <span class="dropdown-icon android-app"><span class="sprites-image"></span></span>
 Android App
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="ios-app-development-services.html">
+<nuxt-link to="" href="ios-app-development-services.html">
 <span class="dropdown-icon iphone-app"><span class="sprites-image"></span></span>
 iPhone App
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="hybrid-mobile-app-development-services.html">
+<nuxt-link to="" href="hybrid-mobile-app-development-services.html">
 <span class="dropdown-icon hybrid-app"><span class="sprites-image"></span></span>
 Hybrid App
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="react-native-app-development-services.html">
+<nuxt-link to="" href="react-native-app-development-services.html">
 <span class="dropdown-icon react-native2"><span class="sprites-image"></span></span>
 React Native App
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="wearable-app-development-services.html">
+<nuxt-link to="" href="wearable-app-development-services.html">
 <span class="dropdown-icon wearable-app"><span class="sprites-image"></span></span>
 Wearable App
-</a>
+</nuxt-link>
 </li>
 </ul>
 </div>
 <div class="col-xl-6">
 <ul>
 <li>
-<a href="xamarin-app-development.html">
+<nuxt-link to="" href="xamarin-app-development.html">
 <span class="dropdown-icon xamarin-app"><span class="sprites-image"></span></span>
 Xamarin App
-</a>
+</nuxt-link>
 </li>
 <li>
 <a href="ionic-app-development.html">
@@ -678,141 +678,141 @@ Ionic App
 </a>
 </li>
 <li>
- <a href="flutter-app-development.html">
+ <nuxt-link to="" href="flutter-app-development.html">
 <span class="dropdown-icon flutter-app"><span class="sprites-image"></span></span>
 Flutter App
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="phonegap-development.html">
+<nuxt-link to="" href="phonegap-development.html">
 <span class="dropdown-icon phonegap-app"><span class="sprites-image"></span></span>
 Phonegap App
-</a>
+</nuxt-link>
 </li>
 </ul>
 </div>
 </div>
 </div>
 <div class="sub-dropdown" data-nav-id="5">
-<a href="web-development.html" class="dropdown-main-link web-link"><span class="sprites-image"></span>Web Development</a>
+<nuxt-link to="" href="web-development.html" class="dropdown-main-link web-link"><span class="sprites-image"></span>Web Development</nuxt-link>
 <div class="row">
 <div class="col-xl-4 col-md-12 col-4">
 <ul>
 <li>
-<a href="php-development.html">
+<nuxt-link to="" href="php-development.html">
 <span class="dropdown-icon php-menu"><span class="sprites-image"></span></span>
 Php
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="asp-net-development.html">
+<nuxt-link to="" href="asp-net-development.html">
 <span class="dropdown-icon asp-menu"><span class="sprites-image"></span></span>
 Asp.Net
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="python-development-services.html">
+<nuxt-link to="" href="python-development-services.html">
 <span class="dropdown-icon python-menu"><span class="sprites-image"></span></span>
 Python
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="ruby-on-rails.html">
+<nuxt-link to="" href="ruby-on-rails.html">
 <span class="dropdown-icon ruby-menu"><span class="sprites-image"></span></span>
 Ruby
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="java-development.html">
+<nuxt-link to="" href="java-development.html">
 <span class="dropdown-icon java-menu"><span class="sprites-image"></span></span>
 Java
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="drupal-development.html">
+<nuxt-link to="" href="drupal-development.html">
 <span class="dropdown-icon drupal-menu"><span class="sprites-image"></span></span>
 Drupal
-</a>
+</nuxt-link>
 </li>
 </ul>
 </div>
 <div class="col-xl-4 col-md-12 col-4">
 <ul>
 <li>
-<a href="joomla-development.html">
+<nuxt-link to="" href="joomla-development.html">
 <span class="dropdown-icon joomla-menu"><span class="sprites-image"></span></span>
 Joomla
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="wordpress-development.html">
+<nuxt-link to="" href="wordpress-development.html">
 <span class="dropdown-icon wordpress-menu"><span class="sprites-image"></span></span>
 Wordpress
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="laravel-development.html">
+<nuxt-link to="" href="laravel-development.html">
 <span class="dropdown-icon laravel-menu"><span class="sprites-image"></span></span>
 Laravel
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="cakephp-development.html">
+<nuxt-link to="" href="cakephp-development.html">
 <span class="dropdown-icon cakephp-menu"><span class="sprites-image"></span></span>
 Cakephp
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="yii-development.html">
+<nuxt-link to="" href="yii-development.html">
 <span class="dropdown-icon yii-menu"><span class="sprites-image"></span></span>
 Yii
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="symfony-development.html">
+<nuxt-link to="" href="symfony-development.html">
 <span class="dropdown-icon symfony-menu"><span class="sprites-image"></span></span>
 Symfony
-</a>
+</nuxt-link>
 </li>
 </ul>
 </div>
 <div class="col-xl-4 col-md-12 col-4">
 <ul>
 <li>
-<a href="zend-development.html">
+<nuxt-link to="" href="zend-development.html">
 <span class="dropdown-icon zend-menu"><span class="sprites-image"></span></span>
 Zend
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="codeigniter-development.html">
+<nuxt-link to="" href="codeigniter-development.html">
 <span class="dropdown-icon codeigniter-menu"><span class="sprites-image"></span></span>
 Codeigniter
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="angularjs-development.html">
+<nuxt-link to="" href="angularjs-development.html">
 <span class="dropdown-icon angular-menu"><span class="sprites-image"></span></span>
 Angular JS
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="reactjs-development.html">
+<nuxt-link to="" href="reactjs-development.html">
 <span class="dropdown-icon react-menu"><span class="sprites-image"></span></span>
 React JS
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="nodejs-development.html">
+<nuxt-link to="" href="nodejs-development.html">
 <span class="dropdown-icon node-menu"><span class="sprites-image"></span></span>
 Node JS
-</a>
+</nuxt-link>
 </li>
 <li>
-<a href="vuejs-development.html">
+<nuxt-link to="" href="vuejs-development.html">
 <span class="dropdown-icon vue-menu"><span class="sprites-image"></span></span>
 Vue JS
-</a>
+</nuxt-link>
 </li>
 </ul>
 </div>
