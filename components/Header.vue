@@ -6,16 +6,16 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6 col-7 col-xl-3">
-                    <a href="https://www.emizentech.com/" class="emizentech-logo"><img src="~/assets/images/emizentech.png" alt="Emizentech" width="630" height="157"></a>
+                    <a href="/" class="emizentech-log"><img src="~/assets/logo/logo.png" alt="Diginixai" width="630" height="157"></a>
                 </div>
                 <div class="col-md-6 col-5 col-xl-9 text-right">
                     <div class="header-links">
                         <a href="JavaScript:void(0)" class="emizentech-toggle">
                             <span class="sprites-image"></span>
                         </a>
-                        <a href="JavaScript:void(0)" class="dark-icon">
+                        <!-- <a href="JavaScript:void(0)" class="dark-icon">
                             <span class="sprites-image"></span>
-                        </a>
+                        </a> -->
                     </div>
                 </div>
             </div>
@@ -26,7 +26,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-3">
-                    <a href="https://www.emizentech.com/" class="emizentech-logo"><img src="~/assets/images/emizentech.png" alt="Emizentech" width="630" height="157"></a>
+                    <a href="/" class="emizentech-logo"><img src="~/assets/logo/logo.png" alt="Dizinixai" width="630" height="157"></a>
                     <div class="mobile-close-link">
                         <a href="javascript:void(0)" class="close-icon"><span></span></a>
                     </div>
@@ -39,17 +39,18 @@
                                     <li class="call-dropdown">
                                         <span class="call-dropdown-link"><i class="fa fa-phone" aria-hidden="true"></i> Call</span>
                                         <div class="call-dropdown-wrap">
-                                            <span class="call-label">Emizentech Contact</span>
-                                            <a href="tel:13322557117">USA: +1- (332) 255-7117</a>
-                                            <a href="tel:442038158019">UK: +44-2038158019</a>
-                                            <a href="tel:6531382077">SG: +65-31382077</a>
-                                            <a href="tel:918107990154">IND: +91-8107990154</a>
+                                            <span class="call-label">Diginixai Contact</span>
+                                            <a href="tel:971563988134">UAE: +971 56 398 8134</a>
+                                            <a href="tel:447520620071">UK: +44 7520620071</a>
+                                            <a href="tel:20224010612">Egypt: +202-24010612</a>
+                                            <a href="tel:919889797416">IND: +91-9889797416</a>
+                                            <a href="tel:966122869565">Saudi Arabia: +966-122869565</a>
                                             <span class="hr-label">Career/Openings</span>
                                             <a href="tel:919602561777">IND: +91-9602561777</a>
                                         </div>
                                     </li>
                                     <li><i class="fa fa-envelope" aria-hidden="true"></i> <a href="https://www.emizentech.com/cdn-cgi/l/email-protection#462f28202906232b2f3c23283223252e6825292b"><span class="__cf_email__" data-cfemail="b0d9ded6dff0d5ddd9cad5dec4d5d3d89ed3dfdd">[email&nbsp;protected]</span></a></li>
-                                    <li><i class="fa fa-skype" aria-hidden="true"></i> <a href="skype:emizentech">emizentech</a></li>
+                                    <li><i class="fa fa-skype" aria-hidden="true"></i> <a href="skype:emizentech">diginixai</a></li>
                                 </ul>
                             </div>
                             <nav>
@@ -73,10 +74,10 @@
                                                             <a href="https://www.emizentech.com/awards.html" class="awards"><span class="sprites-image"></span>Awards</a>
                                                         </li>
                                                         <li>
-                                                            <a href="javascript:void(0)" class="life"><span class="sprites-image"></span>Life @ Emizentech</a>
+                                                            <a href="javascript:void(0)" class="life"><span class="sprites-image"></span>Life @ Diginixai</a>
                                                         </li>
                                                         <li>
-                                                            <a href="https://www.emizentech.com/career.html" class="career"><span class="sprites-image"></span>Career @ Emizentech</a>
+                                                            <a href="https://www.emizentech.com/career.html" class="career"><span class="sprites-image"></span>Career @ Diginixai</a>
                                                         </li>
                                                         <li>
                                                             <a href="https://www.emizentech.com/contact-us.html" class="contact"><span class="sprites-image"></span>Contact Us</a>
@@ -1294,17 +1295,18 @@
                     <li class="call-dropdown">
                         <span class="call-dropdown-link"><i class="fa fa-phone" aria-hidden="true"></i> Call</span>
                         <div class="call-dropdown-wrap">
-                            <span class="call-label">Emizentech Contact</span>
-                            <a href="tel:13322557117">USA: +1- (332) 255-7117</a>
-                            <a href="tel:442038158019">UK: +44-2038158019</a>
-                            <a href="tel:6531382077">SG: +65-31382077</a>
-                            <a href="tel:918107990154">IND: +91-8107990154</a>
+                            <span class="call-label">Diginixai Contact</span>
+                            <a href="tel:971563988134">UAE: +971 56 398 8134</a>
+                            <a href="tel:447520620071">UK: +44 7520620071</a>
+                            <a href="tel:20224010612">Egypt: +202-24010612</a>
+                            <a href="tel:919889797416">IND: +91-9889797416</a>
+                            <a href="tel:966122869565">Saudi Arabia: +966-122869565</a>
                             <span class="hr-label">Career/Openings</span>
                             <a href="tel:919602561777">IND: +91-9602561777</a>
                         </div>
                     </li>
                     <li><i class="fa fa-envelope" aria-hidden="true"></i> <a href="https://www.emizentech.com/cdn-cgi/l/email-protection#660f08000926030b0f1c03081203050e4805090b"><span class="__cf_email__" data-cfemail="640d0a020b2401090d1e010a1001070c4a070b09">[email&nbsp;protected]</span></a></li>
-                    <li><i class="fa fa-skype" aria-hidden="true"></i> <a href="skype:emizentech">emizentech</a></li>
+                    <li><i class="fa fa-skype" aria-hidden="true"></i> <a href="skype:emizentech">Diginixai</a></li>
                 </ul>
             </div>
             <ul class="mobile-links">
@@ -1315,8 +1317,8 @@
                         <li><a href="javascript:void(0)">Testimonials</a></li>
                         <li><a href="https://www.emizentech.com/partnership.html">Partnership</a></li>
                         <li><a href="https://www.emizentech.com/awards.html">Awards</a></li>
-                        <li><a href="javascript:void(0)">Life @ Emizentech</a></li>
-                        <li><a href="https://www.emizentech.com/career.html">Career @ Emizentech</a></li>
+                        <li><a href="javascript:void(0)">Life @ Diginixai</a></li>
+                        <li><a href="https://www.emizentech.com/career.html">Career @ Diginixai</a></li>
                         <li><a href="https://www.emizentech.com/contact-us.html">Contact Us</a></li>
                     </ul>
                 </li>

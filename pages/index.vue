@@ -16,16 +16,16 @@
                         </div>
                     </div>
                     <div class="col-lg-2 col">
-                        <div class="client-image filter-invert"><img src="~/assets/images/client-logo1.png" alt="Logo" width="154" height="86"></div>
+                        <div class="client-image filter-invert"><img src="~/assets/zamkan.png" alt="Logo" width="154" height="86"></div>
                     </div>
                     <div class="col-lg-2 col">
-                        <div class="client-image filter-invert"><img src="~/assets/images/client-logo2.png" alt="Logo" width="154" height="86"></div>
+                        <div class="client-image filter-invert"><img src="~/assets/handyman.png" alt="Logo" width="154" height="86"></div>
                     </div>
                     <div class="col-lg-2 col">
-                        <div class="client-image"><img src="~/assets/images/client-logo3.png" alt="Logo" width="154" height="86"></div>
+                        <div class="client-image"><img src="~/assets/gamex.png" alt="Logo" width="154" height="86"></div>
                     </div>
                     <div class="col-lg-2 col">
-                        <div class="client-image filter-invert"><img src="~/assets/images/client-logo4.png" alt="Logo" width="154" height="86"></div>
+                        <div class="client-image filter-invert"><img src="~/assets/dating.png" alt="Logo" width="154" height="86"></div>
                     </div>
                     <div class="col-lg-2 col">
                         <div class="client-image"><img src="~/assets/images/client-logo5.png" alt="Logo" width="154" height="86"></div>
@@ -39,18 +39,30 @@
         <div class="container">
             <div class="row align-items-center" > <!------ Remove--- data-aos="fade-up"--------------> 
                 <div class="col-xl-6 col-md-6 order-md-1">
-                    <div class="emizentech-image pt-0"><img src="~/assets/images/our-main-img.png" alt="About" width="610" height="437"></div>
+                    <div class="emizentech-image pt-0"><img src="~/assets/dubai.png" alt="About" width="610" height="437"></div>
                 </div>
 
                 <div class="col-xl-6 col-md-6 order-md-0 mt-5 mt-md-0">
                     <div class="about-info">
                         <h3>We are</h3>
-                        <h2>Emizentech</h2>
-                        <h4>Developing futuristic and competitive digital solutions for SMEs and Fortune 500 firms.</h4>
-                        <p>Emizentech is widely known for implementing the best industrial processes and technologies to assist clients in transforming their vision into actionable software solutions and a successful business model.</p>
-                        <p>Besides, Emizentech emerges with the best possible way to help all-sized businesses and enterprises worldwide develop, maintain, and upgrade their IT infrastructure. </p>
-                        <p>At Emizentech, the team of experts deploys verified procedures that lead to enhanced efficiency, improved performance, optimized business processes, and business excellence for the complete growth of organizations. </p>
-                        <a href="https://www.emizentech.com/enqiry.html" class="emizentech-btn mt-4"><span class="sprites-image"></span> Talk to Consultant</a>
+                        <h2>Diginixai</h2>
+                        <h4>Developing Several Projects With:</h4>
+                        <ul>
+                        <li>UAE</li>
+                        <li>Government of India(UP) </li>
+                        <li>Government of Batswana </li>
+                        <li>USA, UK, Saudi, Bahrain, Angola, Oman, and many other countries.</li>
+                        <li>Successfully completed over 500 projects</li>
+                        </ul>
+
+                        <h4>National Lavel Award Winner:</h4>
+                        <ul>
+                        <li>FICII Award</li>
+                        <li>Skoch Award</li>
+                        <li>Developers of Smart ePolice, an India Police App</li>
+                        </ul>
+
+                        <Nuxt-Link to ="https://www.emizentech.com/enqiry.html" class="emizentech-btn mt-4"><span class="sprites-image"></span> Talk to Consultant</Nuxt-Link>
 
                     </div>
                 </div>
@@ -65,7 +77,7 @@
                 <div class="col-md-3 col-sm-6 mt-4 mt-md-0" >
                     <div class="skill-item">
                         <img src="~/assets/images/icon4.png" alt="Web &amp; Mobile Project" width="65" height="65">
-                        <h2><span class="emizentech-counter">8</span>+ years</h2>
+                        <h2><span class="emizentech-counter">11</span>+ years</h2>
                         <h4>of Industry Experience</h4>
                     </div>
                 </div>
@@ -73,7 +85,7 @@
                 <div class="col-md-3 col-sm-6 mt-4 mt-md-0" >
                     <div class="skill-item">
                         <img src="~/assets/images/icon5.png" alt="Repeated clients" width="65" height="65">
-                        <h2><span class="emizentech-counter">450</span>+</h2>
+                        <h2><span class="emizentech-counter">500</span>+</h2>
                         <h4>Delighted Clients</h4>
                     </div>
                 </div>
@@ -81,7 +93,7 @@
                 <div class="col-md-3 col-sm-6 mt-4 mt-md-0" >
                     <div class="skill-item">
                         <img src="~/assets/images/icon6.png" alt="Happy clients" width="65" height="65">
-                        <h2><span class="emizentech-counter">200</span>+</h2>
+                        <h2><span class="emizentech-counter">80</span>+</h2>
                         <h4>Team Members</h4>
                     </div>
                 </div>
@@ -191,8 +203,8 @@
     <section class="emizentech-award">
         <div class="container">
             <div class="section-title">
-                <h2><span>Emizentech is Partner </span> with top-notch eCommerce Technologies</h2>
-                <p>With deep expertise across industries, our teams offer a wide range of services.</p>
+                <h2><span>Diginixai is Partner </span> with top companies</h2>
+                <p>We are partnership with top companies in our field. Not only for our high-quality services, but also for our responsibility to be creative and to adapt values & ethics in our business practices.</p>
             </div>
             <div class="row wow fadeInUp">
 
@@ -201,13 +213,13 @@
                         <div class="award-meta text-center">
 
                             <div class="emizentech-icon">
-                                <img src="~/assets/images/adobe.png" class="mx-auto d-block " alt="adobe" width="108" height="123"></div>
-                            <h2 class="pt-4">Adobe Solution Partner</h2>
+                                <img src="~/assets/logo-jawda.png" class="mx-auto d-block " alt="adobe" width="108" height="123"></div>
+                            <h2 class="pt-4">Partner with Jawda</h2>
                         </div>
-                        <p class="text-center">We are widely known for developing websites, apps, etc., and ease the management of your marketing content and assets.</p>
+                        <p class="text-center">We are partnership with JAWDA to be one of the top branded engineering service providers in our field. Not only for our high-quality services, but also for our responsibility to be creative and to adapt values & ethics in our business practices.</p>
 
                         <div class="pt-md-5 pt-3">
-                            <a href="https://solutionpartners.adobe.com/s/directory/detail/emizentech" class="emizentech-btn small-btn d-block text-center">Learn More</a>
+                            <a href="#" class="emizentech-btn small-btn d-block text-center">Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -215,13 +227,13 @@
                 <div class="col-sm-6 col-lg-3  order-sm-0 order-md-1 ">
                     <div class="award-item" ><!------ Remove--- data-aos="fade-left" data-aos-duration="2000"-------------->
                         <div class="award-meta text-center">
-                            <div class="emizentech-icon"><img src="~/assets/images/shopyfy.png" class="mx-auto d-block " alt="shopyfy" width="108" height="123"></div>
-                            <h2 class="pt-4">Shopify Partner</h2>
+                            <div class="emizentech-icon"><img src="~/assets/ctre-logo.png" class="mx-auto d-block " alt="shopyfy" width="108" height="123"></div>
+                            <h2 class="pt-4">Partner with Level Up</h2>
                         </div>
-                        <p class="text-center">We introduce new merchants to Shopify and offer solutions that help them start, market, sell, and manage their businesses.</p>
+                        <p class="text-center">We are partnership with Level Up Knowledge. LLCC established in 2005, is a highly professional training institute, approved by Knowledge & Human Development Authority (KHDA), U.A.E, offering a wide range of training programs for enhancing skills in diverse fields.</p>
 
                         <div class="pt-md-5 pt-3">
-                            <a href="https://www.emizentech.com/shopify-development.html" class="emizentech-btn small-btn d-block text-center">Learn More</a>
+                            <a href="#" class="emizentech-btn small-btn d-block text-center">Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -229,13 +241,13 @@
                 <div class="  col-sm-6 col-lg-3 order-sm-2 order-lg-3">
                     <div class="award-item" ><!------ Remove--- data-aos="fade-left" data-aos-duration="2200"-------------->
                         <div class="award-meta text-center">
-                            <div class="emizentech-icon"><img src="~/assets/images/shopwarepartner.png" class="mx-auto d-block " alt="shopware" width="108" height="123"></div>
-                            <h2 class="pt-4">Shopware Business Partner</h2>
+                            <div class="emizentech-icon"><img src="~/assets/stemrobo_logo.png" class="mx-auto d-block " alt="shopware" width="108" height="123"></div>
+                            <h2 class="pt-4">Partner with Stemrobo</h2>
                         </div>
-                        <p class="text-center">We support the new Shopware merchants all over the globe with our proficiency and perfect solutions. </p>
+                        <p class="text-center">STEMROBO Technologies Pvt. Ltd., are pioneers in Robotic programs, R&D, and Design Initiative in STEM education. Our aim is to enrich young minds and enable them to create magic with technology and apply this new-age tech knowledge to everyday life. </p>
 
                         <div class="pt-md-5 pt-3">
-                            <a href="https://www.emizentech.com/shopware-development.html" class="emizentech-btn small-btn d-block text-center">Learn More</a>
+                            <a href="#" class="emizentech-btn small-btn d-block text-center">Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -243,13 +255,13 @@
                 <div class="col-sm-6 col-lg-3 order-sm-0 order-lg-4 ">
                     <div class="award-item" ><!------ Remove--- data-aos="fade-left" data-aos-duration="2000"-------------->
                         <div class="award-meta text-center">
-                            <div class="emizentech-icon"><img src="~/assets/images/salesforce-paertner.png" class="mx-auto d-block " alt="salesforce-paertner" width="108" height="123"></div>
-                            <h2 class="pt-4">Salesforce Partner</h2>
+                            <div class="emizentech-icon"><img src="~/assets/ucs-logo.png" class="mx-auto d-block " alt="salesforce-paertner" width="108" height="123"></div>
+                            <h2 class="pt-4">Partner with UCS</h2>
                         </div>
-                        <p class="text-center">We are Salesforce consulting partners who develop and offer custom solutions along with project integrations and implementations.</p>
+                        <p class="text-center">We are partnership with UCS. Your success drives everything we do – and we mean everything. That’s why we offer the industry’s broadest portfolio of applications, data, security and infrastructure services. </p>
 
                         <div class="pt-md-5 pt-3">
-                            <a href="https://www.emizentech.com/salesforce.html" class="emizentech-btn small-btn d-block text-center">Learn More</a>
+                            <a href="#" class="emizentech-btn small-btn d-block text-center">Learn More</a>
                         </div>
                     </div>
                 </div>
