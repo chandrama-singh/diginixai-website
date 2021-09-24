@@ -31,43 +31,32 @@
       </div>
 
       <div class="row justify-content-center">
-        <div class="card mr-4 align-items-center" style="width: 18rem">
-          <img src="~assets/images/affiliate.png" class="w-25 h-25" alt="" />
+        <div class="card mr-4 align-items-center pt-4" style="width: 18rem">
+          <img src="~assets/images/affiliate.png" class="w-57 h-57" alt="" />
           <div class="card-body">
-            <h3 class="card-title">Hotel And Travel Ticket Booking App</h3>
-            <p class="card-text">
-             More than 57% of all travel reservations are made on the internet. Moreover, greater than 37% of travelers have used travel booking apps to find the best hotel deals. The emergence of the on-demand hotel and travel booking or concierge app is essential for any travel and hotel business.
-            </p>
+            <h3 class="card-title">Cloud Hosting & Reseller Services</h3>
+            
           </div>
         </div>
 
-        <div class="card mr-4 align-items-center" style="width: 18rem">
-          <img src="~assets/images/ai-machine.png" class="w-25 h-25" alt="" />
+        <div class="card mr-4 align-items-center pt-4" style="width: 18rem">
+          <img src="~assets/images/ai-machine.png" class="w-57 h-57" alt="" />
           <div class="card-body">
-            <h3 class="card-title">Hotel Booking App Development</h3>
-            <p class="card-text">
-              Travel companies having a travel booking app reported 60% of transactions via mobile, up from 41% just one year ago. This shows that the trend for app-based booking is rising fast.
-            </p>
+            <h3 class="card-title">Technical Audit</h3>
           </div>
         </div>
 
-        <div class="card align-items-center" style="width: 18rem">
-          <img src="~assets/images/cuba.png" class="w-25 h-25" alt="" />
+        <div class="card align-items-center pt-4" style="width: 18rem">
+          <img src="~assets/images/cuba.png" class="w-57 h-57" alt="" />
           <div class="card-body">
-            <h3 class="card-title">Mobile Travel Guide App</h3>
-            <p class="card-text">
-              Leveraging the advanced BLE Technology and using LN’s branded hardware, we provide state-of-the-art custom Travel guide app solutions for city tours. To have such mobile apps will only give wings to your new or existing travel business.
-            </p>
+            <h3 class="card-title">IT Outsourcing Services</h3>
           </div>
         </div>
 
-        <div class="card align-items-center" style="width: 18rem">
-          <img src="~assets/images/cuba.png" class="w-25 h-25" alt="" />
+        <div class="card align-items-center pt-4" style="width: 18rem">
+          <img src="~assets/images/cuba.png" class="w-57 h-57" alt="" />
           <div class="card-body">
-            <h3 class="card-title">Apps For Hotel Service & Operations</h3>
-            <p class="card-text">
-              Digital mobile solutions help streamline the operations happening from the shop to the top. An industry where customer experience is the topmost priority to succeed, our custom mobility solutions for the travel and hospitality industry are proven to be a boon.
-            </p>
+            <h3 class="card-title">CMS Web Development</h3>
           </div>
         </div>
       </div>
