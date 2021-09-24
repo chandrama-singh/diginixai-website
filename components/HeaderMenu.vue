@@ -44,8 +44,8 @@
 <a href="tel:919602561777">IND: +91-9602561777</a>
 </div>
 </li>
-<li><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:info@emizentech.com">info@emizentech.com</a></li>
-<li><i class="fa fa-skype" aria-hidden="true"></i> <a href="skype:emizentech">emizentech</a></li>
+<li><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:info@diginixai.com">info@diginixai.com</a></li>
+<!-- <li><i class="fa fa-skype" aria-hidden="true"></i> <a href="skype:emizentech">emizentech</a></li> -->
 </ul>
 </div>
 <nav>

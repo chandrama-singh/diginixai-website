@@ -1,1052 +1,152 @@
 <template>
   <div data-aos-easing="ease" data-aos-duration="1200" data-aos-delay="0">
+    <HeaderMenu />
 
-<HeaderMenu/>
+    <section class="ecom-banner">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-12 text-center">
+            <h2 class="text-white">E-COMMERCE WEBSITE</h2>
+          </div>
+        </div>
+      </div>
+    </section>
 
-<section class="emizentech-banner banner-style-two">
-<div class="container">
-<div class="row align-items-center">
-<div class="col-md-7">
-<div class="banner-info">
-<h1>Ecommerce <br> <span>&amp; Retail solutions</span></h1>
-<p>We have been successfully supporting many small and big business houses to expand their reach and increase their traffic and target their audience.</p>
-<a href="enqiry.html" class="emizentech-btn"><span class="sprites-image"></span> Talk to Consultant</a>
-<div class="scroll-link"><a href="#first-section"></a></div>
-</div>
-</div>
-<div class="col-md-5">
-<div class="banner-image-wrap"><img src="~/assets/images/retail-bg.png" alt="Magento"></div>
-</div>
-</div>
-</div>
-</section>
+    <section class="emizentech-banner">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-md-7">
+            <div class="banner-info">
+              <h2>E-Commerce Development Agency in Dubai</h2>
+              <p>
+                One of the fastest and the most popular ways to reach the world
+                is through eCommerce websites. You have a local grocery store or
+                any other, and you want to cross the boundaries to increase your
+                business, then an eCommerce website can help you do so. We are
+                the one-stop solution in the eCommerce industry that leverages
+                organization sales to the desired measures. Thus we are adored
+                as the best eCommerce development company in Dubai.
+              </p>
+            </div>
+          </div>
+          <div class="col-md-5">
+            <div class="banner-image-wrap">
+              <img src="~/assets/images/retail-bg.png" alt="Magento" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
-<section class="emizentech-about about-style-five" id="first-section">
-<div class="container">
-<div class="section-title">
-<h2><span>Professional &amp; Customer-centric</span> eCommerce App and Software Development Solutions</h2>
-<p>Rendering high-performance and robust eCommerce Solutions to take your business to a level ahead.</p>
-</div>
-<div class="small-title">
-<p>The main reason behind the fostering of the e-commerce and retail industry is technology. We, at Emizentech, design and develop mobile and web applications and solutions that enhance the efficiency and user engagement to spread business like never earlier. In the e-commerce and retail industry much is implemented, like 24/7 customer support, automation, online shopping portals, faster response, and so on. Just by following the technology, everything just goes smoothly. Besides, our prominent developers and designers provide our clients with the e-commerce and retail app development solutions that look alluring and enhance user experience.</p>
-<p>With Emizentech, an outstanding eCommerce and retail software development company, our clients’ just see how we craft digital products that apart from performing efficiently with the latest accessibility, also render the best experience that leaves lasting impressions on their customers. Moreover, we have assisted numerous of our clients because of which they become capable of bestowing such experiences to their users. To witness the exact outcomes, we depend on the latest technologies and our best practices. Above all, we provide top customer support that you can trust always.</p>
-<p>We unleash the power of eCommerce and retail industry through our cutting-edge mobile and web solutions. With the solutions, such as eCommerce mobile apps and websites, or a portal, we allow the vendors to make it huge in the field of e-commerce.</p>
-<div class="row skill-style-two">
-<div class="col-lg-3 col-6">
-<div class="skill-item">
-<img src="~/assets/images/icon4.png" alt="Web &amp; Mobile Project" width="65" height="65">
-<div class="skill-info">
-<h2><span class="emizentech-counter">8</span>+ years</h2>
-<h4>of Industry Experience</h4>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-6">
-<div class="skill-item">
-<img src="~/assets/images/icon5.png" alt="Repeated clients" width="65" height="65">
-<div class="skill-info">
-<h2><span class="emizentech-counter">450</span>+</h2>
-<h4>Delighted Clients</h4>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-6">
-<div class="skill-item">
-<img src="~/assets/images/icon6.png" alt="Happy clients" width="65" height="65">
-<div class="skill-info">
-<h2><span class="emizentech-counter">200</span>+</h2>
-<h4>Team Members</h4>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-6">
-<div class="skill-item">
-<img src="~/assets/images/icon7.png" alt="Years for Company" width="65" height="65">
-<div class="skill-info">
-<h2><span class="emizentech-counter">50</span>%</h2>
-<h4>Senior and Expert Staff</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
+    <section class="emizentech-estate">
+      <div class="container">
+        <div class="section-title">
+          <h2>WHAT WE DO</h2>
+          <p>
+            Our specialized eCommerce web developers in Dubai can create awesome
+            online shopping portals for your business where you can sell any
+            products online and reach the customer world beyond all the
+            geographical boundaries. When we offer you the eCommerce web
+            services in Dubai, it includes powerful dashboards, simple and
+            robust navigation layouts, payment integrations, order management
+            solutions, high-traffic management system, data and content
+            management system, automated workflow management system, and an
+            end-to-end seamless secured connectivity that stores confidential
+            data of your customers.
+          </p>
+        </div>
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="estate-item">
+              <h3>WE CREATE PERSONALISED EMAIL CAMPAIGNS</h3>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="estate-item">
+              <h3>RESULT-DRIVEN SEO STRATEGIES</h3>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="estate-item">
+              <h3>WE CREATE SALES-ORIENTED LANDING PAGES</h3>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="estate-item">
+              <h3>WE BUILD MOBILE RESPONSIVE HIGH-SPEED WEBPAGES</h3>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="estate-item">
+              <h3>
+                CREATE AN ONLINE PRESENCE WITH SUCCESSFUL MARKETING STRATEGIES
+              </h3>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="estate-item">
+              <h3>SETTING UP A WORLD-CLASS WEBSITE WITH DOMAIN AND HOSTING</h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
-<section class="emizentech-api api-spacer-two">
-<div class="container">
-<div class="section-title">
-<h2><span>Why your Retail</span> &amp; eCommerce business needs a digital transformation?</h2>
-<p>Every business demands a shift with the changing digital world so, pick our eCommerce &amp; Retail Solutions to Boost Your Sales.</p>
-</div>
-<div class="row">
-<div class="col-lg-4">
-<h3><span>O</span>ffering Fully-functional eCommerce Web and App development services to transform your brand face uniquely.</h3>
-</div>
-<div class="col-lg-8">
-<div class="api-info">
-<h4>E-Commerce Merchandising</h4>
-<p>Having an online ecommerce store is essential for promoting and showcasing various products in a captivating manner. We help our clients by providing them the functionality of better product management and ecommerce operations management.</p>
-<h4>Digital Marketing</h4>
-<p>We use a multitude of internet marketing strategies to drive highly focused and relevant traffic through multiple digital channels. We always keep an eye on the performance of the website to yield the best returns in terms of business revenue.</p>
-<h4>Advanced Customer Analytics</h4>
-<p>We track, monitor, and analyze customer engagement with the website and mobile apps to determine their behavioral and purchasing patterns. We use advanced analytics strategies and predictive analysis methods to generate higher revenue.</p>
-</div>
-</div>
-</div>
-</div>
-</section>
+    
+      <div class="container">
+        <div class="section-title">
+          <h2>OUR E-COMMERCE SOLUTION</h2>
+          <p>
+            We have a team of expert eCommerce developers in Dubai who
+            dedicatedly design the best eCommerce solutions and the most
+            suitable workflow for your business. When you choose us you select
+            the best eCommerce development company in Dubai.
+          </p>
+        </div>
+      </div>
+    
 
-<section class="emizentech-estate">
-<div class="container">
-<div class="section-title">
-<h2><span>Strengthening</span> Competencies To Render Robust eCommerce Solutions Worldwide</h2>
-<p>Embrace our pursuit in Multi-vendor Marketplace Solution</p>
-</div>
-<div class="row">
-<div class="col-lg-6">
-<div class="estate-item">
-<h3>Mobile-Tech Enablement</h3>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="estate-item">
-<h3>Web Application &amp; Portals</h3>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="estate-item">
-<h3>B2B/B2C Solutions</h3>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="estate-item">
-<h3>B2C eCommerce Solutions</h3>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="estate-item">
-<h3>Full-Cycle ERP Solutions</h3>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="estate-item">
-<h3>POS Systems Integration</h3>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="estate-item">
-<h3>Inventory Management Solutions</h3>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="estate-item">
-<h3>Supply Chain Management</h3>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="estate-item">
-<h3>Loyalty Programs Development</h3>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="estate-item">
-<h3>Ecommerce CRM Solutions</h3>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="estate-item">
-<h3>Retail Intelligence &amp; Analytics</h3>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="estate-item">
-<h3>SaaS Enablement</h3>
-</div>
-</div>
-</div>
-</div>
-</section>
+    <section class="emizentech-cloud ">
+      <div class="container">
+        <div class="cloud-item">
+          <div class="row">
+            <div class="col-lg-5">
+              <div class="">
+                <img
+                  src="~/assets/online-shopping.jpg"
+                  alt="3dcart Integration"
+                />
+              </div>
+            </div>
+            <div class="">
+              <div class="">
+                <div class="row">
+                  <div class="ml-4">
+                    <ul class="bullet-list">
+                      <li>Customers can register and login to their respective dashboards.</li>
+                      <li>They can buy the products with secured transactions through a payment gateway.</li>
+                      <li>Can track their order from time to time.</li>
+                      <li>They can add multiple products in the shopping cart.</li>
+                      <li>A powerful search bar enables them to search for any product with the keywords.</li>
+                      <li>They can chat with customer support through the chat assistant.</li>
+                      <li>Add and edit product pricing and descriptions with ease</li>
+                      <li>Custom attribute options for products, like color and weight selections</li>
+                      <li>They can select the gift-wrapping options before ordering the product.</li>
+                      <li>They can cancel or modify orders.</li>
+                      <li>Claiming for discounted codes are also present for specific customers.</li>
+                      <li>As soon as they log in to their account they can see the latest offers going on in the marketplace.</li>
+                    </ul>
+                  </div>
+                </div>
+                <!-- <a href="enqiry.html" class="emizentech-btn"><span class="sprites-image"></span> Talk to Consultant</a> -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
-<section class="emizentech-studies">
-<div class="swiper-container swiper-container-fade swiper-container-initialized swiper-container-horizontal swiper-container-autoheight">
-<div class="swiper-wrapper" style="transition-duration: 0ms; height: 713px;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="3" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(0px, 0px, 0px);">
-<div class="row">
-<div class="col-lg-5 studies-bg-4">
-<div class="studies-info">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<div class="rebellious-logo"><img src="~/assets/images/rebellious-logo.png" alt="Rebellious" width="282" height="62"></div>
-<div class="studies-info-wrap">
-<h2>Rebellious</h2>
-<p>Holding 20 years of experience in the fashion industry, Rebellious fashion prides itself on availing the latest and in-demand trends at best prices.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="scroll-link studies-scroll-link"><a href="#skip-section" class="skip-link">SKIP</a></div>
-</div>
-<div class="col-lg-7">
-<div class="studies-wrap">
-<div class="rebellious-device">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<img src="~/assets/images/rebellious-device.png" alt="Rebellious" width="1260" height="988">
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide" data-swiper-slide-index="0" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(-801px, 0px, 0px);">
-<div class="row">
-<div class="col-lg-5 studies-bg-1">
-<div class="studies-info">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<div class="studies-logo"><img src="~/assets/images/moriitalia-logo.png" alt="Moriitalia" width="423" height="231"></div>
-<div class="studies-info-wrap">
-<h2>Moriitalia</h2>
-<p>Developed to find B2B and B2C providers, dFinder app assists in searching the suppliers for a specific business, for consumers, it searches restaurants, retailers, groceries, and supermarkets and other such businesses.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="scroll-link studies-scroll-link"><a href="#skip-section" class="skip-link">SKIP</a></div>
-</div>
-<div class="col-lg-7">
-<div class="studies-wrap">
-<div class="moriitalia-device">
-<img src="~/assets/images/moriitalia-device1.png" alt="Moriitalia Device" width="414" height="685">
-<img src="~/assets/images/moriitalia-device3.png" alt="Moriitalia Device" width="383" height="130" class="device3">
-</div>
-<div class="moriitalia-device device2">
-<img src="~/assets/images/moriitalia-device2.png" alt="Moriitalia Device" width="414" height="632">
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="1" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(-1602px, 0px, 0px);">
-<div class="row">
-<div class="col-lg-5 studies-bg-2">
-<div class="studies-info">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<div class="studies-logo"><img src="~/assets/images/dragon-logo.png" alt="Dragon" width="248" height="277"></div>
-<div class="studies-info-wrap">
-<h2>Dragon Fit</h2>
-<p>Developed to find B2B and B2C providers, dFinder app assists in searching the suppliers for a specific business, for consumers, it searches restaurants, retailers, groceries, and supermarkets and other such businesses.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="scroll-link studies-scroll-link"><a href="#skip-section" class="skip-link">SKIP</a></div>
-</div>
-<div class="col-lg-7">
-<div class="studies-wrap">
-<div class="dragon-device">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<img src="~/assets/images/dragon-device.png" alt="Dragon" width="1242" height="932">
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide swiper-slide-active" data-swiper-slide-index="2" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(-2403px, 0px, 0px);">
-<div class="row">
-<div class="col-lg-5 studies-bg-3">
-<div class="studies-info">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<div class="ego-logo"><img src="~/assets/images/ego-logo.png" alt="Ego" width="365" height="127"></div>
-<div class="studies-info-wrap">
-<h2>EGO</h2>
-<p>An online, bold, and lively footwear brand, EGO showcases stylish shoes to make shoeholics go mad. It offers fierce styles for tough gals who cherish standing uniquely from the crowd, static trend, and want to be a game-changer.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="scroll-link studies-scroll-link"><a href="#skip-section" class="skip-link">SKIP</a></div>
-</div>
-<div class="col-lg-7">
-<div class="studies-wrap">
-<div class="ego-device">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<img src="~/assets/images/ego-device.png" width="1196" height="988" alt="Ego">
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide swiper-slide-next" data-swiper-slide-index="3" style="width: 801px; transition-duration: 0ms; opacity: 0; transform: translate3d(-3204px, 0px, 0px);">
-<div class="row">
-<div class="col-lg-5 studies-bg-4">
-<div class="studies-info">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<div class="rebellious-logo"><img src="~/assets/images/rebellious-logo.png" alt="Rebellious" width="282" height="62"></div>
-<div class="studies-info-wrap">
-<h2>Rebellious</h2>
-<p>Holding 20 years of experience in the fashion industry, Rebellious fashion prides itself on availing the latest and in-demand trends at best prices.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="scroll-link studies-scroll-link"><a href="#skip-section" class="skip-link">SKIP</a></div>
-</div>
-<div class="col-lg-7">
-<div class="studies-wrap">
-<div class="rebellious-device">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<img src="~/assets/images/rebellious-device.png" alt="Rebellious" width="1260" height="988">
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" style="width: 801px; transition-duration: 0ms; opacity: 0; transform: translate3d(-4005px, 0px, 0px);">
-<div class="row">
-<div class="col-lg-5 studies-bg-1">
-<div class="studies-info">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<div class="studies-logo"><img src="~/assets/images/moriitalia-logo.png" alt="Moriitalia" width="423" height="231"></div>
-<div class="studies-info-wrap">
-<h2>Moriitalia</h2>
-<p>Developed to find B2B and B2C providers, dFinder app assists in searching the suppliers for a specific business, for consumers, it searches restaurants, retailers, groceries, and supermarkets and other such businesses.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="scroll-link studies-scroll-link"><a href="#skip-section" class="skip-link">SKIP</a></div>
-</div>
-<div class="col-lg-7">
-<div class="studies-wrap">
-<div class="moriitalia-device">
-<img src="~/assets/images/moriitalia-device1.png" alt="Moriitalia Device" width="414" height="685">
-<img src="~/assets/images/moriitalia-device3.png" alt="Moriitalia Device" width="383" height="130" class="device3">
-</div>
-<div class="moriitalia-device device2">
-<img src="~/assets/images/moriitalia-device2.png" alt="Moriitalia Device" width="414" height="632">
-</div>
-</div>
-</div>
-</div>
-</div></div>
-<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-</section>
-
-<section class="emizentech-services services-style-two" id="skip-section">
-<div class="container">
-<div class="section-title">
-<h2><span>Why Emizentech</span> for Retail &amp; eCommerce Software Development Solutions.</h2>
-<p>Covers all the groundwork of eCommerce Services and appends every dimension with our comprehensive solutions.</p>
-</div>
-<div class="row justify-content-center">
-<div class="service-item">
-<img src="~/assets/images/icon87.png" alt="Magento">
-<h4>Rapid Delivery</h4>
-</div>
-<div class="service-item">
-<img src="~/assets/images/icon88.png" alt="Shopify">
-<h4>Proficient and <br> Skilled Developers</h4>
-</div>
-<div class="service-item">
-<img src="~/assets/images/icon89.png" alt="Magento">
-<h4>Agile Methodologies</h4>
-</div>
-<div class="service-item">
-<img src="~/assets/images/icon90.png" alt="Magento">
-<h4>Extensively Customer Vouched Reputation</h4>
-</div>
-<div class="service-item">
-<img src="~/assets/images/icon91.png" alt="Magento">
-<h4>100% Customer Satisfaction</h4>
-</div>
-<div class="service-item">
-<img src="~/assets/images/icon92.png" alt="Magento">
-<h4>Competitive Pricing</h4>
-</div>
-<div class="service-item">
-<img src="~/assets/images/icon93.png" alt="Magento">
-<h4>Nasscom Certified Company</h4>
-</div>
-<div class="service-item">
-<img src="~/assets/images/icon94.png" alt="Magento">
-<h4>Active Support And maintenance</h4>
-</div>
-<div class="service-item">
-<img src="~/assets/images/icon95.png" alt="Magento">
-<h4>The Best <br> Opencart Developer</h4>
-</div>
-<div class="service-item">
-<img src="~/assets/images/icon96.png" alt="Magento">
-<h4>Service Global Clients</h4>
-</div>
-<div class="service-item">
-<img src="~/assets/images/icon97.png" alt="Magento">
-<h4>ISO 27001:2013 Certified Company</h4>
-</div>
-</div>
-</div>
-</section>
-
-<section class="emizentech-industries industries-spacer-two">
-<div class="container">
-<div class="row">
-<div class="col-md-6">
-<h3 data-aos="zoom-in" class="aos-init aos-animate">Serving Diverse</h3>
-<h2 data-aos="zoom-in" class="aos-init aos-animate">Industries</h2>
-</div>
-<div class="col-md-6">
-<div class="owl-carousel owl-loaded owl-drag" data-items="5" data-margin="30" data-auto-width="true" data-loop="true" data-nav="true" data-dots="false" data-autoplay="true">
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1085px, 0px, 0px); transition: all 0.6s ease 0s; width: 3720px;"><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-two">
-<div class="emizentech-image"><img src="~/assets/images/healthcare-icon.png" alt="Healthcare" style="opacity: 1;"></div>
-<h4><a href="healthcare-fitness.html">Healthcare &amp; Fitness</a></h4>
-</div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-three">
-<div class="emizentech-image"><img src="~/assets/images/banking-icon.png" alt="Banking &amp; Finance" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="banking-finance.html">Banking &amp; Finance</a></h4>
-</div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-four">
-<div class="emizentech-image"><img src="~/assets/images/logistics.png" alt="Logistics" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="logistic-transportation.html">Logistics &amp; Transport</a></h4>
-</div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-five">
-<div class="emizentech-image"><img src="~/assets/images/education-icon.png" alt="Education" style="opacity: 1;"></div>
-<h4><a href="ecommerce-retail.html">Education &amp; eLearning</a></h4>
-</div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-six">
-<div class="emizentech-image"><img src="~/assets/images/sports-icon.png" alt="Entertainment" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="gaming-leisure.html">Sports $ Gaming</a></h4>
-</div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-three">
-<div class="emizentech-image"><img src="~/assets/images/ticketing.png" alt="Ticketing" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="events-tickets.html">Ticketing &amp; Event</a></h4>
-</div>
-</div></div><div class="owl-item" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item">
-<div class="emizentech-image"><img src="~/assets/images/icon20.png" alt="eCommerce &amp; Retail" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="ecommerce-retail.html">eCommerce <br> &amp; Retail</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-two">
-<div class="emizentech-image"><img src="~/assets/images/icon21.png" alt="Food" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="food-solution.html">Food &amp; Beverage</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-three">
-<div class="emizentech-image"><img src="~/assets/images/icon22.png" alt="Travel" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="travel-hospitality.html">Travel &amp; Hospitality</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-four">
-<div class="emizentech-image"><img src="~/assets/images/icon23.png" alt="Automotive" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="automotive-industry.html">Automotive Industry</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-five">
-<div class="emizentech-image"><img src="~/assets/images/icon24-1.png" alt="Media" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="media-entertainment.html">Media &amp; Entertainment</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-six">
-<div class="emizentech-image"><img src="~/assets/images/icon25.png" alt="Real Estate" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="realestate-solution.html">Real <br> Estate</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-two">
-<div class="emizentech-image"><img src="~/assets/images/healthcare-icon.png" alt="Healthcare" style="opacity: 1;"></div>
-<h4><a href="healthcare-fitness.html">Healthcare &amp; Fitness</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-three">
-<div class="emizentech-image"><img src="~/assets/images/banking-icon.png" alt="Banking &amp; Finance" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="banking-finance.html">Banking &amp; Finance</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-four">
-<div class="emizentech-image"><img src="~/assets/images/logistics.png" alt="Logistics" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="logistic-transportation.html">Logistics &amp; Transport</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-five">
-<div class="emizentech-image"><img src="~/assets/images/education-icon.png" alt="Education" style="opacity: 1;"></div>
-<h4><a href="ecommerce-retail.html">Education &amp; eLearning</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-six">
-<div class="emizentech-image"><img src="~/assets/images/sports-icon.png" alt="Entertainment" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="gaming-leisure.html">Sports $ Gaming</a></h4>
-</div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-three">
-<div class="emizentech-image"><img src="~/assets/images/ticketing.png" alt="Ticketing" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="events-tickets.html">Ticketing &amp; Event</a></h4>
-</div>
-</div></div><div class="owl-item cloned active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item">
-<div class="emizentech-image"><img src="~/assets/images/icon20.png" alt="eCommerce &amp; Retail" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="ecommerce-retail.html">eCommerce <br> &amp; Retail</a></h4>
-</div>
-</div></div><div class="owl-item cloned active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-two">
-<div class="emizentech-image"><img src="~/assets/images/icon21.png" alt="Food" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="food-solution.html">Food &amp; Beverage</a></h4>
-</div>
-</div></div><div class="owl-item cloned active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-three">
-<div class="emizentech-image"><img src="~/assets/images/icon22.png" alt="Travel" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="travel-hospitality.html">Travel &amp; Hospitality</a></h4>
-</div>
-</div></div><div class="owl-item cloned active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-four">
-<div class="emizentech-image"><img src="~/assets/images/icon23.png" alt="Automotive" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="automotive-industry.html">Automotive Industry</a></h4>
-</div>
-</div></div><div class="owl-item cloned active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-five">
-<div class="emizentech-image"><img src="~/assets/images/icon24-1.png" alt="Media" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="media-entertainment.html">Media &amp; Entertainment</a></h4>
-</div>
-</div></div><div class="owl-item cloned active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="industrie-item industrie-color-six">
-<div class="emizentech-image"><img src="~/assets/images/icon25.png" alt="Real Estate" width="100" height="87" style="opacity: 1;"></div>
-<h4><a href="realestate-solution.html">Real <br> Estate</a></h4>
-</div>
-</div></div></div></div><div class="owl-nav"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">0</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
-</div>
-</div>
-</div>
-</section>
-
-<section class="emizentech-testimonials testimonials-style-two">
-<div class="container">
-<div class="section-title">
-<h2><span>Our performance</span> their words!</h2>
-<p>Come let’s witness their words of appreciation about our work, offerings, and upshots.</p>
-</div>
-<div class="testimonials-wrap">
-<div class="owl-carousel owl-loaded owl-drag" data-items="1" data-margin="0" data-loop="true" data-nav="true" data-dots="false" data-autoplay="false">
-
-
-
-
-<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1460px, 0px, 0px); transition: all 0s ease 0s; width: 5840px;"><div class="owl-item cloned" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images/icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Sales have increased in the wake of the migration and the company's search ranking has risen. Emizen Tech Private Limited is responsive and available, leading to a successful collaboration.</p>
-<div class="testimonials-name">
-<h3>Todays Component</h3>
-<p>Project Manager</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images/testimonials4.png" alt="Testimonials" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Todays <br> Component</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Todays Component</h3>
-<p>China, Hongkong</p>
-</div>
-<h4>Project Summary</h4>
-<h5>TodayComponents.com is the leading supplier of electronic components that we migrated to magento 2 from magento 1.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Feb. 2016</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon27.png" alt="$" width="36" height="36">
-<h4>$10,000 <br> to <br> $49,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
- </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item cloned" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images/icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Emizen Tech has resolved technical challenges rapidly and delivered cost-effective solutions. The team has been attentive and produced deliverables on time. They have provided technical expertise to support a valuable ongoing partnership.</p>
-<div class="testimonials-name">
-<h3>Sam</h3>
-<p>Product manager</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images/testimonials3.jpg" alt="Sam" width="225" height="349"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>London Seed – eCommerce Website</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Sam</h3>
-<p>London Seed</p>
-</div>
-<h4>Project Summary</h4>
-<h5>Emizen Tech provided development resources to solve technical issues with a website for a seed retailer.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Oct. 2019</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon27.png" alt="$" width="36" height="36">
-<h4>$10,000 <br> to <br> $49,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item active" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images/icon26.png" alt="Quote" width="56" height="43"></div>
-<p>The team at Emizen Tech delivered a quality solution within a tight deadline. They're reliable and dedicated. Their commitment supplemented their professional management style.</p>
-<div class="testimonials-name">
-<h3>Project Manager</h3>
-<p>Alex Perrie, Manchester, UK</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images/testimonials1.jpg" alt="Testimonials" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Rebellious Fashion – Ecommerce</h2>
- <span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Alex Perrie</h3>
-<p>Manchester, UK</p>
-</div>
-<h4>Project Summary</h4>
-<h5>Helped complete a client &amp; invoice management app for fitness professionals with additional functions to handle class.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Aug. 2017</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Nov. 2019</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon27.png" alt="$" width="36" height="36">
-<h4>$50,000 <br> to <br> $199,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon29.png" alt="Prievew" width="32" height="24">
-<h4><a href="#0">Preview</a></h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images/icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Sales have increased since Emizen Tech Private Limited came onboard, driven in party by webpage speed improvement. Emizen’s diverse technical expertise and thorough understanding of Magento 2 have made for a beneficial partnership.</p>
-<div class="testimonials-name">
-<h3>Haroon Hussain</h3>
-<p>Head of Development</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images/testimonials2.jpg" alt="Haroon Hussain" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Ego.co.uk - Footwear eCommerce Store</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Haroon Hussain</h3>
-<p>Head of Development</p>
-</div>
-<h4>Project Summary</h4>
-<h5>EGO is an online, trend-led sassy footwear brand representing a movement of stylish shoeaholics from around the globe.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Jan. 2017</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon27.png" alt="$" width="36" height="36">
-<h4>$50,000 <br> to <br> $199,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images/icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Sales have increased in the wake of the migration and the company's search ranking has risen. Emizen Tech Private Limited is responsive and available, leading to a successful collaboration.</p>
-<div class="testimonials-name">
-<h3>Todays Component</h3>
-<p>Project Manager</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images/testimonials4.png" alt="Testimonials" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Todays <br> Component</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Todays Component</h3>
-<p>China, Hongkong</p>
-</div>
-<h4>Project Summary</h4>
-<h5>TodayComponents.com is the leading supplier of electronic components that we migrated to magento 2 from magento 1.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Feb. 2016</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon27.png" alt="$" width="36" height="36">
-<h4>$10,000 <br> to <br> $49,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
- </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images/icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Emizen Tech has resolved technical challenges rapidly and delivered cost-effective solutions. The team has been attentive and produced deliverables on time. They have provided technical expertise to support a valuable ongoing partnership.</p>
-<div class="testimonials-name">
-<h3>Sam</h3>
-<p>Product manager</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images/testimonials3.jpg" alt="Sam" width="225" height="349"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>London Seed – eCommerce Website</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Sam</h3>
-<p>London Seed</p>
-</div>
-<h4>Project Summary</h4>
-<h5>Emizen Tech provided development resources to solve technical issues with a website for a seed retailer.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Oct. 2019</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon27.png" alt="$" width="36" height="36">
-<h4>$10,000 <br> to <br> $49,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item cloned" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images/icon26.png" alt="Quote" width="56" height="43"></div>
-<p>The team at Emizen Tech delivered a quality solution within a tight deadline. They're reliable and dedicated. Their commitment supplemented their professional management style.</p>
-<div class="testimonials-name">
-<h3>Project Manager</h3>
-<p>Alex Perrie, Manchester, UK</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images/testimonials1.jpg" alt="Testimonials" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Rebellious Fashion – Ecommerce</h2>
- <span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Alex Perrie</h3>
-<p>Manchester, UK</p>
-</div>
-<h4>Project Summary</h4>
-<h5>Helped complete a client &amp; invoice management app for fitness professionals with additional functions to handle class.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Aug. 2017</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Nov. 2019</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon27.png" alt="$" width="36" height="36">
-<h4>$50,000 <br> to <br> $199,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon29.png" alt="Prievew" width="32" height="24">
-<h4><a href="#0">Preview</a></h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item cloned" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images/icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Sales have increased since Emizen Tech Private Limited came onboard, driven in party by webpage speed improvement. Emizen’s diverse technical expertise and thorough understanding of Magento 2 have made for a beneficial partnership.</p>
-<div class="testimonials-name">
-<h3>Haroon Hussain</h3>
-<p>Head of Development</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images/testimonials2.jpg" alt="Haroon Hussain" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Ego.co.uk - Footwear eCommerce Store</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Haroon Hussain</h3>
-<p>Head of Development</p>
-</div>
-<h4>Project Summary</h4>
-<h5>EGO is an online, trend-led sassy footwear brand representing a movement of stylish shoeaholics from around the globe.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Jan. 2017</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon27.png" alt="$" width="36" height="36">
-<h4>$50,000 <br> to <br> $199,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div></div></div><div class="owl-nav"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">1</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
-</div>
-</div>
-</section>
-
-<section class="emizentech-faq">
+    <!-- <section class="emizentech-faq">
 <div class="container">
 <div class="section-title">
 <h2><span>FAQs</span></h2>
@@ -1135,9 +235,9 @@ What steps do you follow to develop retail and e-commerce software solutions?
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
-<section class="emizentech-blog">
+    <!-- <section class="emizentech-blog">
 <div class="container">
 <div class="row">
 <div class="col-md-6">
@@ -1183,9 +283,9 @@ What steps do you follow to develop retail and e-commerce software solutions?
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
-<section class="emizentech-clients">
+    <!-- <section class="emizentech-clients">
 <div class="container">
 <div class="owl-carousel owl-loaded owl-drag" data-items="7" data-items-tablet="5" data-items-mobile-landscape="4" data-items-mobile-portrait="3" data-margin="15" data-loop="true" data-nav="false" data-dots="false" data-autoplay="true">
 
@@ -1230,28 +330,32 @@ What steps do you follow to develop retail and e-commerce software solutions?
 <div class="emizentech-image"><img src="~/assets/images/client4.png" alt="Client" width="120" height="65"></div>
 </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">0</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
 </div>
-</section>
+</section> -->
 
-<section class="emizentech-shy">
-<div class="container">
-<h3>Don’t be Shy</h3>
-<h2>Say Hello!</h2>
-<div class="text-right"><a href="enqiry.html" class="emizentech-btn emizentech-medium-btn">Get in Touch</a></div>
-</div>
-</section>
+<Started/>
 
-<FooterMenu/>
+<Stats/>
 
-<!-- <div id="gdpr-cookie-message" style="display: block;"><h4>🍪 Accept Cookies &amp; Privacy Policy?</h4><p>We use cookies to improve your web experience. If you continue to browse our website, you acknowledge our use of cookies. For detailed information on how we use cookies, view our... <a href="privacy-policy.html">More information</a></p><div id="gdpr-cookie-types" style="display:none;"><h5>Select which cookies you want to accept</h5><ul><li><input type="checkbox" name="gdpr[]" value="necessary" checked="checked" disabled="disabled"> <label title="These are essential for the website to work correctly.">Essential</label></li><li><input type="checkbox" id="gdpr-cookietype-preferences" name="gdpr[]" value="preferences" data-auto="on"> <label for="gdpr-cookietype-preferences" title="These are cookies that are related to your site preferences, e.g. remembering your username, site colours, etc.">Site Preferences</label></li><li><input type="checkbox" id="gdpr-cookietype-analytics" name="gdpr[]" value="analytics" data-auto="on"> <label for="gdpr-cookietype-analytics" title="Cookies related to site visits, browser types, etc.">Analytics</label></li><li><input type="checkbox" id="gdpr-cookietype-marketing" name="gdpr[]" value="marketing" data-auto="on"> <label for="gdpr-cookietype-marketing" title="Cookies related to marketing, e.g. newsletters, social media, etc">Marketing</label></li></ul></div><p><button id="gdpr-cookie-accept" type="button">Accept Cookies</button><button id="gdpr-cookie-advanced" type="button">Customise Cookies</button></p></div><iframe data-product="web_widget" title="No content" tabindex="-1" aria-hidden="true" src="about:blank" style="width: 0px; height: 0px; border: 0px; position: absolute; top: -9999px;"></iframe><div><iframe title="Opens a widget where you can chat to one of our agents" id="launcher" tabindex="-1" style="width: 107px; height: 50px; padding: 0px; margin: 10px 20px; position: fixed; bottom: 30px; overflow: visible; opacity: 0; border: 0px; z-index: 999998; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1); transition-property: opacity, top, bottom; top: -9999px; visibility: hidden;"></iframe><iframe title="Find more information here" id="webWidget" tabindex="0" style="width: 374px; max-height: calc(100vh - 32px); height: 572px; position: fixed; opacity: 1; border: 0px; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1); transition-property: opacity, top, bottom; z-index: 999999; right: 0px; bottom: 0px;"></iframe></div><div id="gb-widget-4157" style="bottom: 21px; left: 23px; opacity: 1; transition: opacity 0.5s ease 0s; box-sizing: border-box; direction: ltr; position: fixed !important; z-index: 16000160 !important;"><div><div class="q8c6tt-2 dJvETY"><a href="https://wa.me/442032877992" target="_blank" class="sc-1s18q3d-1 sc-8eqc3y-1 iILOR"><div class="sc-8eqc3y-0 fXBuHm">Let's Chat</div></a><a href="https://wa.me/442032877992" target="_blank" color="#4dc247" id class="q8c6tt-0 jvFDcV"><svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="width: 100%; height: 100%; fill: rgb(255, 255, 255); stroke: none;"><path d="M19.11 17.205c-.372 0-1.088 1.39-1.518 1.39a.63.63 0 0 1-.315-.1c-.802-.402-1.504-.817-2.163-1.447-.545-.516-1.146-1.29-1.46-1.963a.426.426 0 0 1-.073-.215c0-.33.99-.945.99-1.49 0-.143-.73-2.09-.832-2.335-.143-.372-.214-.487-.6-.487-.187 0-.36-.043-.53-.043-.302 0-.53.115-.746.315-.688.645-1.032 1.318-1.06 2.264v.114c-.015.99.472 1.977 1.017 2.78 1.23 1.82 2.506 3.41 4.554 4.34.616.287 2.035.888 2.722.888.817 0 2.15-.515 2.478-1.318.13-.33.244-.73.244-1.088 0-.058 0-.144-.03-.215-.1-.172-2.434-1.39-2.678-1.39zm-2.908 7.593c-1.747 0-3.48-.53-4.942-1.49L7.793 24.41l1.132-3.337a8.955 8.955 0 0 1-1.72-5.272c0-4.955 4.04-8.995 8.997-8.995S25.2 10.845 25.2 15.8c0 4.958-4.04 8.998-8.998 8.998zm0-19.798c-5.96 0-10.8 4.842-10.8 10.8 0 1.964.53 3.898 1.546 5.574L5 27.176l5.974-1.92a10.807 10.807 0 0 0 16.03-9.455c0-5.958-4.842-10.8-10.802-10.8z"/></svg></a></div><a type="link" href="http://getbutton.io/?utm_campaign=multy_widget&amp;utm_medium=widget&amp;utm_source=www.emizentech.com" class="sc-7dvmpp-1 gCdMUP">GetButton</a></div></div> -->
-</div>
+<Talk/>
+
+    <FooterMenu />
+  </div>
 </template>
 
 <script>
+import Started from '~/components/Started.vue'
 export default {
-
-}
+  components: { Started },}
 </script>
 
 <style>
-
+.ecom-banner {
+  overflow: hidden;
+  height: 340px;
+  padding-top: 140px;
+  background-image: url(~assets/ecommerce-website.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 </style>

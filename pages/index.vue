@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div data-aos-easing="ease" data-aos-duration="1200" data-aos-delay="0">
     <Header />
 
     <Slider />
