@@ -22,8 +22,8 @@
 <section class="emizentech-serving serving-style-two serving-spacer-three">
 <div class="container">
 <div class="section-title">
-<h2><span>Our</span> core values</h2>
-<p>Our core values describe who we actually are</p>
+<h2><span>HULTIONS</span></h2>
+<!-- <p>Our core values describe who we actually are</p> -->
 </div>
 <div class="row">
 <div class="col-lg-6">
@@ -41,6 +41,44 @@
 <div class="serving-info">
 <h3>REGISTER FOR THE BEST DISCOUNTS AVAILABLE NOW</h3>
 <p>[contact-form-7 404 "Not Found"]</p>
+</div>
+</div>
+</div>
+</div>
+<div class="row skill-style-two">
+<div class="col-lg-3 col-6">
+<div class="skill-item">
+<img src="~/assets/images//icon4.png" alt="Web &amp; Mobile Project" width="65" height="65">
+<div class="skill-info">
+<h2><span class="emizentech-counter">8</span>+ years</h2>
+<h4>of Industry Experience</h4>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-6">
+<div class="skill-item">
+<img src="~/assets/images//icon5.png" alt="Repeated clients" width="65" height="65">
+<div class="skill-info">
+<h2><span class="emizentech-counter">450</span>+</h2>
+<h4>Delighted Clients</h4>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-6">
+<div class="skill-item">
+<img src="~/assets/images//icon6.png" alt="Happy clients" width="65" height="65">
+<div class="skill-info">
+<h2><span class="emizentech-counter">200</span>+</h2>
+<h4>Team Members</h4>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-6">
+<div class="skill-item">
+<img src="~/assets/images//icon7.png" alt="Years for Company" width="65" height="65">
+<div class="skill-info">
+<h2><span class="emizentech-counter">50</span>%</h2>
+<h4>Senior and Expert Staff</h4>
 </div>
 </div>
 </div>
@@ -103,7 +141,8 @@
 </div>
 </section>
 
-<section class="emizentech-about about-style-six">
+
+<!-- <section class="emizentech-about about-style-six">
 <div class="container">
 <div class="row align-items-center aos-init aos-animate" data-aos="fade-up">
 <div class="col-xl-7 col-lg-6">
@@ -133,9 +172,9 @@
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
-<section class="emizentech-blog">
+<!-- <section class="emizentech-blog">
 <div class="container">
 <div class="row">
 <div class="col-md-6">
@@ -181,9 +220,9 @@
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
-<section class="emizentech-clients">
+<!-- <section class="emizentech-clients">
 <div class="container">
 <div class="owl-carousel owl-loaded owl-drag" data-items="7" data-items-tablet="5" data-items-mobile-landscape="4" data-items-mobile-portrait="3" data-margin="15" data-loop="true" data-nav="false" data-dots="false" data-autoplay="true">
 
@@ -228,14 +267,30 @@
 <div class="emizentech-image"><img src="~/assets/images//client4.png" alt="Client" width="120" height="65"></div>
 </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">0</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
 </div>
-</section>
+</section> -->
 
-<section class="emizentech-shy aos-init aos-animate" data-aos="fade-up">
+<!-- <section class="emizentech-shy aos-init aos-animate" data-aos="fade-up">
 <div class="container">
 <h3>Don’t be Shy</h3>
 <h2>Say Hello!</h2>
 <div class="text-right">
 <div class="text-right"><a href="enqiry.html" class="emizentech-btn emizentech-medium-btn">Get in Touch</a></div>
+</div>
+</div>
+</section> -->
+
+<section class="emizentech-about about-style-five" id="first-section">
+<div class="container">
+<div class="section-title">
+<h2>Lets Get Started
+your project</h2>
+<!-- <p>Let us tell you the story of our formation</p> -->
+</div>
+<div class="small-title">
+<p>We focus strongly on function and usability and train you to manage your website as a business asset. We go to great lengths to assure your content is delivered in such a way that visitors can easily and intuitively find the information they seek, resulting in a pleasant and productive user experience.</p>
+<div class="text-center">
+<div class="text-center"><a href="#" class="emizentech-btn emizentech-medium-btn">Request A Quote</a></div>
+</div>
 </div>
 </div>
 </section>

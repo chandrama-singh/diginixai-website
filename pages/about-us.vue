@@ -7,8 +7,8 @@
 <div class="row align-items-center">
 <div class="col-md-7">
 <div class="banner-info">
-<h1>Welcome to <span>Emizentech!</span></h1>
-<p>We are a thriving squad of nerd minds, think tankers, pro coders, business geeks, and awesomely creative beings.</p>
+<h1>WE ARE <span>CREATIVE</span></h1>
+<p>When it comes to technical innovations DiginixAi is your final destination. We cater to the latest technical methodologies which embrace the right optimum AI-driven solutions for your business. We analyze, plan, implement, and succeed. Our web architects are highly experienced and design the best content strategies to bring successive results in no time.</p>
 <a href="enqiry.html" class="emizentech-btn"><span class="sprites-image"></span> Talk to Consultant</a>
 </div>
 </div>
@@ -23,10 +23,12 @@
 <div class="container">
 <div class="section-title">
 <h2><span>OUR</span> STORY</h2>
-<p>Let us tell you the story of our formation</p>
+<!-- <p>Let us tell you the story of our formation</p> -->
 </div>
 <div class="small-title">
-<p>Emizen tech Pvt Ltd began as a Web Development Company in the year 2013, in Jaipur, Rajasthan, with the vision to help clients grow, we started incorporating modern technology solutions in their businesses. Soon after the launch, we grow from a startup Web Development Company to Best Information technology company, catering the IT needs of many big brands. To be more precise we are digital natives with a pioneering approach to E-commerce Solutions, Web Development, Web Designing, Software Development, Software Consulting, Digital Marketing, Mobile App Development, Graphic Designing and rest IT solutions. Which are significantly broadened to meet the all-time business and, technology needs of today’s global environment, and seeking to revolutionize the way people use technology to communicate, conduct business, gain information, and carry out transactions.</p>
+<p>Technological innovation requires teamwork, and this being our success mantra since our journey, we have followed the same throughout our course. We believe success comes when we join hands together, our partnership deals with the other organizations have sorted out all the difficulties, and helped us derive the best industry-leading ideas beyond the ordinary approaches.</p>
+<p>Diginix-Ai is a name to be trusted when it comes to creating the best IT solutions for the industry. We have been serving the industry with the most holistic, user-centric solutions that bring accurate outcomes, the desired results as per the clients’ needs.</p>
+<p>We undertake only one single project at a time and put our best efforts on it so that the client gains what they are looking for while we retain the top position in the industry.</p>
 <div class="row skill-style-two">
 <div class="col-lg-3 col-6">
 <div class="skill-item">
@@ -69,19 +71,48 @@
 </div>
 </section>
 
+<section class="emizentech-cloud cloud-spacer-two cloud-style-four">
+<div class="container">
+<div class="cloud-item">
+<div class="row align-items-center">
+<div class="col-lg-5">
+<div class="emizentech-image"><img src="~/assets/images//icon138.png" alt="3dcart Integration"></div>
+</div>
+<div class="col-lg-7">
+<div class="cloud-info">
+<h3><span>Our </span>Growth Story</h3>
+<p>We understand the client’s requirements and derive the best ways to close the gaps between the business and the targeted audience by successfully analyzing the demographics of the potential customers and competitors.</p>
+<p>Bringing technological innovation doesn’t always require huge expenditures. But a result-oriented approach using the optimal resources can bring higher possibilities of success. We take one thing at a time, but our dedication into it and try making it the best-thus reach the expected result within the stipulated time frame.</p>
+<div class="row">
+<div class="col-md-6">
+<ul class="bullet-list">
+<li>Smart E touch propriety Firm 2009</li>
+<li>Diginix Technologies India Pvt Ltd 2013</li>
+<li>Diginix Ai It Solutions (Dubai Economic Department) 2020</li>
+</ul>
+</div>
+</div>
+<!-- <a href="enqiry.html" class="emizentech-btn"><span class="sprites-image"></span> Talk to Consultant</a> -->
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
 <section class="emizentech-serving serving-style-two serving-spacer-three">
 <div class="container">
-<div class="section-title">
+<!-- <div class="section-title">
 <h2><span>Our</span> core values</h2>
 <p>Our core values describe who we actually are</p>
-</div>
+</div> -->
 <div class="row">
 <div class="col-lg-6">
 <div class="serving-item">
 <div class="emizentech-icon"><img src="~/assets/images//authenticity.png" alt="Authenticity"></div>
 <div class="serving-info">
-<h3>Authenticity</h3>
-<p>For us, authenticity is over everything; we don't waste our energies in copying anyone. Instead, we direct our energies toward creating everything eccentric. Authenticity gives us the power to express our viewpoints in front of our clients.</p>
+<h3>DESIGN GROUP</h3>
+<p>We have the best website designers in Dubai in our team who dedicatedly work together along with web developers, software developers, and SEO analysts. As a team, they derive the most useful layouts for the website that serves the industry needs as well as the clients’ requirements. We analyze and measure the client’s business model and find out the right strategies so that it will fulfill all the criteria and take the organization to grow to the next level.</p>
 </div>
 </div>
 </div>
@@ -89,12 +120,13 @@
 <div class="serving-item">
 <div class="emizentech-icon"><img src="~/assets/images//transparency.png" alt="Transparency"></div>
 <div class="serving-info">
-<h3>Transparency</h3>
-<p>Someone wise once said, honesty and transparency make you unique. Likewise, our core values rely entirely on this. We have nothing to hide. Hence we believe in full clarity with our clients and within our team.</p>
+<h3>DEVELOPMENT GROUP</h3>
+<p>Diginix-Ai has expert mobile application developers to create the latest smartphone apps that bring technology to its extreme form of advancement.</p>
+<p>Powerful AI integration with the simple coding implementation is the two best features of the mobile applications we create. Starting from the native apps to the complex hybrid or cloud-based apps- we cater to all.</p>
 </div>
 </div>
 </div>
-<div class="col-lg-6">
+<!-- <div class="col-lg-6">
 <div class="serving-item">
 <div class="emizentech-icon"><img src="~/assets/images//commitment.png" alt="Commitment"></div>
 <div class="serving-info">
@@ -129,7 +161,7 @@
 <p>Once you replace cant's from can's, you will start achieving positive results, and that's how we do it. In the end, what all matter to us is positive results, and we are the pro in providing them within the stringent timelines.</p>
 </div>
 </div>
-</div>
+</div> -->
 </div>
 </div>
 </section>
@@ -143,20 +175,20 @@
 <div class="col-xl-5 col-lg-6">
 <div class="about-info">
 <h3>OUR</h3>
-<h2>MISSION &amp; VISION</h2>
+<h2>MISSION &amp; PHILOSOPHY</h2>
 <div class="development-inner">
 <div class="development-item-wrap">
 <div class="emizentech-icon"><img src="~/assets/images//mission-icon.png" alt="Mission"></div>
 <div class="development-info">
 <h5>Our Mission</h5>
-<p>Our Mission is to make everyone full-fledged with advanced technology solutions we offer.</p>
+<p>Consolidating a result-oriented solution for the clients is our ultimate goal. We believe in delivering quality web solutions to organizations starting from the small scale industries to the big MNCs. Our engineers are highly qualified in designing the best technology that exactly suits the business needs. Instead of going only for the high-end technical solutions, we strive to offer the optimal IT services across our esteemed clientele. Thus, we serve the IT industry with a beneficial idea of providing exceptional outcomes across all the sectors in the industry.</p>
 </div>
 </div>
 <div class="development-item-wrap">
 <div class="emizentech-icon"><img src="~/assets/images//vision-icon.png" alt="Vision"></div>
 <div class="development-info">
-<h5>Our Vision</h5>
-<p>To keep pace with the latest &amp; upcoming technology that empower and influence everyone and meanwhile giving us the chance to grow our inner self steadily.</p>
+<h5>Our PHILOSOPHY</h5>
+<p>Irrespective of the type of business you are running, the website needs to look professional. Our aim is to develop high-quality webpages with exceptional layouts, awesome navigation bars, a user-friendly interface, and mobile responsiveness. We focus on designing search engine friendly websites so that it ranks well and brings potential traffic to the business.</p>
 </div>
 </div>
 </div>
@@ -166,111 +198,21 @@
 </div>
 </section>
 
-<section class="emizentech-blog">
+<section class="emizentech-about about-style-five" id="first-section">
 <div class="container">
-<div class="row">
-<div class="col-md-6">
-<div class="blog-title">
-<h3>Recently</h3>
-<h2>Blogs</h2>
+<div class="section-title">
+<h2>Lets Get Started
+your project</h2>
+<!-- <p>Let us tell you the story of our formation</p> -->
 </div>
-<figure class="blog-item">
-<img src="~/assets/images//blog1.jpg" alt="Blog" width="640" height="474">
-<figcaption>
-<h4>Personal</h4>
-<h3><a href="https://www.emizentech.com/blog/child-to-parent-communication-in-lwc.html">How To Use Child To Parent Communication In LWC In Salesforce</a></h3>
-<a href="https://www.emizentech.com/blog/child-to-parent-communication-in-lwc.html" class="blog-link">Read more</a>
-</figcaption>
-</figure>
-<div class="call-block">
-<div class="call-block-wrap">
-<div class="emizentech-icon"><img src="~/assets/images//icon3.png" alt="Call" width="42" height="42"></div>
-<div class="call-info">
-<h5>Have an idea?</h5>
-<p>Convert your app idea into profitable Business Mobile Application...<a href="enqiry.html">Talk to Expert</a></p>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-6">
-<figure class="blog-item ml-lg-5">
-<img src="~/assets/images//blog2.jpg" alt="Blog" width="640" height="474">
-<figcaption>
-<h4>Personal</h4>
-<h3><a href="https://www.emizentech.com/blog/how-to-fetch-records-using-lightning-data-service.html">How To Fetch Records By Lightning Data Service In Salesforce</a></h3>
-<a href="https://www.emizentech.com/blog/how-to-fetch-records-using-lightning-data-service.html" class="blog-link">Read more</a>
-</figcaption>
-</figure>
-<figure class="blog-item ml-lg-5">
-<img src="~/assets/images//blog3.jpg" alt="Blog" width="640" height="474">
-<figcaption>
-<h4>Personal</h4>
-<h3><a href="https://www.emizentech.com/blog/optimize-voice-search-for-ecommerce-store.html">How To Optimize Your eCommerce Store For Voice Search</a></h3>
- <a href="https://www.emizentech.com/blog/optimize-voice-search-for-ecommerce-store.html" class="blog-link">Read more</a>
-</figcaption>
-</figure>
+<div class="small-title">
+<p>We focus strongly on function and usability and train you to manage your website as a business asset. We go to great lengths to assure your content is delivered in such a way that visitors can easily and intuitively find the information they seek, resulting in a pleasant and productive user experience.</p>
+<div class="text-center">
+<div class="text-center"><a href="#" class="emizentech-btn emizentech-medium-btn">Request A Quote</a></div>
 </div>
 </div>
 </div>
 </section>
-
-<section class="emizentech-clients">
-<div class="container">
-<div class="owl-carousel owl-loaded owl-drag" data-items="7" data-items-tablet="5" data-items-mobile-landscape="4" data-items-mobile-portrait="3" data-margin="15" data-loop="true" data-nav="false" data-dots="false" data-autoplay="true">
-
-
-
-
-
-
-
-
-<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-931px, 0px, 0px); transition: all 0.6s ease 0s; width: 2980px;"><div class="owl-item cloned" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images//client5.png" alt="Client" width="65" height="65"></div>
-</div></div><div class="owl-item cloned" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images//client6.png" alt="Client" width="64" height="65"></div>
-</div></div><div class="owl-item cloned" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images//client7.png" alt="Client" width="116" height="65"></div>
-</div></div><div class="owl-item cloned" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images//client4.png" alt="Client" width="120" height="65"></div>
-</div></div><div class="owl-item" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images//client1.png" alt="Client" width="117" height="65"></div>
-</div></div><div class="owl-item active" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images//client2.png" alt="Client" width="111" height="65"></div>
-</div></div><div class="owl-item active" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images//client3.png" alt="Client" width="108" height="65"></div>
-</div></div><div class="owl-item active" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images//client4.png" alt="Client" width="120" height="65"></div>
-</div></div><div class="owl-item active" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images//client5.png" alt="Client" width="65" height="65"></div>
-</div></div><div class="owl-item" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images//client6.png" alt="Client" width="64" height="65"></div>
-</div></div><div class="owl-item" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images//client7.png" alt="Client" width="116" height="65"></div>
-</div></div><div class="owl-item" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images//client4.png" alt="Client" width="120" height="65"></div>
-</div></div><div class="owl-item cloned" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images//client1.png" alt="Client" width="117" height="65"></div>
-</div></div><div class="owl-item cloned" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images//client2.png" alt="Client" width="111" height="65"></div>
-</div></div><div class="owl-item cloned" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images//client3.png" alt="Client" width="108" height="65"></div>
-</div></div><div class="owl-item cloned" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images//client4.png" alt="Client" width="120" height="65"></div>
-</div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">0</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
-</div>
-</section>
-
-<section class="emizentech-shy aos-init aos-animate" data-aos="fade-up">
-<div class="container">
-<h3>Don’t be Shy</h3>
-<h2>Say Hello!</h2>
-<div class="text-right">
-<div class="text-right"><a href="enqiry.html" class="emizentech-btn emizentech-medium-btn">Get in Touch</a></div>
-</div>
-</div>
-</section>
-
 <FooterMenu/>
 </div>
 </template>

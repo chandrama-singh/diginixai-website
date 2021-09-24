@@ -27,7 +27,7 @@
 </div>
 <div class="small-title">
 <p>Get any type of it product developed at lowest possible cost. We will support you with consulting and development to bring your idea to life.</p>
-<!-- <div class="row skill-style-two">
+<div class="row skill-style-two">
 <div class="col-lg-3 col-6">
 <div class="skill-item">
 <img src="~/assets/images//icon4.png" alt="Web &amp; Mobile Project" width="65" height="65">
@@ -64,7 +64,7 @@
 </div>
 </div>
 </div>
-</div> -->
+</div>
 </div>
 </div>
 </section>
@@ -117,6 +117,22 @@
 </div>
 </section>
 
+<!-- <section>
+    <div class="container">
+<div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="..." alt="...">
+      <div class="caption">
+        <h3>Thumbnail label</h3>
+        <p>...</p>
+        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+    </div>
+</section> -->
 
 <section class="emizentech-about about-style-six">
 <div class="container">
