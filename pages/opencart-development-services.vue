@@ -287,7 +287,7 @@
 </div>
 </section>
 
-<section class="emizentech-hire">
+<!-- <section class="emizentech-hire">
 <div class="container">
 <div class="section-title">
 <h2><span>Hire OpenCart</span> Certified Developers</h2>
@@ -478,7 +478,7 @@
 </div></div></div></div><div class="owl-nav"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">0</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
 </div>
 </div>
-</section>
+</section> -->
 
 <section class="emizentech-api api-spacer-two">
 <div class="container">
@@ -500,7 +500,7 @@
 </div>
 </section>
 
-<section class="emizentech-studies">
+<!-- <section class="emizentech-studies">
 <div class="swiper-container swiper-container-fade swiper-container-initialized swiper-container-horizontal swiper-container-autoheight">
 <div class="swiper-wrapper" style="transition-duration: 0ms; height: 844px;"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="3" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(0px, 0px, 0px);">
 <div class="row">
@@ -677,7 +677,7 @@
 </div>
 </div></div>
 <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-</section>
+</section> -->
 
 <section class="emizentech-services services-style-two" id="skip-section">
 <div class="container">
@@ -734,499 +734,38 @@
 </div>
 </section>
 
-<section class="emizentech-testimonials testimonials-style-two">
+<section class="emizentech-serving serving-spacer-four">
 <div class="container">
 <div class="section-title">
-<h2><span>Our Performance</span> is Our Recognition</h2>
-<p>Our Clients Speak</p>
-</div>
-<div class="testimonials-wrap">
-<div class="owl-carousel owl-loaded owl-drag" data-items="1" data-margin="0" data-loop="true" data-nav="true" data-dots="false" data-autoplay="false">
+<h2><span>OUR PROFESSIONAL SERVICES</span></h2>
+<!-- <p>Artificial Intelligence Service Projects</p> -->
 
-
-
-
-<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1460px, 0px, 0px); transition: all 0s ease 0s; width: 5840px;"><div class="owl-item cloned" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
+</div>
 <div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images//icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Sales have increased in the wake of the migration and the company's search ranking has risen. Emizen Tech Private Limited is responsive and available, leading to a successful collaboration.</p>
-<div class="testimonials-name">
-<h3>Todays Component</h3>
-<p>Project Manager</p>
+<div class="col-lg-4 col-md-6">
+<div class="serving-item">
+<div class="emizentech-icon"><img src="~assets/images/android-uiux.png" alt="Android"></div>
+<h3>Template Development</h3>
+<p>We will give you a pixel perfect, SEO-friendly, cross-platform and standards-compliant foundation on which to build your site.</p>
+<!-- <a href="enqiry.html" class="emizentech-btn">Read More</a> -->
 </div>
 </div>
+<div class="col-lg-4 col-md-6">
+<div class="serving-item">
+<div class="emizentech-icon"><img src="~assets/images/prototype.png" alt="Prototype"></div>
+<h3>Custom OpenCart Programming</h3>
+<p>If you're looking to develop a custom OpenCart application or a feature that Diginixai doesn’t already include, let us build it for you.</p>
+<!-- <a href="enqiry.html" class="emizentech-btn">Read More</a> -->
 </div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images//testimonials4.png" alt="Testimonials" width="223" height="347"></div>
 </div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Todays <br> Component</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Todays Component</h3>
-<p>China, Hongkong</p>
+<div class="col-lg-4 col-md-6">
+<div class="serving-item">
+<div class="emizentech-icon"><img src="~assets/images/custom-development.png" alt="Custom"></div>
+<h3>Site Migrations</h3>
+<p>Are you looking to move your site to Diginixai WooCommerce? Let us handle the migration for you, or help your team speed up the process.</p>
+<!-- <a href="enqiry.html" class="emizentech-btn">Read More</a> -->
 </div>
-<h4>Project Summary</h4>
-<h5>TodayComponents.com is the leading supplier of electronic components that we migrated to magento 2 from magento 1.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Feb. 2016</h5>
 </div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon27.png" alt="$" width="36" height="36">
-<h4>$10,000 <br> to <br> $49,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item cloned" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images//icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Emizen Tech has resolved technical challenges rapidly and delivered cost-effective solutions. The team has been attentive and produced deliverables on time. They have provided technical expertise to support a valuable ongoing partnership.</p>
-<div class="testimonials-name">
-<h3>Sam</h3>
-<p>Product manager</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images//testimonials3.jpg" alt="Sam" width="225" height="349"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>London Seed – eCommerce Website</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Sam</h3>
-<p>London Seed</p>
-</div>
-<h4>Project Summary</h4>
-<h5>Emizen Tech provided development resources to solve technical issues with a website for a seed retailer.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Oct. 2019</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon27.png" alt="$" width="36" height="36">
-<h4>$10,000 <br> to <br> $49,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item active" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images//icon26.png" alt="Quote" width="56" height="43"></div>
-<p>The team at Emizen Tech delivered a quality solution within a tight deadline. They're reliable and dedicated. Their commitment supplemented their professional management style.</p>
-<div class="testimonials-name">
-<h3>Project Manager</h3>
-<p>Alex Perrie, Manchester, UK</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images//testimonials1.jpg" alt="Testimonials" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Rebellious Fashion – Ecommerce</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Alex Perrie</h3>
-<p>Manchester, UK</p>
-</div>
-<h4>Project Summary</h4>
-<h5>Helped complete a client &amp; invoice management app for fitness professionals with additional functions to handle class.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Aug. 2017</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Nov. 2019</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon27.png" alt="$" width="36" height="36">
-<h4>$50,000 <br> to <br> $199,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon29.png" alt="Prievew" width="32" height="24">
-<h4><a href="#0">Preview</a></h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images//icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Sales have increased since Emizen Tech Private Limited came onboard, driven in party by webpage speed improvement. Emizen’s diverse technical expertise and thorough understanding of Magento 2 have made for a beneficial partnership.</p>
-<div class="testimonials-name">
-<h3>Haroon Hussain</h3>
-<p>Head of Development</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images//testimonials2.jpg" alt="Haroon Hussain" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Ego.co.uk - Footwear eCommerce Store</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Haroon Hussain</h3>
-<p>Head of Development</p>
-</div>
-<h4>Project Summary</h4>
-<h5>EGO is an online, trend-led sassy footwear brand representing a movement of stylish shoeaholics from around the globe.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Jan. 2017</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon27.png" alt="$" width="36" height="36">
-<h4>$50,000 <br> to <br> $199,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images//icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Sales have increased in the wake of the migration and the company's search ranking has risen. Emizen Tech Private Limited is responsive and available, leading to a successful collaboration.</p>
-<div class="testimonials-name">
-<h3>Todays Component</h3>
-<p>Project Manager</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images//testimonials4.png" alt="Testimonials" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Todays <br> Component</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Todays Component</h3>
-<p>China, Hongkong</p>
-</div>
-<h4>Project Summary</h4>
-<h5>TodayComponents.com is the leading supplier of electronic components that we migrated to magento 2 from magento 1.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Feb. 2016</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon27.png" alt="$" width="36" height="36">
-<h4>$10,000 <br> to <br> $49,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images//icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Emizen Tech has resolved technical challenges rapidly and delivered cost-effective solutions. The team has been attentive and produced deliverables on time. They have provided technical expertise to support a valuable ongoing partnership.</p>
-<div class="testimonials-name">
-<h3>Sam</h3>
-<p>Product manager</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images//testimonials3.jpg" alt="Sam" width="225" height="349"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>London Seed – eCommerce Website</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Sam</h3>
-<p>London Seed</p>
-</div>
-<h4>Project Summary</h4>
-<h5>Emizen Tech provided development resources to solve technical issues with a website for a seed retailer.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Oct. 2019</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon27.png" alt="$" width="36" height="36">
-<h4>$10,000 <br> to <br> $49,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item cloned" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images//icon26.png" alt="Quote" width="56" height="43"></div>
-<p>The team at Emizen Tech delivered a quality solution within a tight deadline. They're reliable and dedicated. Their commitment supplemented their professional management style.</p>
-<div class="testimonials-name">
-<h3>Project Manager</h3>
-<p>Alex Perrie, Manchester, UK</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images//testimonials1.jpg" alt="Testimonials" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Rebellious Fashion – Ecommerce</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Alex Perrie</h3>
-<p>Manchester, UK</p>
-</div>
-<h4>Project Summary</h4>
-<h5>Helped complete a client &amp; invoice management app for fitness professionals with additional functions to handle class.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Aug. 2017</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Nov. 2019</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon27.png" alt="$" width="36" height="36">
-<h4>$50,000 <br> to <br> $199,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon29.png" alt="Prievew" width="32" height="24">
-<h4><a href="#0">Preview</a></h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item cloned" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images//icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Sales have increased since Emizen Tech Private Limited came onboard, driven in party by webpage speed improvement. Emizen’s diverse technical expertise and thorough understanding of Magento 2 have made for a beneficial partnership.</p>
-<div class="testimonials-name">
-<h3>Haroon Hussain</h3>
-<p>Head of Development</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images//testimonials2.jpg" alt="Haroon Hussain" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Ego.co.uk - Footwear eCommerce Store</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Haroon Hussain</h3>
-<p>Head of Development</p>
-</div>
-<h4>Project Summary</h4>
-<h5>EGO is an online, trend-led sassy footwear brand representing a movement of stylish shoeaholics from around the globe.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Jan. 2017</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon27.png" alt="$" width="36" height="36">
-<h4>$50,000 <br> to <br> $199,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div></div></div><div class="owl-nav"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">1</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
 </div>
 </div>
 </section>
@@ -1312,53 +851,7 @@ How do I track the progress of my project?
 </div>
 </section>
 
-<section class="emizentech-blog">
-<div class="container">
-<div class="row">
-<div class="col-md-6">
-<div class="blog-title">
-<h3>Recently</h3>
-<h2>Blogs</h2>
-</div>
-<figure class="blog-item">
-<img src="~/assets/images//blog1.jpg" alt="Blog" width="640" height="474">
-<figcaption>
- <h4>Personal</h4>
-<h3><a href="https://www.emizentech.com/blog/child-to-parent-communication-in-lwc.html">How To Use Child To Parent Communication In LWC In Salesforce</a></h3>
-<a href="https://www.emizentech.com/blog/child-to-parent-communication-in-lwc.html" class="blog-link">Read more</a>
-</figcaption>
-</figure>
-<div class="call-block">
-<div class="call-block-wrap">
-<div class="emizentech-icon"><img src="~/assets/images//icon3.png" alt="Call" width="42" height="42"></div>
-<div class="call-info">
-<h5>Have an idea?</h5>
-<p>Convert your app idea into profitable Business Mobile Application...<a href="enqiry.html">Talk to Expert</a></p>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-6">
-<figure class="blog-item ml-lg-5">
-<img src="~/assets/images//blog2.jpg" alt="Blog" width="640" height="474">
-<figcaption>
-<h4>Personal</h4>
-<h3><a href="https://www.emizentech.com/blog/how-to-fetch-records-using-lightning-data-service.html">How To Fetch Records By Lightning Data Service In Salesforce</a></h3>
-<a href="https://www.emizentech.com/blog/how-to-fetch-records-using-lightning-data-service.html" class="blog-link">Read more</a>
-</figcaption>
-</figure>
-<figure class="blog-item ml-lg-5">
-<img src="~/assets/images//blog3.jpg" alt="Blog" width="640" height="474">
-<figcaption>
-<h4>Personal</h4>
-<h3><a href="https://www.emizentech.com/blog/optimize-voice-search-for-ecommerce-store.html">How To Optimize Your eCommerce Store For Voice Search</a></h3>
-<a href="https://www.emizentech.com/blog/optimize-voice-search-for-ecommerce-store.html" class="blog-link">Read more</a>
-</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</section>
+
 
 <section class="emizentech-clients">
 <div class="container">
@@ -1407,13 +900,8 @@ How do I track the progress of my project?
 </div>
 </section>
 
-<section class="emizentech-shy">
-<div class="container">
-<h3>Don’t be Shy</h3>
-<h2>Say Hello!</h2>
-<div class="text-right"><a href="enqiry.html" class="emizentech-btn emizentech-medium-btn">Get in Touch</a></div>
-</div>
-</section>
+<Started/>
+<Stats/>
 
 <FooterMenu/>
 

@@ -8,8 +8,8 @@
 <div class="row align-items-center">
 <div class="col-md-7">
 <div class="banner-info">
-<h1>Hire Magento <br> <span>2 Developer</span></h1>
-<p>Emizentech is a top-rated Magento 2 Development Company that has assisted various clients to reach the pinnacle of success all through exceptional and perfectly designed Magento 2 solutions.</p>
+<h1>Magento <br> <span>Development</span></h1>
+<p>Our outreach does not end with Magento. We have also developers specialized in other technologies and platforms such as Shopify, AngularJS, and serverless applications. Contact us to check whether we have developers specialized in a technology you desire!</p>
 <a href="enqiry.html" class="emizentech-btn"><span class="sprites-image"></span> Talk to Consultant</a>
 
 </div>
@@ -24,13 +24,13 @@
 <section class="emizentech-about about-style-five" id="first-section">
 <div class="container">
 <div class="section-title">
-<h2><span>Hire Skilled and</span> Certified Magento 2 Developer</h2>
+<h2><span>Our </span> Magento Web</h2>
 <p>Join hands with our Magento 2 Certified developers to get well-tailored Magento 2 websites.</p>
 </div>
 <div class="small-title">
-<p>Being a reliable Magento Web Development Company, Emizentech offers hire Magento developers service all over the globe that can locate all your tailor Magento development requirements. Moreover, we proffer the best Magento eCommerce development solutions. With years of expertise and experience in the field of PHP-based e-commerce open-source platform, our hire Magento 2 developer service would make your online business attain the new heights of recognition and success at the best price.</p>
-<p>Hiring Magento 2 developers for your upcoming project will lead to saving the cost of in-house resources with no worries for how to get the best-anticipated outcome from the developer. With our affordable hire Magento developer service, we have been perfect at maintaining a long bond with our esteemed clientele all over the globe.</p>
-<p>By hiring an adroit Magento developer at Emizentech, you can hold your eCommerce website updated and devoid of any issues. We leverage the best industry practices along with the latest and advanced technology for sketching, maintaining, and rendering alluring eCommerce websites.</p>
+<p>DiginixAi has a team of highly skilled web developers, who specialize in Magento eCommerce Development. Some services our developers are capable of include Magento e-commerce development, module/extension integration, theme integration, and a high level of customization for your specific project. DiginixAi has successfully completed numerous projects, which utilize the Magento e-commerce platform, and have been praised for their originality. This is due to the hard work of not only our developers but our designers as well.</p>
+<!-- <p>Hiring Magento 2 developers for your upcoming project will lead to saving the cost of in-house resources with no worries for how to get the best-anticipated outcome from the developer. With our affordable hire Magento developer service, we have been perfect at maintaining a long bond with our esteemed clientele all over the globe.</p> -->
+<!-- <p>By hiring an adroit Magento developer at Emizentech, you can hold your eCommerce website updated and devoid of any issues. We leverage the best industry practices along with the latest and advanced technology for sketching, maintaining, and rendering alluring eCommerce websites.</p> -->
 <div class="row skill-style-two">
 <div class="col-lg-3 col-6">
 <div class="skill-item">
@@ -250,7 +250,7 @@
 </div>
 </section>
 
-<section class="emizentech-hire">
+<!-- <section class="emizentech-hire">
 <div class="container">
 <div class="section-title">
 <h2><span>Hire Magento 2</span> Certified Developers</h2>
@@ -441,7 +441,7 @@
 </div></div></div></div><div class="owl-nav"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">0</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
 </div>
 </div>
-</section>
+</section> -->
 
 <section class="emizentech-api api-spacer-two">
 <div class="container">
@@ -463,7 +463,7 @@
 </div>
 </section>
 
-<section class="emizentech-studies">
+<!-- <section class="emizentech-studies">
 <div class="swiper-container swiper-container-fade swiper-container-initialized swiper-container-horizontal swiper-container-autoheight">
 <div class="swiper-wrapper" style="transition-duration: 0ms; height: 713px;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="3" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(0px, 0px, 0px);">
 <div class="row">
@@ -640,7 +640,7 @@
 </div>
 </div></div>
 <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-</section>
+</section> -->
 
 <section class="emizentech-services services-style-two" id="skip-section">
 <div class="container">
@@ -697,7 +697,7 @@
 </div>
 </section>
 
-<section class="emizentech-testimonials testimonials-style-two">
+<!-- <section class="emizentech-testimonials testimonials-style-two">
 <div class="container">
 <div class="section-title">
 <h2><span>Our</span> Performance Speaks</h2>
@@ -1192,7 +1192,7 @@
 </div></div></div></div><div class="owl-nav"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">1</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
 </div>
 </div>
-</section>
+</section> -->
 
 <section class="emizentech-faq">
 <div class="container">
@@ -1304,7 +1304,7 @@ What Are Different Communication Modes You Use to connect with Clients?
 </div>
 </section>
 
-<section class="emizentech-blog">
+<!-- <section class="emizentech-blog">
 <div class="container">
 <div class="row">
 <div class="col-md-6">
@@ -1347,7 +1347,7 @@ What Are Different Communication Modes You Use to connect with Clients?
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
 <section class="emizentech-clients">
 <div class="container">
@@ -1396,13 +1396,7 @@ What Are Different Communication Modes You Use to connect with Clients?
 </div>
 </section>
 
-<section class="emizentech-shy">
-<div class="container">
-<h3>Don’t be Shy</h3>
-<h2>Say Hello!</h2>
-<div class="text-right"><a href="enqiry.html" class="emizentech-btn emizentech-medium-btn">Get in Touch</a></div>
-</div>
-</section>
+<Started/>
 
 <FooterMenu/>
 

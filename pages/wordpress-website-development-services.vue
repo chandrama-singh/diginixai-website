@@ -27,13 +27,13 @@
 <div class="col-lg-6">
 <div class="opencart-info">
 <div class="opencart-image"><img src="~/assets/images/wordpress-logo.png" alt="Opencart"></div>
-<h3><span>Wordpress Web Application</span> Development Services</h3>
+<h3><span>Wordpress Web Application</span> Development Services in Dubai</h3>
 <p>Wordpress is one of the most popular CMS frameworks on the web powering over 20% of all the self-hosted websites present on the internet. Over the years, it has grown into a well-oiled machine which is the first choice of developers, users and everyone else who needs a web platform for themselves. Wordpress receives almost 20 billion page views every month and it is still growing. These numbers show the impact that this framework has on the web. So, if you are looking for a platform that is efficient, trusted and among the best, then WordPress is the best choice.</p>
 </div>
 </div>
 <div class="col-lg-6">
-<p>With our team of Wordpress experts, you can get yourself a classic platform that helps you achieve your goals with its efficiency and reliability. Emizentech has been developing web applications using Wordpress for years now and has gained a lot of experience doing so. During this time, we have worked with a varied clientele and that has helped us understand the diverse demands of people. Now, we use that knowledge to fulfil the requirements of people who expect a high-performance platform from us.</p>
-<p>You can also own a website which is a mirror image of your vision and empowers you to do better in the world of fierce competition. We, at Emizentech, are committed to helping you with the same. So, let us join hands and get yourself a website that defines your identity on the web.</p>
+<p>WordPress is currently the fastest growing CMS software or content management system. WordPress is flexible, highly customizable, super user-friendly, and is a great content management system (CMS). You can use it for blogs, small business websites, and even e-commerce. It also has an amazing number of plugins that allow the extension of its functionality in various possible ways.</p>
+<p>We are the No. 1 WordPress Development agency in Dubai, have the best WordPress developers that can bring your website up to date and add that custom touch you always wanted.</p>
 <div class="row">
 <div class="col-md-6">
 <ul class="bullet-list">
@@ -61,93 +61,64 @@
 </div>
 </section>
 
-<section class="emizentech-features features-style-two">
+<section class="emizentech-serving serving-spacer-four">
 <div class="container">
 <div class="section-title">
-<h2><span>Custom Wordpress</span> development services</h2>
-<p>We design your platform customized to your desires and wishes such that your imaginations prior to its development matches the end-result.</p>
-</div>
-</div>
-<div class="owl-carousel owl-loaded owl-drag" data-items="5" data-margin="30" data-loop="true" data-nav="false" data-dots="false" data-auto-width="true" data-autoplay="false">
+<h2><span>OUR WP THEME SERVICES</span></h2>
+<!-- <p>Artificial Intelligence Service Projects</p> -->
 
-
-
-
-
-
-<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1050px, 0px, 0px); transition: all 0s ease 0s; width: 4200px;"><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item color-four">
-<div class="emizentech-icon"><img src="~/assets/images/custom.png" alt="Custom" width="270" height="227" style="opacity: 1;"></div>
-<h3>Wordpress CMS Development</h3>
-<p>The content management system of a digital platform is the differentiating factor between it being a good website or a great one. So, it’s crucial to have a robust CMS that complements the front-end of your platform. With our Wordpress CMS development team, you can be assured of such a content management system.</p>
 </div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item color-five">
-<div class="emizentech-icon"><img src="~/assets/images/hybrid.png" alt="Hybrid" width="270" height="227" style="opacity: 1;"></div>
-<h3>Theme Design &amp; Integration</h3>
-<p>Although it has been advised against judging something on its appearance, people don’t follow it. Same applies for a website too, it is judged on the performance and looks of its theme. Emizentech is well-aware of this fact and we provide a practical solution to this problem. We design and integrate top-quality themes for our clients that are responsive, robust and visual treat for the visitors.</p>
+<div class="row">
+<div class="col-lg-4 col-md-6">
+<div class="serving-item">
+<div class="emizentech-icon"><img src="~assets/images/android-uiux.png" alt="Android"></div>
+<h3>Themes Installation</h3>
+<p>We'll install WordPress and any types of WordPress theme pack and make it look like one of the demos.</p>
+<!-- <a href="enqiry.html" class="emizentech-btn">Read More</a> -->
 </div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item color-six">
-<div class="emizentech-icon"><img src="~/assets/images/maintenance.png" alt="maintenance" width="270" height="227" style="opacity: 1;"></div>
-<h3>Support and Maintenance Solutions</h3>
-<p>No matter how good a website or an application is, it can’t maintain its standard forever. It needs proper and regular maintenance to perform at its best. We acknowledge it and that’s why we provide support and maintenance solutions to our clients to help their platforms stay true to their task.</p>
 </div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item">
-<div class="emizentech-icon"><img src="~/assets/images/ecommerce.png" alt="eCommerce" width="270" height="227" style="opacity: 1;"></div>
-<h3>Custom Wordpress Solutions</h3>
-<p>Although there are numerous features of Wordpress that makes it special, the ease of customization is its selling point. It allows to design your platform precisely as you need it. With our well-trained developers, you can use the best of Wordpress to get your personalized web platform. We ensure that our clients are satisfied with the product they receive.</p>
+<div class="col-lg-4 col-md-6">
+<div class="serving-item">
+<div class="emizentech-icon"><img src="~assets/images/prototype.png" alt="Prototype"></div>
+<h3>Content Development</h3>
+<p>We provide web content development services such as content planning, writing, and editing and keyword analysis.</p>
+<!-- <a href="enqiry.html" class="emizentech-btn">Read More</a> -->
 </div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item color-two">
-<div class="emizentech-icon"><img src="~/assets/images/mobile.png" alt="Mobile" width="270" height="227" style="opacity: 1;"></div>
-<h3>Wordpress Web Development</h3>
-<p>Think of a feature that you need on your website, and we are ready to work day-in and day-out to develop that for you. We have a group of developers who are experts in designing Wordpress websites and passionate about finding practical solutions to our client’s issues. So, let us partner you on your journey of making your mark in the web world.</p>
 </div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item color-three">
-<div class="emizentech-icon"><img src="~/assets/images/website.png" alt="Website" width="270" height="227" style="opacity: 1;"></div>
-<h3>Wordpress Plugin Development</h3>
-<p>You can’t expect a web platform to be perfect without the proper utilization of plugins and when it comes to Wordpress, it supports a plethora of them. We offer Wordpress plugin development services through which we create utility plugins that improve the website’s functioning and enhance its performance.</p>
+<div class="col-lg-4 col-md-6">
+<div class="serving-item">
+<div class="emizentech-icon"><img src="~assets/images/custom-development.png" alt="Custom"></div>
+<h3>Premium plug-ins</h3>
+<p>You'll start off by having a website. Of course, we can install and set up as many plug-ins you want or need.</p>
+<!-- <a href="enqiry.html" class="emizentech-btn">Read More</a> -->
 </div>
-</div></div><div class="owl-item" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item color-four">
-<div class="emizentech-icon"><img src="~/assets/images/custom.png" alt="Custom" width="270" height="227" style="opacity: 1;"></div>
-<h3>Wordpress CMS Development</h3>
-<p>The content management system of a digital platform is the differentiating factor between it being a good website or a great one. So, it’s crucial to have a robust CMS that complements the front-end of your platform. With our Wordpress CMS development team, you can be assured of such a content management system.</p>
 </div>
-</div></div><div class="owl-item" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item color-five">
-<div class="emizentech-icon"><img src="~/assets/images/hybrid.png" alt="Hybrid" width="270" height="227" style="opacity: 1;"></div>
-<h3>Theme Design &amp; Integration</h3>
-<p>Although it has been advised against judging something on its appearance, people don’t follow it. Same applies for a website too, it is judged on the performance and looks of its theme. Emizentech is well-aware of this fact and we provide a practical solution to this problem. We design and integrate top-quality themes for our clients that are responsive, robust and visual treat for the visitors.</p>
+<div class="col-lg-4 col-md-6">
+<div class="serving-item">
+<div class="emizentech-icon"><img src="~assets/images/porting.png" alt="Porting"></div>
+<h3>WordPress SEO</h3>
+<p>We help WordPress bloggers and website owners enhance the visibility of their website or blog in Search Engines like Google.</p>
+<!-- <a href="enqiry.html" class="emizentech-btn">Read More</a> -->
 </div>
-</div></div><div class="owl-item" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item color-six">
-<div class="emizentech-icon"><img src="~/assets/images/maintenance.png" alt="maintenance" width="270" height="227" style="opacity: 1;"></div>
-<h3>Support and Maintenance Solutions</h3>
-<p>No matter how good a website or an application is, it can’t maintain its standard forever. It needs proper and regular maintenance to perform at its best. We acknowledge it and that’s why we provide support and maintenance solutions to our clients to help their platforms stay true to their task.</p>
 </div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item">
-<div class="emizentech-icon"><img src="~/assets/images/ecommerce.png" alt="eCommerce" width="270" height="227" style="opacity: 1;"></div>
-<h3>Custom Wordpress Solutions</h3>
-<p>Although there are numerous features of Wordpress that makes it special, the ease of customization is its selling point. It allows to design your platform precisely as you need it. With our well-trained developers, you can use the best of Wordpress to get your personalized web platform. We ensure that our clients are satisfied with the product they receive.</p>
+<div class="col-lg-4 col-md-6">
+<div class="serving-item">
+<div class="emizentech-icon"><img src="~assets/images/quality.png" alt="Quality"></div>
+<h3>WordPress Security</h3>
+<p>Installing WordPress is easy. Secure WordPress setup and ongoing Management of WordPress Security is not easy as installing WP.</p>
+<!-- <a href="enqiry.html" class="emizentech-btn">Read More</a> -->
 </div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item color-two">
-<div class="emizentech-icon"><img src="~/assets/images/mobile.png" alt="Mobile" width="270" height="227" style="opacity: 1;"></div>
-<h3>Wordpress Web Development</h3>
-<p>Think of a feature that you need on your website, and we are ready to work day-in and day-out to develop that for you. We have a group of developers who are experts in designing Wordpress websites and passionate about finding practical solutions to our client’s issues. So, let us partner you on your journey of making your mark in the web world.</p>
 </div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item color-three">
-<div class="emizentech-icon"><img src="~/assets/images/website.png" alt="Website" width="270" height="227" style="opacity: 1;"></div>
-<h3>Wordpress Plugin Development</h3>
-<p>You can’t expect a web platform to be perfect without the proper utilization of plugins and when it comes to Wordpress, it supports a plethora of them. We offer Wordpress plugin development services through which we create utility plugins that improve the website’s functioning and enhance its performance.</p>
+<div class="col-lg-4 col-md-6">
+<div class="serving-item">
+<div class="emizentech-icon"><img src="~assets/images/maintenance.png" alt="Maintenance"></div>
+<h3>WordPress Hosting Transfer</h3>
+<p>We will securely move your entire WordPress site, emails and databases to your new hosting account.</p>
+<!-- <a href="enqiry.html" class="emizentech-btn">Read More</a> -->
 </div>
-</div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">0</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
+</div>
+</div>
+</div>
 </section>
 
 <section class="emizentech-api api-spacer-two">
@@ -177,12 +148,12 @@
 <div class="reach-item">
 <div class="row">
 <div class="col-md-4 order-md-2">
-<h2>Wordpress Shopping</h2>
-<h3>Cart Development</h3>
+<h2>WordPress Theme Customization</h2>
+<!-- <h3>Cart Development</h3> -->
 <div class="reach-right-part">
 <div class="reach-info">
-<p>A perfect eCommerce website should be heavy-duty and also offer ease-of-operations to the users. Wordpress allows both these features. So, if you want to expand your business on the web then you should opt for Emizentech Wordpress eCommerce solutions. We consider all the requirements needed for a flawless eCommerce website and design them as per the latest demands of the market so that you don’t lag behind the other brands.</p>
-<ul class="bullet-list">
+<p>Starting a website with WordPress is really easy! There are several things you should consider though: hosting, installation, themes and management of content. While tailoring your themes to suit your business sensibilities, we take every measure to keep it responsive and compatible across different platforms. Without falling prey to the mainstream and hardly effective ways of theme customization, we deliver services that make this customization a pleasant romp.</p>
+<!-- <ul class="bullet-list">
 <li>B2C-B2B Shopping Cart development</li>
 <li>Mobile Ready &amp; SEO Friendly Website</li>
 <li>Multiple Payment &amp; Multilingual</li>
@@ -191,7 +162,7 @@
 <li>Mobile &amp; SEO Friendly Wordpress Store</li>
 <li>Powerful inventory and Supply management</li>
 <li>High Security &amp; Data Privacy Structure</li>
-</ul>
+</ul> -->
 </div>
 </div>
 </div>
@@ -225,7 +196,7 @@
 </div>
 </section>
 
-<section class="emizentech-studies">
+<!-- <section class="emizentech-studies">
 <div class="swiper-container swiper-container-fade swiper-container-initialized swiper-container-horizontal swiper-container-autoheight">
 <div class="swiper-wrapper" style="transition-duration: 0ms; height: 713px;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="3" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(0px, 0px, 0px);">
 <div class="row">
@@ -402,7 +373,7 @@
 </div>
 </div></div>
 <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-</section>
+</section> -->
 
 <section class="emizentech-cloud cloud-spacer-two cloud-style-two" id="skip-section">
 <div class="container">
@@ -568,7 +539,7 @@
 </div>
 </section>
 
-<section class="emizentech-hire">
+<!-- <section class="emizentech-hire">
 <div class="container">
 <div class="section-title">
 <h2><span>Hire Dedicated</span> Wordpress Developer</h2>
@@ -759,7 +730,7 @@
 </div></div></div></div><div class="owl-nav"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">0</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
 </div>
 </div>
-</section>
+</section> -->
 
 <section class="emizentech-services">
 <div class="container">
@@ -816,7 +787,7 @@
 </div>
 </section>
 
-<section class="emizentech-testimonials testimonials-style-two">
+<!-- <section class="emizentech-testimonials testimonials-style-two">
 <div class="container">
 <div class="section-title">
 <h2><span>Client Review</span> their words!</h2>
@@ -1311,7 +1282,7 @@
 </div></div></div></div><div class="owl-nav"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">1</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
 </div>
 </div>
-</section>
+</section> -->
 
 <section class="emizentech-faq">
 <div class="container">
@@ -1393,7 +1364,7 @@ Is WordPress secure?
 </div>
 </section>
 
-<section class="emizentech-blog">
+<!-- <section class="emizentech-blog">
 <div class="container">
 <div class="row">
 <div class="col-md-6">
@@ -1439,7 +1410,7 @@ Is WordPress secure?
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
 <section class="emizentech-clients">
 <div class="container">
@@ -1488,13 +1459,8 @@ Is WordPress secure?
 </div>
 </section>
 
-<section class="emizentech-shy">
-<div class="container">
-<h3>Don’t be Shy</h3>
-<h2>Say Hello!</h2>
-<div class="text-right"><a href="enqiry.html" class="emizentech-btn emizentech-medium-btn">Get in Touch</a></div>
-</div>
-</section>
+<Started/>
+<Stats/>
 
 <FooterMenu/>
 

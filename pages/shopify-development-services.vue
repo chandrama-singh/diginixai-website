@@ -58,93 +58,40 @@
 </div>
 </section>
 
-<section class="emizentech-features features-style-two">
+<section class="emizentech-serving serving-spacer-four">
 <div class="container">
 <div class="section-title">
-<h2><span>Our Shopify</span> Development Services &amp; Solutions</h2>
-<p>We render exceptional services for Shopify e-commerce solutions that offer an outstanding touch to your eStore.</p>
-</div>
-</div>
-<div class="owl-carousel owl-loaded owl-drag" data-items="5" data-margin="30" data-loop="true" data-nav="false" data-dots="false" data-auto-width="true" data-autoplay="false">
+<h2><span>OUR PROFESSIONAL SERVICES</span></h2>
+<!-- <p>Artificial Intelligence Service Projects</p> -->
 
-
-
-
-
-
-<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1050px, 0px, 0px); transition: all 0s ease 0s; width: 4200px;"><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item color-four">
-<div class="emizentech-icon"><img src="~/assets/images/custom.png" alt="Custom" width="270" height="227" style="opacity: 1;"></div>
-<h3>Shopify Plugin Development Solution</h3>
-<p>Our will to evolve and improve is what makes us the best. Shopify offers great features on its own. However, every store owner always wants to be better and add certain extra functions to the store. Emizentech develops Shopify extensions that not only modify your shop but also enhance its performance.</p>
 </div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item color-five">
-<div class="emizentech-icon"><img src="~/assets/images/hybrid.png" alt="Hybrid" width="270" height="227" style="opacity: 1;"></div>
-<h3>Shopify Payment Integration Solution</h3>
-<p>Your business is directly dependent on the revenue that it generates, and your income is dependent on the payment gateways that your store offers. So, it’s crucial to ensure that payment modes are safe and easy to use. We boast of a team with extensive experience in the same. We offer Shopify payment integration services that ensure seamless payments.</p>
+<div class="row">
+<div class="col-lg-4 col-md-6">
+<div class="serving-item">
+<div class="emizentech-icon"><img src="~assets/images/android-uiux.png" alt="Android"></div>
+<h3>Template Development</h3>
+<p>We will give you a pixel perfect, SEO-friendly, cross-platform and standards-compliant foundation on which to build your site.</p>
+<!-- <a href="enqiry.html" class="emizentech-btn">Read More</a> -->
 </div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item">
-<div class="emizentech-icon"><img src="~/assets/images/maintenance.png" alt="maintenance" width="270" height="227" style="opacity: 1;"></div>
-<h3>Shopify Support &amp; Maintenance</h3>
-<p>Ecommerce websites invite a lot of traffic, and they run the risk of developing unwanted glitches. So, they need constant support and maintenance to make sure a seamless operation. Emizentech provides on-demand support to the websites allowing them to function without any hiccups.</p>
 </div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item">
-<div class="emizentech-icon"><img src="~/assets/images/ecommerce.png" alt="eCommerce" width="270" height="227" style="opacity: 1;"></div>
-<h3>Custom Shopify Development</h3>
-<p>No two businesses are the same, and they can never be. It’s the same for the platforms representing them, and they have to be unique as users expect specific functionalities from them. Our custom development services bring that uniqueness to your shop as well. We customize your store as per your needs and the objectives of your brand.</p>
+<div class="col-lg-4 col-md-6">
+<div class="serving-item">
+<div class="emizentech-icon"><img src="~assets/images/prototype.png" alt="Prototype"></div>
+<h3>Custom Shopify Programming</h3>
+<p>If you're looking to develop a custom Shopify application or a feature that Diginixai doesn’t already include, let us build it for you.</p>
+<!-- <a href="enqiry.html" class="emizentech-btn">Read More</a> -->
 </div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item color-two">
-<div class="emizentech-icon"><img src="~/assets/images/mobile.png" alt="Mobile" width="270" height="227" style="opacity: 1;"></div>
-<h3>Theme Design &amp; Integration Solution</h3>
-<p>When users visit your website, its appearance is the first thing that they notice, and its theme is one of the essential parts of it. Although Shopify offers hundreds of themes on its own, however, they are still limited. So, to provide you a plethora of choices, we design and integrate themes that are attractive, easy on the eyes as well as responsive.</p>
 </div>
-</div></div><div class="owl-item active" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item color-three">
-<div class="emizentech-icon"><img src="~/assets/images/website.png" alt="Website" width="270" height="227" style="opacity: 1;"></div>
-<h3>Shopify UX/UI Design Solution</h3>
-<p>With years of experience in Shopify development services, we, at Emizentech, craft enthralling Shopify UX/UI design for our clients to make them gain better user experience. This assist in enhancing the productivity of the business and also improve the conversion rates, thereby take the business to the next level. </p>
+<div class="col-lg-4 col-md-6">
+<div class="serving-item">
+<div class="emizentech-icon"><img src="~assets/images/custom-development.png" alt="Custom"></div>
+<h3>Site Migrations</h3>
+<p>Are you looking to move your site to Diginixai's Shopify? Let us handle the migration for you, or help your team speed up the process.</p>
+<!-- <a href="enqiry.html" class="emizentech-btn">Read More</a> -->
 </div>
-</div></div><div class="owl-item" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item color-four">
-<div class="emizentech-icon"><img src="~/assets/images/custom.png" alt="Custom" width="270" height="227" style="opacity: 1;"></div>
-<h3>Shopify Plugin Development Solution</h3>
-<p>Our will to evolve and improve is what makes us the best. Shopify offers great features on its own. However, every store owner always wants to be better and add certain extra functions to the store. Emizentech develops Shopify extensions that not only modify your shop but also enhance its performance.</p>
 </div>
-</div></div><div class="owl-item" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item color-five">
-<div class="emizentech-icon"><img src="~/assets/images/hybrid.png" alt="Hybrid" width="270" height="227" style="opacity: 1;"></div>
-<h3>Shopify Payment Integration Solution</h3>
-<p>Your business is directly dependent on the revenue that it generates, and your income is dependent on the payment gateways that your store offers. So, it’s crucial to ensure that payment modes are safe and easy to use. We boast of a team with extensive experience in the same. We offer Shopify payment integration services that ensure seamless payments.</p>
 </div>
-</div></div><div class="owl-item" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item">
-<div class="emizentech-icon"><img src="~/assets/images/maintenance.png" alt="maintenance" width="270" height="227" style="opacity: 1;"></div>
-<h3>Shopify Support &amp; Maintenance</h3>
-<p>Ecommerce websites invite a lot of traffic, and they run the risk of developing unwanted glitches. So, they need constant support and maintenance to make sure a seamless operation. Emizentech provides on-demand support to the websites allowing them to function without any hiccups.</p>
 </div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item">
-<div class="emizentech-icon"><img src="~/assets/images/ecommerce.png" alt="eCommerce" width="270" height="227" style="opacity: 1;"></div>
-<h3>Custom Shopify Development</h3>
-<p>No two businesses are the same, and they can never be. It’s the same for the platforms representing them, and they have to be unique as users expect specific functionalities from them. Our custom development services bring that uniqueness to your shop as well. We customize your store as per your needs and the objectives of your brand.</p>
-</div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item color-two">
-<div class="emizentech-icon"><img src="~/assets/images/mobile.png" alt="Mobile" width="270" height="227" style="opacity: 1;"></div>
-<h3>Theme Design &amp; Integration Solution</h3>
-<p>When users visit your website, its appearance is the first thing that they notice, and its theme is one of the essential parts of it. Although Shopify offers hundreds of themes on its own, however, they are still limited. So, to provide you a plethora of choices, we design and integrate themes that are attractive, easy on the eyes as well as responsive.</p>
-</div>
-</div></div><div class="owl-item cloned" style="width: auto; margin-right: 30px;"><div class="item">
-<div class="feature-item color-three">
-<div class="emizentech-icon"><img src="~/assets/images/website.png" alt="Website" width="270" height="227" style="opacity: 1;"></div>
-<h3>Shopify UX/UI Design Solution</h3>
-<p>With years of experience in Shopify development services, we, at Emizentech, craft enthralling Shopify UX/UI design for our clients to make them gain better user experience. This assist in enhancing the productivity of the business and also improve the conversion rates, thereby take the business to the next level. </p>
-</div>
-</div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">0</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
 </section>
 
 <section class="emizentech-reach">
@@ -200,7 +147,7 @@
 </div>
 </section>
 
-<section class="emizentech-studies">
+<!-- <section class="emizentech-studies">
 <div class="swiper-container swiper-container-fade swiper-container-initialized swiper-container-horizontal swiper-container-autoheight">
 <div class="swiper-wrapper" style="transition-duration: 300ms; height: 713px;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="3" style="width: 801px; transition-duration: 300ms; opacity: 1; transform: translate3d(0px, 0px, 0px);">
 <div class="row">
@@ -377,7 +324,7 @@
 </div>
 </div></div>
 <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-</section>
+</section> -->
 
 <section class="emizentech-cloud cloud-spacer-two cloud-style-two" id="skip-section">
 <div class="container">
@@ -552,7 +499,7 @@
 </div>
 </section>
 
-<section class="emizentech-hire">
+<!-- <section class="emizentech-hire">
 <div class="container">
 <div class="section-title">
 <h2><span>Hire Dedicated</span> Shopify Developer</h2>
@@ -743,7 +690,7 @@
 </div></div></div></div><div class="owl-nav"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">1</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
 </div>
 </div>
-</section>
+</section> -->
 
 <section class="emizentech-services">
 <div class="container">
@@ -800,7 +747,7 @@
 </div>
 </section>
 
-<section class="emizentech-testimonials testimonials-style-two">
+<!-- <section class="emizentech-testimonials testimonials-style-two">
 <div class="container">
 <div class="section-title">
 <h2><span>Checkout the</span> Words of our Recognition</h2>
@@ -1295,7 +1242,7 @@
 </div></div></div></div><div class="owl-nav"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">1</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
 </div>
 </div>
-</section>
+</section> -->
 
 <section class="emizentech-faq">
 <div class="container">
@@ -1405,7 +1352,7 @@ What are the features of Shopify that make it popular in the eCommerce industry?
 </div>
 </section>
 
-<section class="emizentech-blog">
+<!-- <section class="emizentech-blog">
 <div class="container">
 <div class="row">
 <div class="col-md-6">
@@ -1448,7 +1395,7 @@ What are the features of Shopify that make it popular in the eCommerce industry?
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
 <section class="emizentech-clients">
 <div class="container">
@@ -1497,13 +1444,8 @@ What are the features of Shopify that make it popular in the eCommerce industry?
 </div>
 </section>
 
-<section class="emizentech-shy">
-<div class="container">
-<h3>Don’t be Shy</h3>
-<h2>Say Hello!</h2>
-<div class="text-right"><a href="enqiry.html" class="emizentech-btn emizentech-medium-btn">Get in Touch</a></div>
-</div>
-</section>
+<Started/>
+<Stats/>
 
 <FooterMenu/>
 
