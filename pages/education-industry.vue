@@ -11,8 +11,8 @@
 <div class="row align-items-center">
 <div class="col-md-7">
 <div class="banner-info">
-<h1>Education <br> &amp; eLearning <span>Software Solutions</span></h1>
-<p>We are all set to shape-up your advanced system employing exceptional and improved technology, trends, and tools to optimize your education and eLearning workflows swiftly.</p>
+<h1>Education Industry</h1>
+<p>It is highly challenging for an educational institute to provide standard classroom training throughout the year because of budget issues and lack of good trainers. That is why giving a standard education to students has become too difficult in the present scenarios. But online education makes it possible for a qualified trainer to give education from a far distant place to the fellow students at ease. The system also saves time, effort, and money in various ways.</p>
 <a href="enqiry.html" class="emizentech-btn"><span class="sprites-image"></span> Talk to Consultant</a>
 <div class="scroll-link"><a href="#first-section"></a></div>
 </div>

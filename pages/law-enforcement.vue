@@ -107,6 +107,10 @@
       <button type="button" class="btn btn-outline-info"><Nuxt-Link to="/about-us">REQUEST A QUOTE</Nuxt-Link></button>
     </div>
 
+   <Stats/>
+
+    
+
     <FooterMenu />
   </div>
 </template>
