@@ -5,7 +5,7 @@
 <div class="container">
 <div class="row align-items-center">
 <div class="col-md-6 col-7">
-<a href="https://www.emizentech.com/" class="emizentech-logo"><img src="~/assets/images//emizentech.png" alt="Emizentech" width="630" height="157"></a>
+<a href="/" class="emizentech-logo"><img src="~/assets/logo/logo.png" alt="Emizentech" width="630" height="157"></a>
 </div>
 <div class="col-md-6 col-5 text-right">
 <div class="header-links">
@@ -25,7 +25,7 @@
 <div class="container">
 <div class="row align-items-center">
 <div class="col-xl-3">
-<a href="https://www.emizentech.com/" class="emizentech-logo"><img src="~/assets/images//emizentech.png" alt="Emizentech" width="630" height="157"></a>
+<a href="/" class="emizentech-logo"><img src="~/assets/logo/logo.png" alt="Emizentech" width="630" height="157"></a>
 <div class="mobile-close-link"><a href="javascript:void(0)" class="close-icon"><span></span></a></div>
 </div>
 <div class="col-xl-9 text-xl-right">
