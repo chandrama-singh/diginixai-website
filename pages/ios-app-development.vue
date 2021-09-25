@@ -8,9 +8,9 @@
 <div class="row align-items-center">
 <div class="col-md-7">
 <div class="banner-info">
-<h1>Hire iPhone <br> <span>App Developers</span></h1>
-<p>Hire iPhone app developers to develop mobile apps that are extremely usable and extendable and offer growing businesses with the resources to come up with maximum productivity.</p>
-<a href="enqiry.html" class="emizentech-btn"><span class="sprites-image"></span> Talk to Consultant</a>
+<h1>iOS <br> <span>App Development</span></h1>
+<!-- <p>Hire iPhone app developers to develop mobile apps that are extremely usable and extendable and offer growing businesses with the resources to come up with maximum productivity.</p> -->
+<!-- <a href="enqiry.html" class="emizentech-btn"><span class="sprites-image"></span> Talk to Consultant</a> -->
 </div>
 </div>
 <div class="col-md-5">
@@ -23,225 +23,113 @@
 <section class="emizentech-about about-style-five" id="first-section">
 <div class="container">
 <div class="section-title">
-<h2><span>Hire Experienced,</span> and Certified iPhone App Developers</h2>
-<p>We have a team of professional iOS programmers holding all the required skills and proficiency to meet the anticipated goals.</p>
+<h2><span>iOS App Development</span> Agency in Dubai</h2>
+<!-- <p>We have a team of professional iOS programmers holding all the required skills and proficiency to meet the anticipated goals.</p> -->
 </div>
 <div class="small-title">
-<p>Hire iOS app developers from Emizentech for custom iPhone app development. Our iPhone programmers use the best methodologies that coordinate the business crucially. Emizentech moves ahead of the expectations at making engaging and imaginative iPhone apps that simply don’t enhance the clients’ virtue, and also allow you to achieve your business targets at an affordable cost. Emizentech is widely acclaimed for its innovative iOS app latest benefits that allow the clients to catch-up in a rapid versatility, coordinated attempt, and undertaking enterprise-level apps. The iPhone apps crafted by our expert iPhone developers are excessively adaptable, robust, and of massive use to allow today’s organizations for perfect efficiency.</p>
-<p>Being a top iPhone app development company, we, at Emizentech, hold a matchless knowledge of the iPhone app development process that strengthens us to put forward the significant scope of iPhone-based business for many verticals. We clutch a committed team of iPhone application engineers gripping rich industry experience and specialty in the iPhone app development edge for developing business-driven iPhone mobile apps. So, feel free to connect proficient iPhone app developers today. Our team of skilled iPhone app developers has developed successful apps for iPhone and iPad. Our leading iOS application development company, Emizentech, has unmatched expertise in crafting, programming, and marketing. To be more specific, when you pick to partner with Emizentech for iPhone app development, you will get guaranteed best-quality services.</p>
+<p>Apple releases upgraded versions of iPhones and iPads on an intermittent basis. Therefore, you have to make sure that the IOS app you are going to have on iStore should be future-ready. Moreover, your iOS business application must have to be exceptionally scalable and cut-throat competition to make an unflinching position in the market.</p>
+<p>Diginixai is the No. 1 iOS App Development agency in Dubai, we deliver unparalleled iOS application development services for all major industry verticals like logistics, education, healthcare, retail, finance, travel, transportation, fitness, and the list goes on. Our iPhone application development company adopt an ingenious approach and state-of-the-art app development technology to carve best the best in the class mobile shopping experience for IOS application users and boost your business conversions.</p>
 </div>
 </div>
 </section>
 
-<section class="emizentech-api api-style-two api-spacer-two">
-<div class="container">
-<div class="api-info">
-<div class="row">
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images//developers.png" alt="Developers" width="34" height="30"></div>
-<h4>Certified Developers</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images//secure.png" alt="Secure" width="24" height="30"></div>
-<h4>Secure with NDA</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images//buy.png" alt="Buy"></div>
-<h4>Try &amp; Buy Model</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images//refund.png" alt="Refund"></div>
-<h4>7 Day Refund Policy</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images//flexible.png" alt="Flexible"></div>
-<h4>Flexible Working Hours</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images//support.png" alt="Support"></div>
-<h4>24 X 7 Support</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images//security.png" alt="Security"></div>
-<h4>Security &amp; IP Protection</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images//source.png" alt="Source"></div>
-<h4>Source Code Authorization</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images//precise.png" alt="Precise"></div>
-<h4>Precise Reporting</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images//beacon.png" alt="Beacon"></div>
-<h4>Quick Team Scaling</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images//interviews.png" alt="Interviews"></div>
-<h4>Conduct Interviews</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images//engagement.png" alt="Engagement"></div>
-<h4>Multiple Engagement Models</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
 
-<section class="emizentech-development">
+<section class="emizentech-api api-spacer-two">
 <div class="container">
 <div class="section-title">
-<h2><span>Flexible Hiring</span> &amp; Engagement Model</h2>
-<p>We offer flexible engagement models to our clients to hire dedicated iPhone app developers and assure them about our amazing development practices to craft impactful iPhone app solutions across distinctive business verticals.</p>
+<h2><span>IOS APP DEVELOPMENT</span> &amp; SERVICES OVERVIEW</h2>
+<p>A deep understanding of the current market is highly required when it comes to formulate and produce the best iOS solutions for the industry. We are fortunate to have a strong experienced team of professional iOS developers who possess the ultimate level of accuracy and cater to the industry-leading concepts with their extensive analytics skills.</p>
 </div>
-<div class="row">
-<div class="col-lg-6">
-<div class="development-item development-spacer">
-<div class="emizentech-image"><img src="~/assets/images//engagement_1.png" alt="Engagement"></div>
-<h3>Engagement<span> Model</span></h3>
-<p>Our dynamic iPhone application engagement models rely on the needs stating the deliverables, budget, and timeline to assure that all the needs are attained within a planned time-frame.</p>
-<div class="development-inner">
-<div class="development-item-wrap">
-<div class="emizentech-icon"><img src="~/assets/images//icon43.png" alt="Onsite"></div>
-<div class="development-info">
-<h5>Onsite Team</h5>
-<p>When you select the Onsite iPhone app team from our company, you get help from our skilled developers who work on the projects by joining your team at your place and working with them.</p>
-</div>
-</div>
-<div class="development-item-wrap">
-<div class="emizentech-icon"><img src="~/assets/images//icon44.png" alt="Offsite"></div>
-<div class="development-info">
-<h5>Offsite Team</h5>
-<p>Offsite iPhone app development teams work on the clients’ projects from our spot by using our resources and provide full assistance also.</p>
-</div>
-</div>
-<div class="development-item-wrap">
-<div class="emizentech-icon"><img src="~/assets/images//icon45.png" alt="Hybrid"></div>
-<div class="development-info">
-<h5>Hybrid Team</h5>
-<p>Our proficient hybrid iPhone app developer teams work on the projects from our place only to achieve their expected targets and also take frequent visits to them when required.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="development-item">
-<div class="emizentech-image"><img src="~/assets/images//pricing.png" alt="Pricing"></div>
-<h3>Pricing <span>Model</span></h3>
-<p>We grip an amazing pricing model for hiring our iPhone developers for our clients that assists in presenting our clear agreement before our clients.</p>
-<div class="development-inner">
-<div class="development-item-wrap">
-<div class="emizentech-icon"><img src="~/assets/images//fix-price.png" alt="Fix"></div>
-<div class="development-info">
-<h5>Fix Price Model</h5>
-<p>When you are ready with your projects and choose our fixed price model, then the time arrives when you need to move ahead according to the fixed price one-time payment agreement.</p>
-</div>
-</div>
-<div class="development-item-wrap">
-<div class="emizentech-icon"><img src="~/assets/images//dedicated.png" alt="Dedicated"></div>
-<div class="development-info">
-<h5>Dedicated Model</h5>
-<p>When you explore a company for the dedicated concentration towards the project, you walk with a dedicated iPhone application model where you are needed to pay monthly for the work they do on your project.</p>
-</div>
-</div>
-<div class="development-item-wrap">
-<div class="emizentech-icon"><img src="~/assets/images//time-material.png" alt="Time"></div>
-<div class="development-info">
-<h5>Time &amp; Material</h5>
-<p>This model directs that you need to pay only the amount of effort and time that our expert iOS app developers put in your project.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-<section class="emizentech-magento">
-<div class="container">
 <div class="row">
 <div class="col-lg-4">
-<div class="magento-image">
-<img src="~/assets/images//magento-img.png" alt="Magento">
-<div class="magento-image-info">
-<h2>Hire Expert iPhone App Developers <span>&amp; Avail the Best iPhone App Development Services</span></h2>
-<a href="enqiry.html" class="emizentech-btn emizentech-white-btn"><img src="~/assets/images//red-btn-icon.png" alt="Btn Icon"> Talk to Consultant</a>
-</div>
-</div>
+<h3><span>T</span>hus making Diginix-AI the best iOS application development company in Dubai.</h3>
 </div>
 <div class="col-lg-8">
-<div class="magento-wrap">
-<div class="row">
-<div class="col-md-4 col-sm-6">
-<div class="magento-item">
-<div class="emizentech-icon"><img src="~/assets/images//magento-shopping.png" alt="magento-shopping"></div>
-<h5>iPhone mCommerce Solutions</h5>
-<p>We use the knowledge we have grasped in years, in the business and work hard to enhance the conversion rate. We target your clients’ cooperation with your iPhone mCommerce app as satisfactory and innovative as could be permitted.</p>
+<div class="api-info">
+<h4>IPad App</h4>
+<p>When it comes to developing the best lucid applications for iPads Diginix-AI stands out the best in the industry. We offer the finest solutions to the clients who look for responsive applications that offer user-friendliness whether they are used on a mobile phone or an iPad or on a laptop. Our expert iPad app developers in Dubai assist us to cater to you with the most lucrative iPad applications.</p>
+<h4>IPhone App</h4>
+<p>We are the industry leaders in terms of making iPhone applications for your businesses and our iPhone application development team makes it possible to create user-friendly iOS applications with the fastest ROI model. We believe in producing the best quality iPhone applications that nullifies all the hassle of users and deliver the best output in the industry. When you order us you are assured with the finest quality iPhone application development that is bug-free, error-free, customized, highly responsive, user-friendly, lightweight, fast, secured, and ROI-oriented solutions.</p>
+<h4>IWatch App</h4>
+<p>iWatch applications are one of the most favorite attractions for iPhone users and it is quite obvious that the features and functionalities of an iWatch app are widely adored across the world. Our experienced iWatch developers in Dubai make it possible to design and develop extraordinary iWatch applications that can track your data, analytics with real-time measurements such as calorie measurement, speed measurement of your body, growth, height, weight, metabolism, etc. It also offers the users to watch online web series, and play online games that are available at the Apple store.</p>
 </div>
 </div>
-<div class="col-md-4 col-sm-6">
-<div class="magento-item">
-<div class="emizentech-icon"><img src="~/assets/images//magento-extension.png" alt="magento-Extension"></div>
-<h5>iPhone Games Development</h5>
-<p>Flooding the game globe with a component-rich app offering the best quality and increased visualizations, we, at Emizentech, craft iOS games app development that offers a flexible affair, such as AR, AI, VR, and more to the clients.</p>
 </div>
 </div>
-<div class="col-md-4 col-sm-6">
-<div class="magento-item">
-<div class="emizentech-icon"><img src="~/assets/images//magento-speed.png" alt="magento-Speed"></div>
-<h5>Media Streaming iPhone App</h5>
-<p>With the media streaming iPhone application solution, there come various features, such as social features for building community, video watching line, mobile access, and more.</p>
+</section>
+
+<section class="emizentech-cloud cloud-style-three">
+<div class="container">
+<div class="section-title">
+<h2><span>Diginixai iOS Application Development Process</span> </h2>
+<p>Diginix-AI follows the waterfall model when it comes to developing outstanding iOS solutions for our esteemed clients. Our expert developers form a team and collect the requirements from the clients and then start their analysis and development process to provide the fastest delivery possible.</p>
+</div>
+<div class="cloud-item">
+<div class="row align-items-center">
+<div class="col-lg-5">
+<div class="emizentech-image"><img src="~assets/images/ios-ideation.png" alt="Salesforce"></div>
+</div>
+<div class="col-lg-7">
+<div class="cloud-info">
+<h3><span>Ideation </span></h3>
+<p>Strategies, ideas, and thorough analysis of the current market help our team to produce high-quality output and deliver the best iOS solutions to the clientele.</p>
+<!-- <p><a href="#" class="emizentech-btn emizentech-medium-btn">Read More</a></p> -->
 </div>
 </div>
-<div class="col-md-4 col-sm-6">
-<div class="magento-item">
-<div class="emizentech-icon"><img src="~/assets/images//magento-theme.png" alt="magento-Theme"></div>
-<h5>Business iPhone App</h5>
-<p>Our dedicated iPhone app developers offer access to the technology to our clients along with the apps that can alter the business and the structure of attaining the things.</p>
 </div>
 </div>
-<div class="col-md-4 col-sm-6">
-<div class="magento-item">
-<div class="emizentech-icon"><img src="~/assets/images//magento-migration.png" alt="magento-Migration"></div>
-<h5>Utility iPhone App Development</h5>
-<p>Our iPhone app development team offers a procedural solution along with a customer-centric approach. Our procedures target on developing the app prototype, routine demo, UX/UI, and app deployment.</p>
+<div class="cloud-item item-style-two">
+<div class="row align-items-center">
+<div class="col-lg-5 order-lg-2">
+<div class="emizentech-image"><img src="~assets/images/ios-requiremnt.png" alt="Salesforce"></div>
+</div>
+<div class="col-lg-7 order-lg-1">
+<div class="cloud-info">
+<h3><span>Requirement</span> Analysis</h3>
+<p>We create monumental changes that impact your business a great way through the iOS solutions starting from the initial stages to the most advanced level. Innovation is the main criteria that we look for every step we make towards the goal of accomplishment.</p>
+<!-- <p><a href="#" class="emizentech-btn emizentech-medium-btn">Read More</a></p> -->
 </div>
 </div>
-<div class="col-md-4 col-sm-6">
-<div class="magento-item">
-<div class="emizentech-icon"><img src="~/assets/images//magento-integration.png" alt="magento-Integration"></div>
-<h5>Remote Display iOS App Development</h5>
-<p>When you start with remote display iOS app development solutions, you are given an amazing balance between the cost, time, and quality.</p>
 </div>
 </div>
+<div class="cloud-item">
+<div class="row align-items-center">
+<div class="col-lg-5">
+<div class="emizentech-image"><img src="~assets/images/ios-development.png" alt="Salesforce"></div>
+</div>
+<div class="col-lg-7">
+<div class="cloud-info">
+<h3><span>iOS Application</span> Development</h3>
+<p>The iOS applications that we make not only take your business to a superior level but also allows the users to know more about your brand, the offerings you make on a daily basis, it creates a huge user-engagement to your audience and builds up an online community. The responsiveness, lightweight, high-speed mobile applications can definitely bring considerable changes in no time.</p>
+<!-- <p><a href="#" class="emizentech-btn emizentech-medium-btn">Read More</a></p> -->
+</div>
+</div>
+</div>
+</div>
+<div class="cloud-item item-style-two">
+<div class="row align-items-center">
+<div class="col-lg-5 order-lg-2">
+<div class="emizentech-image"><img src="~assets/images/ios-app-testing.png" alt="Salesforce"></div>
+</div>
+<div class="col-lg-7 order-lg-1">
+<div class="cloud-info">
+<h3><span>iOS App</span> Testing</h3>
+<p>Before launching a product into the market or to deliver the same to our esteemed clients we do the rigorous testing through various levels and then introduce the iOS solutions to the clients. So when you take the services from the best iOS development company in Dubai you expect an error-free, bug-free, clean iOS application solution for your business.</p>
+<!-- <p><a href="#" class="emizentech-btn emizentech-medium-btn">Read More</a></p> -->
+</div>
+</div>
+</div>
+</div>
+<div class="cloud-item">
+<div class="row align-items-center">
+<div class="col-lg-5">
+<div class="emizentech-image"><img src="~assets/images/ios-support.png" alt="Salesforce"></div>
+</div>
+<div class="col-lg-7">
+<div class="cloud-info">
+<h3><span>Support and </span>Maintenance</h3>
+<p>Diginix-AI offers technical support even after the project gets completed. The best web development and mobile application development company in Dubai offers lifetime technical support at a very reasonable charge.</p>
+<!-- <p><a href="#" class="emizentech-btn emizentech-medium-btn">Read More</a></p> -->
 </div>
 </div>
 </div>
@@ -249,7 +137,7 @@
 </div>
 </section>
 
-<section class="emizentech-cloud cloud-spacer-two cloud-style-four">
+<!-- <section class="emizentech-cloud cloud-spacer-two cloud-style-four">
 <div class="container">
 <div class="cloud-item">
 <div class="row align-items-center">
@@ -291,178 +179,10 @@
 </div>
 </div>
 </div>
-</section>
-
-<section class="emizentech-hire">
-<div class="container">
-<div class="section-title">
-<h2><span>Hire Certified</span> iPhone App Developer</h2>
-<p>You can hire our team of dedicated iPhone App developers who are adroit at their performance and offer the best outcomes as desired.</p>
-</div>
-<div class="hire-wrap">
-<div class="owl-carousel owl-loaded owl-drag" data-items="3" data-margin="100" data-items-tablet="2" data-items-mobile-landscape="2" data-loop="true" data-nav="true" data-dots="false" data-autoplay="true">
+</section> -->
 
 
-
-
-<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1245px, 0px, 0px); transition: all 0.6s ease 0s; width: 3320px;"><div class="owl-item cloned" style="width: 315px; margin-right: 100px;"><div class="item">
-<div class="hire-item">
-<div class="emizentech-image"><img src="~/assets/images//ios-developer1.png" alt="Hire"></div>
-<div class="hire-info">
-<div class="hire-name">
-<h4>Abhi <br> Sain</h4>
-<h4>iPhone <br> Developer</h4>
-</div>
-<p>He is a highly professional and expert iOS app developer who is known for his dedicated performance and hard work to accomplish the project successfully.</p>
-<div class="hire-meta">
-<span>Objective-C</span>
-<span>Swift</span>
-<span>IOS</span>
-<span>GIT</span>
-<span>MVC</span>
-</div>
-<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
-</div>
-</div>
-</div></div><div class="owl-item cloned" style="width: 315px; margin-right: 100px;"><div class="item">
-<div class="hire-item">
-<div class="emizentech-image"><img src="~/assets/images//ios-developer1.png" alt="Hire"></div>
-<div class="hire-info">
-<div class="hire-name">
-<h4>Subhani <br> Jain</h4>
-<h4>iPhone <br> Developer</h4>
-</div>
-<p>She is known for her ultimate results as per the client’s expectation and performs hard to fulfill all the business needs of our clients.</p>
-<div class="hire-meta">
-<span>Objective-C</span>
-<span>Swift</span>
-<span>IOS</span>
-<span>GIT</span>
-<span>MVC</span>
-</div>
-<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
-</div>
-</div>
-</div></div><div class="owl-item" style="width: 315px; margin-right: 100px;"><div class="item">
-<div class="hire-item">
-<div class="emizentech-image"><img src="~/assets/images//ios-developer1.png" alt="Hire"></div>
-<div class="hire-info">
-<div class="hire-name">
-<h4>Aditi <br> Kalra</h4>
-<h4>iPhone <br> Developer</h4>
-</div>
-<p>She is having 6 years of working experience as a dedicated expert iPhone app developer who works hard to attain the required business goals.</p>
-<div class="hire-meta">
-<span>Objective-C</span>
-<span>Swift</span>
-<span>IOS</span>
-<span>GIT</span>
-<span>MVC</span>
-</div>
-<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
-</div>
-</div>
-</div></div><div class="owl-item active" style="width: 315px; margin-right: 100px;"><div class="item">
-<div class="hire-item">
-<div class="emizentech-image"><img src="~/assets/images//ios-developer1.png" alt="Hire"></div>
-<div class="hire-info">
-<div class="hire-name">
-<h4>Raj <br> Vyas</h4>
-<h4>iPhone <br> Developer</h4>
-</div>
-<p>He is a highly professional and expert iOS app developer who is known for his dedicated performance and hard work to accomplish the project successfully.</p>
-<div class="hire-meta">
-<span>Objective-C</span>
-<span>Swift</span>
-<span>IOS</span>
-<span>GIT</span>
-<span>MVC</span>
-</div>
-<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
-</div>
-</div>
-</div></div><div class="owl-item active" style="width: 315px; margin-right: 100px;"><div class="item">
-<div class="hire-item">
-<div class="emizentech-image"><img src="~/assets/images//ios-developer1.png" alt="Hire"></div>
-<div class="hire-info">
-<div class="hire-name">
-<h4>Abhi <br> Sain</h4>
-<h4>iPhone <br> Developer</h4>
-</div>
-<p>He is a highly professional and expert iOS app developer who is known for his dedicated performance and hard work to accomplish the project successfully.</p>
-<div class="hire-meta">
-<span>Objective-C</span>
-<span>Swift</span>
-<span>IOS</span>
-<span>GIT</span>
-<span>MVC</span>
-</div>
-<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
-</div>
-</div>
-</div></div><div class="owl-item" style="width: 315px; margin-right: 100px;"><div class="item">
-<div class="hire-item">
-<div class="emizentech-image"><img src="~/assets/images//ios-developer1.png" alt="Hire"></div>
-<div class="hire-info">
-<div class="hire-name">
-<h4>Subhani <br> Jain</h4>
-<h4>iPhone <br> Developer</h4>
-</div>
-<p>She is known for her ultimate results as per the client’s expectation and performs hard to fulfill all the business needs of our clients.</p>
-<div class="hire-meta">
-<span>Objective-C</span>
-<span>Swift</span>
-<span>IOS</span>
-<span>GIT</span>
-<span>MVC</span>
-</div>
-<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
-</div>
-</div>
-</div></div><div class="owl-item cloned" style="width: 315px; margin-right: 100px;"><div class="item">
-<div class="hire-item">
-<div class="emizentech-image"><img src="~/assets/images//ios-developer1.png" alt="Hire"></div>
-<div class="hire-info">
-<div class="hire-name">
-<h4>Aditi <br> Kalra</h4>
-<h4>iPhone <br> Developer</h4>
-</div>
-<p>She is having 6 years of working experience as a dedicated expert iPhone app developer who works hard to attain the required business goals.</p>
-<div class="hire-meta">
-<span>Objective-C</span>
-<span>Swift</span>
-<span>IOS</span>
-<span>GIT</span>
-<span>MVC</span>
-</div>
-<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
-</div>
-</div>
-</div></div><div class="owl-item cloned" style="width: 315px; margin-right: 100px;"><div class="item">
-<div class="hire-item">
-<div class="emizentech-image"><img src="~/assets/images//ios-developer1.png" alt="Hire"></div>
-<div class="hire-info">
-<div class="hire-name">
-<h4>Raj <br> Vyas</h4>
-<h4>iPhone <br> Developer</h4>
-</div>
-<p>He is a highly professional and expert iOS app developer who is known for his dedicated performance and hard work to accomplish the project successfully.</p>
-<div class="hire-meta">
-<span>Objective-C</span>
-<span>Swift</span>
-<span>IOS</span>
-<span>GIT</span>
-<span>MVC</span>
-</div>
-<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
-</div>
-</div>
-</div></div></div></div><div class="owl-nav"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">0</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
-</div>
-</div>
-</section>
-
-<section class="emizentech-api api-spacer-two">
+<!-- <section class="emizentech-api api-spacer-two">
 <div class="container">
 <div class="section-title">
 <h2><span>Benefits of Hiring</span> Certified iPhone App Developers</h2>
@@ -480,188 +200,10 @@
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
-<section class="emizentech-studies">
-<div class="swiper-container swiper-container-fade swiper-container-initialized swiper-container-horizontal swiper-container-autoheight">
-<div class="swiper-wrapper" style="transition-duration: 0ms; height: 844px;"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="3" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(0px, 0px, 0px);">
-<div class="row">
-<div class="col-lg-5 studies-bg-4">
-<div class="studies-info">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<div class="rebellious-logo"><img src="~/assets/images//rebellious-logo.png" alt="Rebellious" width="282" height="62"></div>
-<div class="studies-info-wrap">
-<h2>Rebellious</h2>
-<p>Holding 20 years of experience in the fashion industry, Rebellious fashion prides itself on availing the latest and in-demand trends at best prices.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="scroll-link studies-scroll-link"><a href="#skip-section" class="skip-link">SKIP</a></div>
-</div>
-<div class="col-lg-7">
-<div class="studies-wrap">
-<div class="rebellious-device">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<img src="~/assets/images//rebellious-device.png" alt="Rebellious" width="1260" height="988">
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="0" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(-801px, 0px, 0px);">
-<div class="row">
-<div class="col-lg-5 studies-bg-1">
-<div class="studies-info">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<div class="studies-logo"><img src="~/assets/images//moriitalia-logo.png" alt="Moriitalia" width="423" height="231"></div>
-<div class="studies-info-wrap">
-<h2>Moriitalia</h2>
-<p>Developed to find B2B and B2C providers, dFinder app assists in searching the suppliers for a specific business, for consumers, it searches restaurants, retailers, groceries, and supermarkets and other such businesses.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="scroll-link studies-scroll-link"><a href="#skip-section" class="skip-link">SKIP</a></div>
-</div>
-<div class="col-lg-7">
-<div class="studies-wrap">
-<div class="moriitalia-device">
-<img src="~/assets/images//moriitalia-device1.png" alt="Moriitalia Device" width="414" height="685">
-<img src="~/assets/images//moriitalia-device3.png" alt="Moriitalia Device" width="383" height="130" class="device3">
-</div>
-<div class="moriitalia-device device2">
-<img src="~/assets/images//moriitalia-device2.png" alt="Moriitalia Device" width="414" height="632">
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide swiper-slide-active" data-swiper-slide-index="1" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(-1602px, 0px, 0px);">
-<div class="row">
-<div class="col-lg-5 studies-bg-2">
-<div class="studies-info">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<div class="studies-logo"><img src="~/assets/images//dragon-logo.png" alt="Dragon" width="248" height="277"></div>
-<div class="studies-info-wrap">
-<h2>Dragon Fit</h2>
-<p>Developed to find B2B and B2C providers, dFinder app assists in searching the suppliers for a specific business, for consumers, it searches restaurants, retailers, groceries, and supermarkets and other such businesses.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="scroll-link studies-scroll-link"><a href="#skip-section" class="skip-link">SKIP</a></div>
-</div>
-<div class="col-lg-7">
-<div class="studies-wrap">
-<div class="dragon-device">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<img src="~/assets/images//dragon-device.png" alt="Dragon" width="1242" height="932">
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide swiper-slide-next" data-swiper-slide-index="2" style="width: 801px; transition-duration: 0ms; opacity: 0; transform: translate3d(-2403px, 0px, 0px);">
-<div class="row">
-<div class="col-lg-5 studies-bg-3">
-<div class="studies-info">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<div class="ego-logo"><img src="~/assets/images//ego-logo.png" alt="Ego" width="365" height="127"></div>
-<div class="studies-info-wrap">
-<h2>EGO</h2>
-<p>An online, bold, and lively footwear brand, EGO showcases stylish shoes to make shoeholics go mad. It offers fierce styles for tough gals who cherish standing uniquely from the crowd, static trend, and want to be a game-changer.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="scroll-link studies-scroll-link"><a href="#skip-section" class="skip-link">SKIP</a></div>
-</div>
-<div class="col-lg-7">
-<div class="studies-wrap">
-<div class="ego-device">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<img src="~/assets/images//ego-device.png" width="1196" height="988" alt="Ego">
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide" data-swiper-slide-index="3" style="width: 801px; transition-duration: 0ms; opacity: 0; transform: translate3d(-3204px, 0px, 0px);">
-<div class="row">
-<div class="col-lg-5 studies-bg-4">
-<div class="studies-info">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<div class="rebellious-logo"><img src="~/assets/images//rebellious-logo.png" alt="Rebellious" width="282" height="62"></div>
-<div class="studies-info-wrap">
-<h2>Rebellious</h2>
-<p>Holding 20 years of experience in the fashion industry, Rebellious fashion prides itself on availing the latest and in-demand trends at best prices.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="scroll-link studies-scroll-link"><a href="#skip-section" class="skip-link">SKIP</a></div>
-</div>
-<div class="col-lg-7">
-<div class="studies-wrap">
-<div class="rebellious-device">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<img src="~/assets/images//rebellious-device.png" alt="Rebellious" width="1260" height="988">
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0" style="width: 801px; transition-duration: 0ms; opacity: 0; transform: translate3d(-4005px, 0px, 0px);">
-<div class="row">
-<div class="col-lg-5 studies-bg-1">
-<div class="studies-info">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<div class="studies-logo"><img src="~/assets/images//moriitalia-logo.png" alt="Moriitalia" width="423" height="231"></div>
-<div class="studies-info-wrap">
-<h2>Moriitalia</h2>
-<p>Developed to find B2B and B2C providers, dFinder app assists in searching the suppliers for a specific business, for consumers, it searches restaurants, retailers, groceries, and supermarkets and other such businesses.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="scroll-link studies-scroll-link"><a href="#skip-section" class="skip-link">SKIP</a></div>
-</div>
-<div class="col-lg-7">
-<div class="studies-wrap">
-<div class="moriitalia-device">
-<img src="~/assets/images//moriitalia-device1.png" alt="Moriitalia Device" width="414" height="685">
-<img src="~/assets/images//moriitalia-device3.png" alt="Moriitalia Device" width="383" height="130" class="device3">
-</div>
-<div class="moriitalia-device device2">
-<img src="~/assets/images//moriitalia-device2.png" alt="Moriitalia Device" width="414" height="632">
-</div>
-</div>
-</div>
-</div>
-</div></div>
-<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-</section>
 
-<section class="emizentech-services services-style-two" id="skip-section">
+<!-- <section class="emizentech-services services-style-two" id="skip-section">
 <div class="container">
 <div class="section-title">
 <h2><span>Why Hire iPhone</span> App Developer from Emizentech</h2>
@@ -714,504 +256,8 @@
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
-<section class="emizentech-testimonials testimonials-style-two">
-<div class="container">
-<div class="section-title">
-<h2><span>Check out</span> Words of Admiration</h2>
-<p>We offer well-recognized results, let’s check out.</p>
-</div>
-<div class="testimonials-wrap">
-<div class="owl-carousel owl-loaded owl-drag" data-items="1" data-margin="0" data-loop="true" data-nav="true" data-dots="false" data-autoplay="false">
-
-
-
-
-<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1460px, 0px, 0px); transition: all 0s ease 0s; width: 5840px;"><div class="owl-item cloned" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images//icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Sales have increased in the wake of the migration and the company's search ranking has risen. Emizen Tech Private Limited is responsive and available, leading to a successful collaboration.</p>
-<div class="testimonials-name">
-<h3>Todays Component</h3>
-<p>Project Manager</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images//testimonials4.png" alt="Testimonials" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Todays <br> Component</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Todays Component</h3>
-<p>China, Hongkong</p>
-</div>
-<h4>Project Summary</h4>
-<h5>TodayComponents.com is the leading supplier of electronic components that we migrated to magento 2 from magento 1.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Feb. 2016</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon27.png" alt="$" width="36" height="36">
-<h4>$10,000 <br> to <br> $49,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item cloned" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images//icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Emizen Tech has resolved technical challenges rapidly and delivered cost-effective solutions. The team has been attentive and produced deliverables on time. They have provided technical expertise to support a valuable ongoing partnership.</p>
-<div class="testimonials-name">
-<h3>Sam</h3>
-<p>Product manager</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images//testimonials3.jpg" alt="Sam" width="225" height="349"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>London Seed – eCommerce Website</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Sam</h3>
-<p>London Seed</p>
-</div>
-<h4>Project Summary</h4>
-<h5>Emizen Tech provided development resources to solve technical issues with a website for a seed retailer.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Oct. 2019</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
- <img src="~/assets/images//icon27.png" alt="$" width="36" height="36">
-<h4>$10,000 <br> to <br> $49,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item active" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images//icon26.png" alt="Quote" width="56" height="43"></div>
-<p>The team at Emizen Tech delivered a quality solution within a tight deadline. They're reliable and dedicated. Their commitment supplemented their professional management style.</p>
-<div class="testimonials-name">
-<h3>Project Manager</h3>
-<p>Alex Perrie, Manchester, UK</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images//testimonials1.jpg" alt="Testimonials" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Rebellious Fashion – Ecommerce</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Alex Perrie</h3>
-<p>Manchester, UK</p>
-</div>
-<h4>Project Summary</h4>
-<h5>Helped complete a client &amp; invoice management app for fitness professionals with additional functions to handle class.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Aug. 2017</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Nov. 2019</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon27.png" alt="$" width="36" height="36">
-<h4>$50,000 <br> to <br> $199,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon29.png" alt="Prievew" width="32" height="24">
-<h4><a href="#0">Preview</a></h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images//icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Sales have increased since Emizen Tech Private Limited came onboard, driven in party by webpage speed improvement. Emizen’s diverse technical expertise and thorough understanding of Magento 2 have made for a beneficial partnership.</p>
-<div class="testimonials-name">
-<h3>Haroon Hussain</h3>
-<p>Head of Development</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images//testimonials2.jpg" alt="Haroon Hussain" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Ego.co.uk - Footwear eCommerce Store</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Haroon Hussain</h3>
-<p>Head of Development</p>
-</div>
-<h4>Project Summary</h4>
-<h5>EGO is an online, trend-led sassy footwear brand representing a movement of stylish shoeaholics from around the globe.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Jan. 2017</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon27.png" alt="$" width="36" height="36">
-<h4>$50,000 <br> to <br> $199,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon29.png" alt="Prievew" width="32" height="24">
- <h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images//icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Sales have increased in the wake of the migration and the company's search ranking has risen. Emizen Tech Private Limited is responsive and available, leading to a successful collaboration.</p>
-<div class="testimonials-name">
-<h3>Todays Component</h3>
-<p>Project Manager</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images//testimonials4.png" alt="Testimonials" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Todays <br> Component</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Todays Component</h3>
-<p>China, Hongkong</p>
-</div>
-<h4>Project Summary</h4>
-<h5>TodayComponents.com is the leading supplier of electronic components that we migrated to magento 2 from magento 1.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Feb. 2016</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon27.png" alt="$" width="36" height="36">
-<h4>$10,000 <br> to <br> $49,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images//icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Emizen Tech has resolved technical challenges rapidly and delivered cost-effective solutions. The team has been attentive and produced deliverables on time. They have provided technical expertise to support a valuable ongoing partnership.</p>
-<div class="testimonials-name">
-<h3>Sam</h3>
-<p>Product manager</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images//testimonials3.jpg" alt="Sam" width="225" height="349"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>London Seed – eCommerce Website</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Sam</h3>
-<p>London Seed</p>
-</div>
-<h4>Project Summary</h4>
-<h5>Emizen Tech provided development resources to solve technical issues with a website for a seed retailer.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Oct. 2019</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
- <img src="~/assets/images//icon27.png" alt="$" width="36" height="36">
-<h4>$10,000 <br> to <br> $49,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item cloned" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images//icon26.png" alt="Quote" width="56" height="43"></div>
-<p>The team at Emizen Tech delivered a quality solution within a tight deadline. They're reliable and dedicated. Their commitment supplemented their professional management style.</p>
-<div class="testimonials-name">
-<h3>Project Manager</h3>
-<p>Alex Perrie, Manchester, UK</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images//testimonials1.jpg" alt="Testimonials" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Rebellious Fashion – Ecommerce</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Alex Perrie</h3>
-<p>Manchester, UK</p>
-</div>
-<h4>Project Summary</h4>
-<h5>Helped complete a client &amp; invoice management app for fitness professionals with additional functions to handle class.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Aug. 2017</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Nov. 2019</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon27.png" alt="$" width="36" height="36">
-<h4>$50,000 <br> to <br> $199,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon29.png" alt="Prievew" width="32" height="24">
-<h4><a href="#0">Preview</a></h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item cloned" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images//icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Sales have increased since Emizen Tech Private Limited came onboard, driven in party by webpage speed improvement. Emizen’s diverse technical expertise and thorough understanding of Magento 2 have made for a beneficial partnership.</p>
-<div class="testimonials-name">
-<h3>Haroon Hussain</h3>
-<p>Head of Development</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images//testimonials2.jpg" alt="Haroon Hussain" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Ego.co.uk - Footwear eCommerce Store</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Haroon Hussain</h3>
-<p>Head of Development</p>
-</div>
-<h4>Project Summary</h4>
-<h5>EGO is an online, trend-led sassy footwear brand representing a movement of stylish shoeaholics from around the globe.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Jan. 2017</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon27.png" alt="$" width="36" height="36">
-<h4>$50,000 <br> to <br> $199,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images//icon29.png" alt="Prievew" width="32" height="24">
- <h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div></div></div><div class="owl-nav"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">1</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
-</div>
-</div>
-</section>
 
 <section class="emizentech-faq">
 <div class="container">
@@ -1298,53 +344,6 @@ Can I hire a developer for a project-based task?
 </div>
 </section>
 
-<section class="emizentech-blog">
-<div class="container">
-<div class="row">
-<div class="col-md-6">
-<div class="blog-title">
-<h3>Recently</h3>
-<h2>Blogs</h2>
-</div>
-<figure class="blog-item">
-<img src="~/assets/images//blog1.jpg" alt="Blog" width="640" height="474">
-<figcaption>
-<h4>Personal</h4>
-<h3><a href="https://www.emizentech.com/blog/child-to-parent-communication-in-lwc.html">How To Use Child To Parent Communication In LWC In Salesforce</a></h3>
-<a href="https://www.emizentech.com/blog/child-to-parent-communication-in-lwc.html" class="blog-link">Read more</a>
-</figcaption>
-</figure>
-<div class="call-block">
-<div class="call-block-wrap">
-<div class="emizentech-icon"><img src="~/assets/images//icon3.png" alt="Call" width="42" height="42"></div>
-<div class="call-info">
-<h5>Have an idea?</h5>
-<p>Convert your app idea into profitable Business Mobile Application...<a href="enqiry.html">Talk to Expert</a></p>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-6">
-<figure class="blog-item ml-lg-5">
-<img src="~/assets/images//blog2.jpg" alt="Blog" width="640" height="474">
-<figcaption>
-<h4>Personal</h4>
-<h3><a href="https://www.emizentech.com/blog/how-to-fetch-records-using-lightning-data-service.html">How To Fetch Records By Lightning Data Service In Salesforce</a></h3>
-<a href="https://www.emizentech.com/blog/how-to-fetch-records-using-lightning-data-service.html" class="blog-link">Read more</a>
-</figcaption>
-</figure>
-<figure class="blog-item ml-lg-5">
-<img src="~/assets/images//blog3.jpg" alt="Blog" width="640" height="474">
-<figcaption>
-<h4>Personal</h4>
-<h3><a href="https://www.emizentech.com/blog/optimize-voice-search-for-ecommerce-store.html">How To Optimize Your eCommerce Store For Voice Search</a></h3>
-<a href="https://www.emizentech.com/blog/optimize-voice-search-for-ecommerce-store.html" class="blog-link">Read more</a>
-</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</section>
 
 <section class="emizentech-clients">
 <div class="container">
@@ -1393,13 +392,8 @@ Can I hire a developer for a project-based task?
 </div>
 </section>
 
-<section class="emizentech-shy">
-<div class="container">
-<h3>Don’t be Shy</h3>
-<h2>Say Hello!</h2>
-<div class="text-right"><a href="enqiry.html" class="emizentech-btn emizentech-medium-btn">Get in Touch</a></div>
-</div>
-</section>
+<Started/>
+<Stats/>
 
 <FooterMenu/>
 

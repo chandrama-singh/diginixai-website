@@ -8,9 +8,9 @@
 <div class="row align-items-center">
 <div class="col-md-7">
 <div class="banner-info">
-<h1>Hire Hybrid <br> <span>Developers</span></h1>
-<p>Our expert hybrid app developers hold the caliber to develop enterprise-level mobile apps for small, medium-scale businesses successfully.</p>
-<a href="enqiry.html" class="emizentech-btn"><span class="sprites-image"></span> Talk to Consultant</a>
+<h1>Hybrid App<br> <span>Development</span></h1>
+<!-- <p>Our expert hybrid app developers hold the caliber to develop enterprise-level mobile apps for small, medium-scale businesses successfully.</p> -->
+<!-- <a href="enqiry.html" class="emizentech-btn"><span class="sprites-image"></span> Talk to Consultant</a> -->
 </div>
 </div>
 <div class="col-md-5">
@@ -23,1186 +23,76 @@
 <section class="emizentech-about about-style-five" id="first-section">
 <div class="container">
 <div class="section-title">
-<h2><span>Hire Experienced </span> and Certified Hybrid Developers</h2>
-<p>At Emizentech, we clutch a confident, passionate team of Hybrid app developers who believe in the potential to perform correctly.</p>
+<h2><span>Hybrid App Development </span>Services in Dubai</h2>
+<!-- <p>Being a renowned Android App development company, we assure performing on the advanced tools and technologies to craft top-class mobile apps. </p> -->
 </div>
 <div class="small-title">
-<p>Businesses are curiously seeking to reach potential customers, whether they are utilizing iOS, Android, or Windows. Developing a native application for each will prove to be expensive. However, a feasible alternative, Hybrid, will meet the development requirements of small and medium-scale businesses along with start-ups that have a limited budget, but ambitious targets. At Emizentech, we analyze the business requirements of our clients and value their thought process. We provide in-budget Hybrid app development plans that, apart from striking the purpose, also are executed, taking along the top-grade of professionalism under the experts’ supervision.</p>
-<p>Our expert Hybrid mobile app developers append the features that our clients want to get in their application. That’s why our team offers top-class apps to our clients. Our team of skillful Hybrid developers is tech-savvy and holds the experience and knowledge about the advanced technologies and tools. Moreover, we bestow unique traits to make their apps merely perfect. Simultaneously, we do take care of complete customer satisfaction. With Hybrid mobile app developers from Emizentech, you can witness ahead to a confident team of determined developers performing towards providing the clients a secured and flexible app. Since appending Hybrid app technology to our expert list, our adroit developers have already built some portable and user-specific websites. We also provide a dedicated team of Hybrid app developers through which the clients can talk directly with our developers and discuss and allot them work directly. They may take the team as their staff and can connect with them via distinct communication modes.</p>
+<p>Hybrid mobile application development is one of the main specializations that separates us from the rest of the mobile app development companies in Dubai.</p>
+<p>Native mobile apps are highly effective solutions to bring immense results in no time. But when it comes to scaling up the business across all platforms there comes the need for hybrid mobile application development and we specialize in the same.</p>
+<p>Developing result-oriented hybrid mobile applications are truly desired by most of the organizations. Thus, we offer the same at an affordable cost and design it specifically based on the needs of our clients. For a startup, developing a native app is absolutely fine. But for a growing business that wants to scale up and leverage their services through a variety of mediums effectively, they’ll need a robust hybrid architecture, and we serve the purpose.</p>
+<p>Hybrid applications support various platforms and are able to cater to users available on different platforms. So when you go for a hybrid mobile application for your business you reach more people and drive more sales for your business. The user engagement increases with time and you get your desired results out of small extra investments.</p>
 </div>
 </div>
 </section>
 
-<section class="emizentech-api api-style-two api-spacer-two">
-<div class="container">
-<div class="api-info">
-<div class="row">
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images/developers.png" alt="Developers" width="34" height="30"></div>
-<h4>Certified Developers</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images/secure.png" alt="Secure" width="24" height="30"></div>
-<h4>Secure with NDA</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images/buy.png" alt="Buy"></div>
-<h4>Try &amp; Buy Model</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images/refund.png" alt="Refund"></div>
-<h4>7 Day Refund Policy</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images/flexible.png" alt="Flexible"></div>
-<h4>Flexible Working Hours</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images/support.png" alt="Support"></div>
-<h4>24 X 7 Support</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images/security.png" alt="Security"></div>
-<h4>Security &amp; IP Protection</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images/source.png" alt="Source"></div>
-<h4>Source Code Authorization</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images/precise.png" alt="Precise"></div>
-<h4>Precise Reporting</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images/beacon.png" alt="Beacon"></div>
-<h4>Quick Team Scaling</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images/interviews.png" alt="Interviews"></div>
-<h4>Conduct Interviews</h4>
-</div>
-</div>
-<div class="col-md-4 col-6">
-<div class="api-item">
-<div class="emizentech-icon"><img src="~/assets/images/engagement.png" alt="Engagement"></div>
-<h4>Multiple Engagement Models</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-<section class="emizentech-development">
+<section class="emizentech-cloud cloud-style-three">
 <div class="container">
 <div class="section-title">
-<h2><span>Flexible Hiring</span> &amp; Engagement Model</h2>
-<p>Emizentech provides flexible engagement models that are free to be customized to meet the business needs of our clients. The enterprise faces various challenges on the team dynamics, budgetary constraints, and business priorities. For assuring a successful project delivery, they require a customized engagement strategy that attains the needs on many dimensions.</p>
+<h2><span>Diginixai Hybrid Mobile Application</span> Development Services</h2>
+<p>HTML 5, CSS, JavaScript, Sencha, Phone Gap are some of the latest technologies that we deal with and our hybrid mobile app developers in Dubai formulate the best in class hybrid mobile applications for your organization at the most affordable price and within the stipulated time frames. Apart from delivering the optimal solutions to your business we also offer lifetime technical support so that you can continue your business with zero maintenance hassle.</p>
 </div>
-<div class="row">
-<div class="col-lg-6">
-<div class="development-item development-spacer">
-<div class="emizentech-image"><img src="~/assets/images/engagement_1.png" alt="Engagement"></div>
-<h3>Engagement<span> Model</span></h3>
-<p>We hold an experienced team of certified Hybrid app developers who conduct an agile development strategy and assure that the project is accomplished well within the given deadline. We provide our clients with the flexibility to pick from a wide range of value-based engagement models when choosing mobile app developers from us.</p>
-<div class="development-inner">
-<div class="development-item-wrap">
-<div class="emizentech-icon"><img src="~/assets/images/icon43.png" alt="Onsite"></div>
-<div class="development-info">
-<h5>Onsite Team</h5>
-<p>The project is conducted on our clients’ sites. Emizentech holds the potential to bring qualified and experienced staff to their location. We incorporate the needs of our clients relevant to the customization and bring forward a few suitable developers for the selection.</p>
-</div>
-</div>
-<div class="development-item-wrap">
-<div class="emizentech-icon"><img src="~/assets/images/icon44.png" alt="Offsite"></div>
-<div class="development-info">
-<h5>Offsite Team</h5>
-<p>All the stages of project development are completed in Emizenetch’s premises. The clients are kept entirely well-informed of every project phase, and the outcomes are offered to them routinely on a pre-finalized basis.</p>
-</div>
-</div>
-<div class="development-item-wrap">
-<div class="emizentech-icon"><img src="~/assets/images/icon45.png" alt="Hybrid"></div>
-<div class="development-info">
-<h5>Hybrid Team</h5>
-<p>Our team of proficient Hybrid app developers performs hard to accomplish the project of our clients from our site and meet their business requirements. Also, they visit occasionally, when needed.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-lg-6">
-<div class="development-item">
-<div class="emizentech-image"><img src="~/assets/images/pricing.png" alt="Pricing"></div>
-<h3>Pricing <span>Model</span></h3>
-<p>We hold a smooth pricing model that permits our clients to get the assistance to pick the best Hybrid developers for the accomplishment of their project. We have come up with distinct pricing models.</p>
-<div class="development-inner">
-<div class="development-item-wrap">
-<div class="emizentech-icon"><img src="~/assets/images/fix-price.png" alt="Fix"></div>
-<div class="development-info">
-<h5>Fix Price Model</h5>
-<p>Hire Hybrid app developers from Emizentech who are suitable for your fixed projects where it’s feasible to evaluate the time and cost needed for the development in the starting. Picking this model, our clients get apps within their time and budget.</p>
-</div>
-</div>
-<div class="development-item-wrap">
-<div class="emizentech-icon"><img src="~/assets/images/dedicated.png" alt="Dedicated"></div>
-<div class="development-info">
-<h5>Dedicated Model</h5>
-<p>Hire our perfect dedicated Hybrid developers who are best-fit for mid-sized businesses and startups. We offer our clients a team of skillful developers and the billing of which is done at an affordable price every month.</p>
-</div>
- </div>
-<div class="development-item-wrap">
-<div class="emizentech-icon"><img src="~/assets/images/time-material.png" alt="Time"></div>
-<div class="development-info">
-<h5>Time &amp; Material</h5>
-<p>This model is best for the projects where the needs alter frequently and is useful for the interim projects. This model is exclusively flexible for the development process that changes with running time and cost. The billing is fixed before starting the process, whether it is weekly, hourly, or monthly.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-<section class="emizentech-magento">
-<div class="container">
-<div class="row">
-<div class="col-lg-4">
-<div class="magento-image">
-<img src="~/assets/images/magento-img.png" alt="Magento">
-<div class="magento-image-info">
-<h2>Hire Expert Hybrid Developers <span>&amp; Avail the Best Hybrid Development Services</span></h2>
-<a href="enqiry.html" class="emizentech-btn emizentech-white-btn"><img src="~/assets/images/red-btn-icon.png" alt="Btn Icon"> Talk to Consultant</a>
-</div>
-</div>
-</div>
-<div class="col-lg-8">
-<div class="magento-wrap">
-<div class="row">
-<div class="col-md-4 col-sm-6">
-<div class="magento-item">
-<div class="emizentech-icon"><img src="~/assets/images/magento-shopping.png" alt="magento-shopping"></div>
-<h5>App Prototype Development</h5>
-<p>We offer result-oriented Prototype design services that flip your thoughts and imagination in visual. We involve professional UX/UI designers that aid in observing the concept and avoid any extra charges.</p>
-</div>
-</div>
-<div class="col-md-4 col-sm-6">
-<div class="magento-item">
-<div class="emizentech-icon"><img src="~/assets/images/magento-extension.png" alt="magento-Extension"></div>
-<h5>Hybrid App UI/UI Development</h5>
-<p>Our team of expert hybrid app developers develops the sketch of app design as per the needs of our clients. We sketch fascinating Hybrid UI/UX solutions for the cross-platform apps ensuring enhanced user experience.</p>
-</div>
-</div>
-<div class="col-md-4 col-sm-6">
-<div class="magento-item">
-<div class="emizentech-icon"><img src="~/assets/images/magento-speed.png" alt="magento-Speed"></div>
-<h5>3rd Party API Integration</h5>
-<p>Our professional cross-platform hybrid app developers assure seamless integrations of available apps with other apps and 3rd party apps for top-notch advantages.</p>
-</div>
-</div>
-<div class="col-md-4 col-sm-6">
-<div class="magento-item">
-<div class="emizentech-icon"><img src="~/assets/images/magento-theme.png" alt="magento-Theme"></div>
-<h5>App Migration Solutions</h5>
-<p>Being a top Hybrid application development company, we offer perfect Hybrid app migration solutions with full security, no data loss, and in a smooth way.</p>
-</div>
-</div>
-<div class="col-md-4 col-sm-6">
-<div class="magento-item">
-<div class="emizentech-icon"><img src="~/assets/images/magento-migration.png" alt="magento-Migration"></div>
-<h5>Quality Assurance &amp; Testing</h5>
-<p>Our proficient testers test the hybrid apps on various parameters. We just ensure that our clients get the best user experience and enhanced conversion rates.</p>
-</div>
-</div>
-<div class="col-md-4 col-sm-6">
-<div class="magento-item">
-<div class="emizentech-icon"><img src="~/assets/images/magento-integration.png" alt="magento-Integration"></div>
-<h5>App Support &amp; Maintenance</h5>
-<p>Our team bestows app support &amp; maintenance service, before and after the delivery of products to ensure that apps are bug-free and updated.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-<section class="emizentech-cloud cloud-spacer-two cloud-style-four">
-<div class="container">
 <div class="cloud-item">
 <div class="row align-items-center">
 <div class="col-lg-5">
-<div class="emizentech-image"><img src="~/assets/images/icon138.png" alt="3dcart Integration"></div>
+<div class="emizentech-image"><img src="~assets/images/hybrid-app-design.png" alt="Salesforce"></div>
 </div>
 <div class="col-lg-7">
 <div class="cloud-info">
-<h3><span>Our Hybrid </span>Developer Skill Set</h3>
-<p>We own a team of talented hybrid app programmers who analyze the needs of our clients and attain them with the top-class results. They hold the following skillset:</p>
-<div class="row">
-<div class="col-md-6">
-<ul class="bullet-list">
-<li>Expert in HTML5, CSS, JavaScript.</li>
-<li>Know how to structure an app.</li>
-<li>Proficient with mobile web optimization techniques.</li>
-</ul>
-</div>
-<div class="col-md-6">
-<ul class="bullet-list">
-<li>Expert at platform-specific design and interface conventions.</li>
-<li>Knowledge of domains relevant to the app.</li>
-<li>Expert in data structure and the access relevant to the app.</li>
-</ul>
-</div>
-</div>
-<a href="enqiry.html" class="emizentech-btn"><span class="sprites-image"></span> Talk to Consultant</a>
+<h3><span>Hybrid Application </span>Design</h3>
+<p>Before finalizing the coding part our best hybrid mobile application development team in Dubai creates the blueprint of the mobile application and then designs the entire framework that brings immediate results to your business. Designing is not the matter to neglect and thus, our experienced mobile app architects spend much time drawing out the industry-leading designing solutions to serve the purpose.</p> 
 </div>
 </div>
 </div>
 </div>
+<div class="cloud-item item-style-two">
+<div class="row align-items-center">
+<div class="col-lg-5 order-lg-2">
+<div class="emizentech-image"><img src="~assets/images/hybrid-app-develpment.png" alt="Salesforce"></div>
 </div>
-</section>
-
-<section class="emizentech-hire">
-<div class="container">
-<div class="section-title">
-<h2><span>Hire Certified </span>Hybrid Developer</h2>
-<p>Our expert Hybrid app developers offer reliable cross-platform mobile app development services that lead to <br> better ROI and rapid turnaround time.</p>
-</div>
-<div class="hire-wrap">
-<div class="owl-carousel owl-loaded owl-drag" data-items="3" data-margin="100" data-items-tablet="2" data-items-mobile-landscape="2" data-loop="true" data-nav="true" data-dots="false" data-autoplay="true">
-
-
-
-
-<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1660px, 0px, 0px); transition: all 0.6s ease 0s; width: 3320px;"><div class="owl-item cloned" style="width: 315px; margin-right: 100px;"><div class="item">
-<div class="hire-item">
-<div class="emizentech-image"><img src="~/assets/images/hybrid-developer1.png" alt="Hire"></div>
-<div class="hire-info">
-<div class="hire-name">
-<h4>Dikhsha <br> Jain</h4>
-<h4>Hybrid <br> Developer</h4>
-</div>
-<p>He is known for accomplishing the project within the time frame, maintaining the top-class quality.</p>
-<div class="hire-meta">
-<span>Magento</span>
-<span>Magento 2</span>
-<span>AJAX</span>
-<span>Javascript</span>
-<span>Salesforce</span>
-</div>
-<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
-</div>
-</div>
-</div></div><div class="owl-item cloned" style="width: 315px; margin-right: 100px;"><div class="item">
-<div class="hire-item">
-<div class="emizentech-image"><img src="~/assets/images/hybrid-developer1.png" alt="Hire"></div>
-<div class="hire-info">
-<div class="hire-name">
-<h4>Suman <br> Vyas</h4>
-<h4>Hybrid <br> Developer</h4>
-</div>
-<p>He is much focused and goal-driven on developing a bug-free hybrid mobile app for all sized businesses.</p>
-<div class="hire-meta">
-<span>Magento</span>
-<span>Magento 2</span>
-<span>AJAX</span>
-<span>Javascript</span>
-<span>Salesforce</span>
-</div>
-<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
-</div>
-</div>
-</div></div><div class="owl-item" style="width: 315px; margin-right: 100px;"><div class="item">
-<div class="hire-item">
-<div class="emizentech-image"><img src="~/assets/images/hybrid-developer1.png" alt="Hire"></div>
-<div class="hire-info">
-<div class="hire-name">
-<h4>Aditi Kalra</h4>
-<h4>Hybrid <br> Developer</h4>
-</div>
-<p>She has 7 years of experience being a top hybrid app developer and holds the caliber to support fast development under the altering plans.</p>
-<div class="hire-meta">
-<span>Magento</span>
-<span>Magento 2</span>
-<span>AJAX</span>
-<span>Javascript</span>
-<span>Salesforce</span>
-</div>
-<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
-</div>
-</div>
-</div></div><div class="owl-item" style="width: 315px; margin-right: 100px;"><div class="item">
-<div class="hire-item">
-<div class="emizentech-image"><img src="~/assets/images/hybrid-developer1.png" alt="Hire"></div>
-<div class="hire-info">
-<div class="hire-name">
-<h4>Suman <br> Vyas</h4>
-<h4>Hybrid <br> Developer</h4>
-</div>
-<p>He is much focused and goal-driven on developing a bug-free hybrid mobile app for all sized businesses.</p>
-<div class="hire-meta">
-<span>Magento</span>
-<span>Magento 2</span>
-<span>AJAX</span>
-<span>Javascript</span>
-<span>Salesforce</span>
-</div>
-<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
-</div>
-</div>
-</div></div><div class="owl-item active" style="width: 315px; margin-right: 100px;"><div class="item">
-<div class="hire-item">
-<div class="emizentech-image"><img src="~/assets/images/hybrid-developer1.png" alt="Hire"></div>
-<div class="hire-info">
-<div class="hire-name">
-<h4>Dikhsha <br> Jain</h4>
-<h4>Hybrid <br> Developer</h4>
-</div>
-<p>He is known for accomplishing the project within the time frame, maintaining the top-class quality.</p>
-<div class="hire-meta">
-<span>Magento</span>
-<span>Magento 2</span>
-<span>AJAX</span>
-<span>Javascript</span>
-<span>Salesforce</span>
-</div>
-<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
-</div>
-</div>
-</div></div><div class="owl-item active" style="width: 315px; margin-right: 100px;"><div class="item">
-<div class="hire-item">
-<div class="emizentech-image"><img src="~/assets/images/hybrid-developer1.png" alt="Hire"></div>
-<div class="hire-info">
-<div class="hire-name">
-<h4>Suman <br> Vyas</h4>
-<h4>Hybrid <br> Developer</h4>
-</div>
-<p>He is much focused and goal-driven on developing a bug-free hybrid mobile app for all sized businesses.</p>
-<div class="hire-meta">
-<span>Magento</span>
-<span>Magento 2</span>
-<span>AJAX</span>
-<span>Javascript</span>
-<span>Salesforce</span>
-</div>
-<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
-</div>
-</div>
-</div></div><div class="owl-item cloned" style="width: 315px; margin-right: 100px;"><div class="item">
-<div class="hire-item">
-<div class="emizentech-image"><img src="~/assets/images/hybrid-developer1.png" alt="Hire"></div>
-<div class="hire-info">
-<div class="hire-name">
-<h4>Aditi Kalra</h4>
-<h4>Hybrid <br> Developer</h4>
-</div>
-<p>She has 7 years of experience being a top hybrid app developer and holds the caliber to support fast development under the altering plans.</p>
-<div class="hire-meta">
-<span>Magento</span>
-<span>Magento 2</span>
-<span>AJAX</span>
-<span>Javascript</span>
-<span>Salesforce</span>
-</div>
-<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
-</div>
-</div>
-</div></div><div class="owl-item cloned" style="width: 315px; margin-right: 100px;"><div class="item">
-<div class="hire-item">
-<div class="emizentech-image"><img src="~/assets/images/hybrid-developer1.png" alt="Hire"></div>
-<div class="hire-info">
-<div class="hire-name">
-<h4>Suman <br> Vyas</h4>
-<h4>Hybrid <br> Developer</h4>
-</div>
-<p>He is much focused and goal-driven on developing a bug-free hybrid mobile app for all sized businesses.</p>
-<div class="hire-meta">
-<span>Magento</span>
-<span>Magento 2</span>
-<span>AJAX</span>
-<span>Javascript</span>
-<span>Salesforce</span>
-</div>
-<a href="enqiry.html" class="emizentech-btn green-btn">Hire Now</a>
-</div>
-</div>
-</div></div></div></div><div class="owl-nav"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">0</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
-</div>
-</div>
-</section>
-
-<section class="emizentech-api api-spacer-two">
-<div class="container">
-<div class="section-title">
-<h2><span>Benefits of Hiring</span> Certified Hybrid Developers</h2>
-<p>We offer best-in-class development solutions as we hold experienced and elite Hybrid developers, analysts, and architects in our team.</p>
-</div>
-<div class="row">
-<div class="col-lg-4">
-<h3><span>D</span>edicated towards Offering Best Services that are Rich in Quality.</h3>
-</div>
-<div class="col-lg-8">
-<div class="api-info">
-<p><strong>Competitive Rates</strong> By hiring dedicated Hybrid developers you get the most competitive cost for the services that the companies offer by embracing hybrid app development solutions.</p>
-<p><strong>Experienced app developers</strong> The software professionals that perform with you when you hire certified Hybrid developers are experienced and highly qualified in their field of operation. You are allowed to pick the best being an owner.</p>
-<p><strong>Timely Delivery</strong> When you hire a dedicated team of hybrid developers, they stick to the given deadlines and deliver top-class outcomes, even before the decided time frame.</p>
-<p><strong>Assured Customer Satisfaction</strong> A dedicated team holds specific candidates for every task, and that’s why satisfactory results are attained with enhanced customer satisfaction.</p>
-<p><strong>Transparency &amp; Integrity</strong> The idea of the clients stays safe when they hire a dedicated team of developers. They show respect to their secrecy and perform correctly with comprehensive transparency.</p>
+<div class="col-lg-7 order-lg-1">
+<div class="cloud-info">
+<h3><span>Hybrid Application </span>Development</h3>
+<p>Once the designing part is done, our expert hybrid mobile application developers in Dubai start with their development plan. They use the simplest coding with the easiest yet complex algorithms to create a remarkable hybrid application for our esteemed clients. We use the latest technologies that are currently ruling the industry such as HTML5, CSS, JavaScript, Sencho, and Phone Gap and formulate outstanding mobile applications in no time.</p>
 </div>
 </div>
 </div>
 </div>
-</section>
-
-<section class="emizentech-studies">
-<div class="swiper-container swiper-container-fade swiper-container-initialized swiper-container-horizontal swiper-container-autoheight">
-<div class="swiper-wrapper" style="transition-duration: 0ms; height: 844px;"><div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="3" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(0px, 0px, 0px);">
-<div class="row">
-<div class="col-lg-5 studies-bg-4">
-<div class="studies-info">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<div class="rebellious-logo"><img src="~/assets/images/rebellious-logo.png" alt="Rebellious" width="282" height="62"></div>
-<div class="studies-info-wrap">
-<h2>Rebellious</h2>
-<p>Holding 20 years of experience in the fashion industry, Rebellious fashion prides itself on availing the latest and in-demand trends at best prices.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="scroll-link studies-scroll-link"><a href="#skip-section" class="skip-link">SKIP</a></div>
+<div class="cloud-item">
+<div class="row align-items-center">
+<div class="col-lg-5">
+<div class="emizentech-image"><img src="~assets/images/hybrid-app-testing.png" alt="Salesforce"></div>
 </div>
 <div class="col-lg-7">
-<div class="studies-wrap">
-<div class="rebellious-device">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<img src="~/assets/images/rebellious-device.png" alt="Rebellious" width="1260" height="988">
+<div class="cloud-info">
+<h3><span>Hybrid Application</span> Testing</h3>
+<p>Designing and developing software or a mobile application can turn out to be useless until a strong inspection is done from the end of the development team. Thus, we have a specialized team of mobile application test engineers who thoroughly checks up every minute aspect before launching any mobile application to the market or delivering the same to the client. Bug-fixing, small error fixing, crash checkups are all done with appropriate measures, using the latest debugging testing tools.</p>
 </div>
 </div>
 </div>
 </div>
+<div class="cloud-item item-style-two">
+<div class="row align-items-center">
+<div class="col-lg-5 order-lg-2">
+<div class="emizentech-image"><img src="~assets/images/hybrid-maintenance.png" alt="Salesforce"></div>
 </div>
-</div>
-</div>
-<div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="0" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(-801px, 0px, 0px);">
-<div class="row">
-<div class="col-lg-5 studies-bg-1">
-<div class="studies-info">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<div class="studies-logo"><img src="~/assets/images/moriitalia-logo.png" alt="Moriitalia" width="423" height="231"></div>
-<div class="studies-info-wrap">
-<h2>Moriitalia</h2>
-<p>Developed to find B2B and B2C providers, dFinder app assists in searching the suppliers for a specific business, for consumers, it searches restaurants, retailers, groceries, and supermarkets and other such businesses.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="scroll-link studies-scroll-link"><a href="#skip-section" class="skip-link">SKIP</a></div>
-</div>
-<div class="col-lg-7">
-<div class="studies-wrap">
-<div class="moriitalia-device">
-<img src="~/assets/images/moriitalia-device1.png" alt="Moriitalia Device" width="414" height="685">
-<img src="~/assets/images/moriitalia-device3.png" alt="Moriitalia Device" width="383" height="130" class="device3">
-</div>
-<div class="moriitalia-device device2">
-<img src="~/assets/images/moriitalia-device2.png" alt="Moriitalia Device" width="414" height="632">
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide swiper-slide-active" data-swiper-slide-index="1" style="width: 801px; transition-duration: 0ms; opacity: 1; transform: translate3d(-1602px, 0px, 0px);">
-<div class="row">
-<div class="col-lg-5 studies-bg-2">
-<div class="studies-info">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<div class="studies-logo"><img src="~/assets/images/dragon-logo.png" alt="Dragon" width="248" height="277"></div>
-<div class="studies-info-wrap">
-<h2>Dragon Fit</h2>
-<p>Developed to find B2B and B2C providers, dFinder app assists in searching the suppliers for a specific business, for consumers, it searches restaurants, retailers, groceries, and supermarkets and other such businesses.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="scroll-link studies-scroll-link"><a href="#skip-section" class="skip-link">SKIP</a></div>
-</div>
-<div class="col-lg-7">
-<div class="studies-wrap">
-<div class="dragon-device">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<img src="~/assets/images/dragon-device.png" alt="Dragon" width="1242" height="932">
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide swiper-slide-next" data-swiper-slide-index="2" style="width: 801px; transition-duration: 0ms; opacity: 0; transform: translate3d(-2403px, 0px, 0px);">
-<div class="row">
-<div class="col-lg-5 studies-bg-3">
-<div class="studies-info">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<div class="ego-logo"><img src="~/assets/images/ego-logo.png" alt="Ego" width="365" height="127"></div>
-<div class="studies-info-wrap">
-<h2>EGO</h2>
-<p>An online, bold, and lively footwear brand, EGO showcases stylish shoes to make shoeholics go mad. It offers fierce styles for tough gals who cherish standing uniquely from the crowd, static trend, and want to be a game-changer.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="scroll-link studies-scroll-link"><a href="#skip-section" class="skip-link">SKIP</a></div>
-</div>
-<div class="col-lg-7">
-<div class="studies-wrap">
-<div class="ego-device">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<img src="~/assets/images/ego-device.png" width="1196" height="988" alt="Ego">
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide" data-swiper-slide-index="3" style="width: 801px; transition-duration: 0ms; opacity: 0; transform: translate3d(-3204px, 0px, 0px);">
-<div class="row">
-<div class="col-lg-5 studies-bg-4">
-<div class="studies-info">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<div class="rebellious-logo"><img src="~/assets/images/rebellious-logo.png" alt="Rebellious" width="282" height="62"></div>
-<div class="studies-info-wrap">
-<h2>Rebellious</h2>
-<p>Holding 20 years of experience in the fashion industry, Rebellious fashion prides itself on availing the latest and in-demand trends at best prices.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="scroll-link studies-scroll-link"><a href="#skip-section" class="skip-link">SKIP</a></div>
-</div>
-<div class="col-lg-7">
-<div class="studies-wrap">
-<div class="rebellious-device">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<img src="~/assets/images/rebellious-device.png" alt="Rebellious" width="1260" height="988">
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0" style="width: 801px; transition-duration: 0ms; opacity: 0; transform: translate3d(-4005px, 0px, 0px);">
-<div class="row">
-<div class="col-lg-5 studies-bg-1">
-<div class="studies-info">
-<div class="emizentech-table-wrap">
-<div class="emizentech-align-wrap bottom">
-<div class="studies-logo"><img src="~/assets/images/moriitalia-logo.png" alt="Moriitalia" width="423" height="231"></div>
-<div class="studies-info-wrap">
-<h2>Moriitalia</h2>
-<p>Developed to find B2B and B2C providers, dFinder app assists in searching the suppliers for a specific business, for consumers, it searches restaurants, retailers, groceries, and supermarkets and other such businesses.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="scroll-link studies-scroll-link"><a href="#skip-section" class="skip-link">SKIP</a></div>
-</div>
-<div class="col-lg-7">
-<div class="studies-wrap">
-<div class="moriitalia-device">
-<img src="~/assets/images/moriitalia-device1.png" alt="Moriitalia Device" width="414" height="685">
-<img src="~/assets/images/moriitalia-device3.png" alt="Moriitalia Device" width="383" height="130" class="device3">
-</div>
-<div class="moriitalia-device device2">
-<img src="~/assets/images/moriitalia-device2.png" alt="Moriitalia Device" width="414" height="632">
-</div>
-</div>
-</div>
-</div>
-</div></div>
-<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-</section>
+<div class="col-lg-7 order-lg-1">
+<div class="cloud-info">
+<h3><span>Hybrid Application</span> Maintenance</h3>
+<p>A mobile application or any other software application becomes successful only when they run smoothly forever. The moment it crashes or finds a sudden downtime, questions arise on its success. We at Diginix-AI offer complete maintenance support for the clients and take care of all such issues like managing app downtime, error-free debugging, maintaining the load and smooth functioning of the app to provide a high-quality user experience.</p>
 
-<section class="emizentech-services services-style-two" id="skip-section">
-<div class="container">
-<div class="section-title">
-<h2><span>Why Hire Hybrid</span> Developer from Emizentech</h2>
-<p>Our team of proficient developers are experts at the custom hybrid app development services and offer the best outcomes meeting the required business demands.</p>
 </div>
-<div class="row justify-content-center">
-<div class="service-item">
-<img src="~/assets/images/icon87.png" alt="Magento">
-<h4>Rapid Delivery</h4>
 </div>
-<div class="service-item">
-<img src="~/assets/images/icon88.png" alt="3dCart">
-<h4>Proficient and <br> Skilled Developers</h4>
 </div>
-<div class="service-item">
-<img src="~/assets/images/icon89.png" alt="Magento">
-<h4>Agile Methodologies</h4>
-</div>
-<div class="service-item">
-<img src="~/assets/images/icon90.png" alt="Magento">
-<h4>Extensively Customer Vouched Reputation</h4>
-</div>
-<div class="service-item">
-<img src="~/assets/images/icon91.png" alt="Magento">
-<h4>100% Customer Satisfaction</h4>
-</div>
-<div class="service-item">
-<img src="~/assets/images/icon92.png" alt="Magento">
-<h4>Competitive Pricing</h4>
-</div>
-<div class="service-item">
-<img src="~/assets/images/icon93.png" alt="Magento">
-<h4>Nasscom Certified Company</h4>
-</div>
-<div class="service-item">
-<img src="~/assets/images/icon94.png" alt="Magento">
-<h4>Active Support And maintenance</h4>
-</div>
-<div class="service-item">
-<img src="~/assets/images/icon95.png" alt="Magento">
-<h4>The Best <br> Hybrid Developer</h4>
-</div>
-<div class="service-item">
-<img src="~/assets/images/icon96.png" alt="Magento">
-<h4>Service Global Clients</h4>
-</div>
-<div class="service-item">
-<img src="~/assets/images/icon97.png" alt="Magento">
-<h4>ISO 27001:2013 Certified Company</h4>
-</div>
-</div>
-</div>
-</section>
-
-<section class="emizentech-testimonials testimonials-style-two">
-<div class="container">
-<div class="section-title">
-<h2><span>Cheering Words </span> from Our Clients</h2>
-<p>Our Clients say.</p>
-</div>
-<div class="testimonials-wrap">
-<div class="owl-carousel owl-loaded owl-drag" data-items="1" data-margin="0" data-loop="true" data-nav="true" data-dots="false" data-autoplay="false">
-
-
-
-
-<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1460px, 0px, 0px); transition: all 0s ease 0s; width: 5840px;"><div class="owl-item cloned" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images/icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Sales have increased in the wake of the migration and the company's search ranking has risen. Emizen Tech Private Limited is responsive and available, leading to a successful collaboration.</p>
-<div class="testimonials-name">
-<h3>Todays Component</h3>
-<p>Project Manager</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images/testimonials4.png" alt="Testimonials" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Todays <br> Component</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Todays Component</h3>
-<p>China, Hongkong</p>
-</div>
-<h4>Project Summary</h4>
-<h5>TodayComponents.com is the leading supplier of electronic components that we migrated to magento 2 from magento 1.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Feb. 2016</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon27.png" alt="$" width="36" height="36">
-<h4>$10,000 <br> to <br> $49,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item cloned" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images/icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Emizen Tech has resolved technical challenges rapidly and delivered cost-effective solutions. The team has been attentive and produced deliverables on time. They have provided technical expertise to support a valuable ongoing partnership.</p>
-<div class="testimonials-name">
-<h3>Sam</h3>
-<p>Product manager</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images/testimonials3.jpg" alt="Sam" width="225" height="349"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>London Seed – eCommerce Website</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Sam</h3>
-<p>London Seed</p>
-</div>
-<h4>Project Summary</h4>
-<h5>Emizen Tech provided development resources to solve technical issues with a website for a seed retailer.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Oct. 2019</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon27.png" alt="$" width="36" height="36">
-<h4>$10,000 <br> to <br> $49,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item active" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images/icon26.png" alt="Quote" width="56" height="43"></div>
-<p>The team at Emizen Tech delivered a quality solution within a tight deadline. They're reliable and dedicated. Their commitment supplemented their professional management style.</p>
-<div class="testimonials-name">
-<h3>Project Manager</h3>
-<p>Alex Perrie, Manchester, UK</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images/testimonials1.jpg" alt="Testimonials" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Rebellious Fashion – Ecommerce</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Alex Perrie</h3>
-<p>Manchester, UK</p>
-</div>
-<h4>Project Summary</h4>
-<h5>Helped complete a client &amp; invoice management app for fitness professionals with additional functions to handle class.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
- <h5>Aug. 2017</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Nov. 2019</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon27.png" alt="$" width="36" height="36">
-<h4>$50,000 <br> to <br> $199,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon29.png" alt="Prievew" width="32" height="24">
-<h4><a href="#0">Preview</a></h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images/icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Sales have increased since Emizen Tech Private Limited came onboard, driven in party by webpage speed improvement. Emizen’s diverse technical expertise and thorough understanding of Magento 2 have made for a beneficial partnership.</p>
-<div class="testimonials-name">
-<h3>Haroon Hussain</h3>
-<p>Head of Development</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images/testimonials2.jpg" alt="Haroon Hussain" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Ego.co.uk - Footwear eCommerce Store</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Haroon Hussain</h3>
-<p>Head of Development</p>
-</div>
-<h4>Project Summary</h4>
-<h5>EGO is an online, trend-led sassy footwear brand representing a movement of stylish shoeaholics from around the globe.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Jan. 2017</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon27.png" alt="$" width="36" height="36">
-<h4>$50,000 <br> to <br> $199,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
- </div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images/icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Sales have increased in the wake of the migration and the company's search ranking has risen. Emizen Tech Private Limited is responsive and available, leading to a successful collaboration.</p>
-<div class="testimonials-name">
-<h3>Todays Component</h3>
-<p>Project Manager</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images/testimonials4.png" alt="Testimonials" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Todays <br> Component</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Todays Component</h3>
-<p>China, Hongkong</p>
-</div>
-<h4>Project Summary</h4>
-<h5>TodayComponents.com is the leading supplier of electronic components that we migrated to magento 2 from magento 1.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Feb. 2016</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon27.png" alt="$" width="36" height="36">
-<h4>$10,000 <br> to <br> $49,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images/icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Emizen Tech has resolved technical challenges rapidly and delivered cost-effective solutions. The team has been attentive and produced deliverables on time. They have provided technical expertise to support a valuable ongoing partnership.</p>
-<div class="testimonials-name">
-<h3>Sam</h3>
-<p>Product manager</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images/testimonials3.jpg" alt="Sam" width="225" height="349"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>London Seed – eCommerce Website</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Sam</h3>
-<p>London Seed</p>
-</div>
-<h4>Project Summary</h4>
-<h5>Emizen Tech provided development resources to solve technical issues with a website for a seed retailer.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Oct. 2019</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon27.png" alt="$" width="36" height="36">
-<h4>$10,000 <br> to <br> $49,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item cloned" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images/icon26.png" alt="Quote" width="56" height="43"></div>
-<p>The team at Emizen Tech delivered a quality solution within a tight deadline. They're reliable and dedicated. Their commitment supplemented their professional management style.</p>
-<div class="testimonials-name">
-<h3>Project Manager</h3>
-<p>Alex Perrie, Manchester, UK</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images/testimonials1.jpg" alt="Testimonials" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Rebellious Fashion – Ecommerce</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Alex Perrie</h3>
-<p>Manchester, UK</p>
-</div>
-<h4>Project Summary</h4>
-<h5>Helped complete a client &amp; invoice management app for fitness professionals with additional functions to handle class.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
- <h5>Aug. 2017</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Nov. 2019</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon27.png" alt="$" width="36" height="36">
-<h4>$50,000 <br> to <br> $199,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon29.png" alt="Prievew" width="32" height="24">
-<h4><a href="#0">Preview</a></h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div><div class="owl-item cloned" style="width: 730px;"><div class="item">
-<div class="testimonials-item">
-<div class="row">
-<div class="col-lg-4">
-<div class="testimonials-info aos-init aos-animate" data-aos="fade-down">
-<div class="emizentech-icon"><img src="~/assets/images/icon26.png" alt="Quote" width="56" height="43"></div>
-<p>Sales have increased since Emizen Tech Private Limited came onboard, driven in party by webpage speed improvement. Emizen’s diverse technical expertise and thorough understanding of Magento 2 have made for a beneficial partnership.</p>
-<div class="testimonials-name">
-<h3>Haroon Hussain</h3>
-<p>Head of Development</p>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-md-5 col-sm-4 aos-init aos-animate" data-aos="fade-up">
-<div class="emizentech-image"><img src="~/assets/images/testimonials2.jpg" alt="Haroon Hussain" width="223" height="347"></div>
-</div>
-<div class="col-lg-5 col-md-7 col-sm-8 aos-init aos-animate" data-aos="fade-up">
-<div class="row">
-<div class="col-md-9">
-<div class="testimonials-info-wrap">
-<h2>Ego.co.uk - Footwear eCommerce Store</h2>
-<span class="testimonials-label">Education and E-Learning</span>
-<div class="testimonials-name">
-<h3>Haroon Hussain</h3>
-<p>Head of Development</p>
-</div>
-<h4>Project Summary</h4>
-<h5>EGO is an online, trend-led sassy footwear brand representing a movement of stylish shoeaholics from around the globe.</h5>
-<div class="row pt-2">
-<div class="col-md-6">
-<h4>Project Start Date</h4>
-<h5>Jan. 2017</h5>
-</div>
-<div class="col-md-6">
-<h4>Project End Date</h4>
-<h5>Ongoing</h5>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3">
-<div class="testimonials-meta">
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon27.png" alt="$" width="36" height="36">
-<h4>$50,000 <br> to <br> $199,999</h4>
-</div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon28.png" alt="Studies" width="32" height="29">
-<h4>Case Studies</h4>
- </div>
-<div class="testimonials-meta-item">
-<img src="~/assets/images/icon29.png" alt="Prievew" width="32" height="24">
-<h4>Preview</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div></div></div><div class="owl-nav"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">1</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
 </div>
 </div>
 </section>
@@ -1211,77 +101,29 @@
 <div class="container">
 <div class="section-title">
 <h2><span>FAQs</span></h2>
-<p>Scroll more to know more about our service, “hire Hybrid app developers” and how we perform.</p>
+<p>Scroll more to know more about our service, “hire iPhone App developers”.</p>
 </div>
 <div class="faq-wrap">
 <div id="accordion">
 <div class="card">
 <div class="card-header" id="headingOne">
 <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-What measures does your company follow for Hybrid App Development?
+Why should we hire dedicated iPhone app developers?
 </button>
 </div>
 <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
 <div class="card-body">
-<p>Our dedicated developers hold rich experience performing with various technologies required to complete Hybrid App Development. They are always focused on offering the perfect solution, which is quick and responsive. Our developers are not limited to only one industry as they deliver customer needs across a broad range of verticals.</p>
+<p>If you want a swift project delivery at low investment then it's best to pick dedicated iPhone app programmers who perform solely on your project and render the faster outcomes.</p>
 </div>
 </div>
 </div>
 <div class="card">
 <div class="card-header" id="headingTwo">
 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-Is Hybrid App Development, a cost-effective choice?
+Why choose Emizentech to hire iPhone App developers?
 </button>
 </div>
 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-<div class="card-body">
-<p>It is more advantageous and beneficial to develop hybrid mobile apps as they are faster and easier to deploy across the platforms. The upfront prices to build a hybrid mobile app are not much as compared to the other applications in use.</p>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="headingThree">
-<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-What about your Pricing Model?
-</button>
-</div>
-<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-<div class="card-body">
-<p>We, at Emizentech, offer sound pricing models according to your project needs - dedicated hiring, fixed hiring, and hourly basis, and more.</p>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="headingFour">
-<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-Can I hire Hybrid developers on a part-time basis?
-</button>
-</div>
-<div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
-<div class="card-body">
-<p>Yes, you can hire our dedicated Hybrid developers on a part-time basis.</p>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="headingFive">
-<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-Why should we hire dedicated Hybrid developers?
-</button>
-</div>
-<div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
-<div class="card-body">
-<p>Any app requires to hold the right coding standards along with the right way of technology implementation. One should hire a dedicated Hybrid development team or certified Hybrid developer to avoid any failure and bugs.</p>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="headingSix">
-<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-Why choose Emizentech to hire Hybrid developers?
-</button>
-</div>
-<div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
 <div class="card-body">
 <ul class="bullet-list">
 <li>Goal-oriented Performance</li>
@@ -1295,37 +137,26 @@ Why choose Emizentech to hire Hybrid developers?
 </div>
 </div>
 <div class="card">
-<div class="card-header" id="headingSeven">
-<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-How can I hire Hybrid developers as per my specifications?
+<div class="card-header" id="headingThree">
+<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+How can I hire iPhone app developers as per my specifications?
 </button>
 </div>
-<div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion">
+<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
 <div class="card-body">
-<p>After our team analyzes your business needs, we allocate an expert programmer to our clients to work for them under a well-established IT set-up.</p>
+<p>After careful incorporation of your project needs, we assign an adroit programmer to perform on your project under an established IT set-up.</p>
 </div>
 </div>
 </div>
 <div class="card">
-<div class="card-header" id="headingEight">
-<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-Will the hired Hybrid developer team perform dedicated only for me?
+<div class="card-header" id="headingFour">
+<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+What are the benefits of hiring iPhone development services?
 </button>
 </div>
-<div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion">
+<div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
 <div class="card-body">
-<p>Of course. The team of developers you hire will work for your project only. You will be assigned a team of developers or a dedicated Hybrid developer as per your choice according to your time, needs, and tasks. You may edit the size of your team as well. The team will report the performance of your project regularly.</p>
-</div>
-</div>
-</div>
-<div class="card">
-<div class="card-header" id="headingNine">
-<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-What are the benefits of hiring Hybrid development services?
-</button>
-</div>
-<div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordion">
-<div class="card-body">
+<p>Today, the iPhone is used by various smartphone users. Developing an iPhone application for your business is quite obvious. Therefore, despite preparing new terms, it's time to pick iPhone app development services as:</p>
 <ul class="bullet-list">
 <li>It saves time and cost.</li>
 <li>Offer hassle-free workflow.</li>
@@ -1335,12 +166,12 @@ What are the benefits of hiring Hybrid development services?
 </div>
 </div>
 <div class="card">
-<div class="card-header" id="headingTen">
-<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+<div class="card-header" id="headingFive">
+<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
 Can I hire a developer for a project-based task?
 </button>
 </div>
-<div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordion">
+<div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
 <div class="card-body">
 <p>Yes, of course! You can pick our dedicated developers even as per hourly basis or for completing your project task. Also, we offer flexibility to alter the hire model later on.</p>
 </div>
@@ -1351,53 +182,6 @@ Can I hire a developer for a project-based task?
 </div>
 </section>
 
-<section class="emizentech-blog">
-<div class="container">
-<div class="row">
-<div class="col-md-6">
-<div class="blog-title">
-<h3>Recently</h3>
-<h2>Blogs</h2>
-</div>
-<figure class="blog-item">
-<img src="~/assets/images/blog1.jpg" alt="Blog" width="640" height="474">
-<figcaption>
-<h4>Personal</h4>
-<h3><a href="https://www.emizentech.com/blog/child-to-parent-communication-in-lwc.html">How To Use Child To Parent Communication In LWC In Salesforce</a></h3>
-<a href="https://www.emizentech.com/blog/child-to-parent-communication-in-lwc.html" class="blog-link">Read more</a>
-</figcaption>
-</figure>
-<div class="call-block">
-<div class="call-block-wrap">
-<div class="emizentech-icon"><img src="~/assets/images/icon3.png" alt="Call" width="42" height="42"></div>
-<div class="call-info">
-<h5>Have an idea?</h5>
-<p>Convert your app idea into profitable Business Mobile Application...<a href="enqiry.html">Talk to Expert</a></p>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-6">
-<figure class="blog-item ml-lg-5">
-<img src="~/assets/images/blog2.jpg" alt="Blog" width="640" height="474">
-<figcaption>
-<h4>Personal</h4>
-<h3><a href="https://www.emizentech.com/blog/how-to-fetch-records-using-lightning-data-service.html">How To Fetch Records By Lightning Data Service In Salesforce</a></h3>
-<a href="https://www.emizentech.com/blog/how-to-fetch-records-using-lightning-data-service.html" class="blog-link">Read more</a>
-</figcaption>
-</figure>
-<figure class="blog-item ml-lg-5">
-<img src="~/assets/images/blog3.jpg" alt="Blog" width="640" height="474">
-<figcaption>
-<h4>Personal</h4>
-<h3><a href="https://www.emizentech.com/blog/optimize-voice-search-for-ecommerce-store.html">How To Optimize Your eCommerce Store For Voice Search</a></h3>
-<a href="https://www.emizentech.com/blog/optimize-voice-search-for-ecommerce-store.html" class="blog-link">Read more</a>
-</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</section>
 
 <section class="emizentech-clients">
 <div class="container">
@@ -1410,49 +194,44 @@ Can I hire a developer for a project-based task?
 
 
 
-<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1117px, 0px, 0px); transition: all 0.6s ease 0s; width: 2980px;"><div class="owl-item cloned" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images/client5.png" alt="Client" width="65" height="65"></div>
+<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-931px, 0px, 0px); transition: all 0.6s ease 0s; width: 2980px;"><div class="owl-item cloned" style="width: 171.25px; margin-right: 15px;"><div class="item">
+<div class="emizentech-image"><img src="~/assets/images//client5.png" alt="Client" width="65" height="65"></div>
 </div></div><div class="owl-item cloned" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images/client6.png" alt="Client" width="64" height="65"></div>
+<div class="emizentech-image"><img src="~/assets/images//client6.png" alt="Client" width="64" height="65"></div>
 </div></div><div class="owl-item cloned" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images/client7.png" alt="Client" width="116" height="65"></div>
+<div class="emizentech-image"><img src="~/assets/images//client7.png" alt="Client" width="116" height="65"></div>
 </div></div><div class="owl-item cloned" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images/client4.png" alt="Client" width="120" height="65"></div>
+<div class="emizentech-image"><img src="~/assets/images//client4.png" alt="Client" width="120" height="65"></div>
 </div></div><div class="owl-item" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images/client1.png" alt="Client" width="117" height="65"></div>
+<div class="emizentech-image"><img src="~/assets/images//client1.png" alt="Client" width="117" height="65"></div>
+ </div></div><div class="owl-item active" style="width: 171.25px; margin-right: 15px;"><div class="item">
+<div class="emizentech-image"><img src="~/assets/images//client2.png" alt="Client" width="111" height="65"></div>
+</div></div><div class="owl-item active" style="width: 171.25px; margin-right: 15px;"><div class="item">
+<div class="emizentech-image"><img src="~/assets/images//client3.png" alt="Client" width="108" height="65"></div>
+</div></div><div class="owl-item active" style="width: 171.25px; margin-right: 15px;"><div class="item">
+<div class="emizentech-image"><img src="~/assets/images//client4.png" alt="Client" width="120" height="65"></div>
+</div></div><div class="owl-item active" style="width: 171.25px; margin-right: 15px;"><div class="item">
+<div class="emizentech-image"><img src="~/assets/images//client5.png" alt="Client" width="65" height="65"></div>
 </div></div><div class="owl-item" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images/client2.png" alt="Client" width="111" height="65"></div>
-</div></div><div class="owl-item active" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images/client3.png" alt="Client" width="108" height="65"></div>
-</div></div><div class="owl-item active" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images/client4.png" alt="Client" width="120" height="65"></div>
-</div></div><div class="owl-item active" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images/client5.png" alt="Client" width="65" height="65"></div>
-</div></div><div class="owl-item active" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images/client6.png" alt="Client" width="64" height="65"></div>
+<div class="emizentech-image"><img src="~/assets/images//client6.png" alt="Client" width="64" height="65"></div>
 </div></div><div class="owl-item" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images/client7.png" alt="Client" width="116" height="65"></div>
+<div class="emizentech-image"><img src="~/assets/images//client7.png" alt="Client" width="116" height="65"></div>
 </div></div><div class="owl-item" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images/client4.png" alt="Client" width="120" height="65"></div>
+<div class="emizentech-image"><img src="~/assets/images//client4.png" alt="Client" width="120" height="65"></div>
 </div></div><div class="owl-item cloned" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images/client1.png" alt="Client" width="117" height="65"></div>
+<div class="emizentech-image"><img src="~/assets/images//client1.png" alt="Client" width="117" height="65"></div>
+ </div></div><div class="owl-item cloned" style="width: 171.25px; margin-right: 15px;"><div class="item">
+<div class="emizentech-image"><img src="~/assets/images//client2.png" alt="Client" width="111" height="65"></div>
 </div></div><div class="owl-item cloned" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images/client2.png" alt="Client" width="111" height="65"></div>
+<div class="emizentech-image"><img src="~/assets/images//client3.png" alt="Client" width="108" height="65"></div>
 </div></div><div class="owl-item cloned" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images/client3.png" alt="Client" width="108" height="65"></div>
-</div></div><div class="owl-item cloned" style="width: 171.25px; margin-right: 15px;"><div class="item">
-<div class="emizentech-image"><img src="~/assets/images/client4.png" alt="Client" width="120" height="65"></div>
+<div class="emizentech-image"><img src="~/assets/images//client4.png" alt="Client" width="120" height="65"></div>
 </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><div class="slider-no-current"><span class="current-no">0</span><span class="total-no">0</span></div><span class="current-monials"></span></div><div class="owl-next"><div class="slider-no-next"></div><span class="next-monials"></span></div></div><div class="owl-dots disabled"></div></div>
 </div>
 </section>
 
-<section class="emizentech-shy">
-<div class="container">
-<h3>Don’t be Shy</h3>
-<h2>Say Hello!</h2>
-<div class="text-right"><a href="enqiry.html" class="emizentech-btn emizentech-medium-btn">Get in Touch</a></div>
-</div>
-</section>
+<Started/>
+<Stats/>
 
 <FooterMenu/>
 
