@@ -2,7 +2,34 @@
   <div data-aos-easing="ease" data-aos-duration="1200" data-aos-delay="0">
 
 <HeaderMenu/>
-<section class="emizentech-banner banner-style-two">
+
+<section class="csr-banner">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-12 text-center">
+            <h1 class="text-white">CSR</h1>
+          </div>
+        </div>
+      </div>
+    </section>
+
+<section class="container">
+<div class="cloud-item item-style-two">
+<div class="row align-items-center">
+<div class="col-lg-5 order-lg-2">
+<div class="emizentech-image"><img src="~/assets/Path-Foundation.png" alt="Salesforce"></div>
+</div>
+<div class=" col-lg-7 order-lg-1">
+<div class="cloud-info">
+<h3><span>Path By </span>DiginixAi</h3>
+<p>PATH is a state level social work organization, which has been active in state of Rajasthan for last 5 years. PATH has been responsible for organizing multiple events which has impacted & improved life of people directly and indrectly. PATH has been focused for cleanliness drive and operate with a vision to maintain the hygine in the city. PATH also works to support war widows for upliftment of their life. PATH registration has been applied in state of Rajasthan as an NGO.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<!-- <section class="emizentech-banner banner-style-two">
 <div class="container">
 <div class="row align-items-center">
 <div class="col-md-7">
@@ -10,15 +37,14 @@
 <h1>Path by <span>DiginixAi</span></h1>
 <p>PATH is a state level social work organization, which has been active in state of Rajasthan for last 5 years. PATH has been responsible for organizing multiple events which has impacted & improved life of people directly and indrectly. PATH has been focused for cleanliness drive and operate with a vision to maintain the hygine in the city. PATH also works to support war widows for upliftment of their life. PATH registration has been applied in state of Rajasthan as an NGO.</p>
 <p>PATH has been cofounded by the vision of Vishnu Chawda and Diginix AI Company founders Priyanshu Joshi and Nishant Pandey. Diginix AI conducts CSR activites through PATH.</p>
-<!-- <a href="enqiry.html" class="emizentech-btn"><span class="sprites-image"></span> Talk to Consultant</a> -->
 </div>
 </div>
 <div class="col-md-5">
-<div class="banner-image-wrap"><img src="~/assets/images//about-bg.png" alt="About"></div>
+<div class="banner-image-wrap"><img src="~/assets/Path-Foundation.png" alt="About"></div>
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
 <section class="emizentech-serving serving-style-two serving-spacer-three">
 <div class="container">
@@ -307,5 +333,14 @@ export default {
 </script>
 
 <style>
+.csr-banner{
+  overflow: hidden;
+  height: 340px;
+  padding-top: 140px;
+  background-image: url(~assets/CSR-Path.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 </style>
