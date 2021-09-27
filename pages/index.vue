@@ -183,7 +183,7 @@
       </div>
     </section>
 
-    <section class="emizentech-features">
+    <!-- <section class="emizentech-features">
       <div class="container">
         <div class="section-title">
           <h2>
@@ -413,9 +413,9 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
-    <section class="emizentech-award">
+    <section class="emizentech-award mt-4">
       <div class="container">
         <div class="section-title">
           <h2><span>Diginixai is Partner </span> with top companies</h2>
@@ -1616,7 +1616,7 @@
         </div>
     </section> -->
 
-    <section class="emizentech-staff">
+    <!-- <section class="emizentech-staff">
       <div class="container">
         <div class="section-title">
           <h2><span>Hire Dedicated</span> Developers</h2>
@@ -1971,9 +1971,9 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
-    <section class="emizentech-industries">
+    <!-- <section class="emizentech-industries">
       <div class="container">
         <div class="row">
           <div class="col-md-6">
@@ -2202,9 +2202,9 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
-    <section class="emizentech-testimonials">
+    <!-- <section class="emizentech-testimonials">
       <div class="container">
         <div class="section-title">
           <h2><span>Our performance</span> their words!</h2>
@@ -2655,9 +2655,9 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
-    <section class="emizentech-clients">
+    <!-- <section class="emizentech-clients">
       <div class="container">
         <div
           class="owl-carousel"
@@ -2753,7 +2753,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <section class="emizen-blogs">
       <div class="bg-black">

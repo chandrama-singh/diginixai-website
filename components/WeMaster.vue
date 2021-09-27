@@ -6,15 +6,15 @@
 
                 <div class="expertise-info">
                     <h3>We are</h3>
-                    <h2>MASTERS</h2>
-                    <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <h2>MASTERS IN</h2>
+                    <!-- <ul class="nav nav-tabs" id="myTab" role="tablist">
                         <li class="nav-item">
                             <a class="nav-link active" id="expertise-tab" data-toggle="tab" href="https://www.emizentech.com/#expertise" role="tab" aria-controls="expertise" aria-selected="true">Masters</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" id="trending-tab" data-toggle="tab" href="https://www.emizentech.com/#trending" role="tab" aria-controls="trending" aria-selected="false">Trending Solutions</a>
                         </li>
-                    </ul>
+                    </ul> -->
                 </div>
 
                 <div class="tab-content" id="myTabContent">
@@ -23,26 +23,26 @@
                             <div class="col-xl-6"></div>
                             <div class="col-xl-3 col-lg-4 col-sm-6 d-flex aos-init aos-animate" data-aos="fade-up">
                                 <div class="expertise-item">
-                                    <img src="~/assets/images/python.png" alt="Python" width="103" height="67">
-                                    <h3>Python</h3>
-                                    <p>Python has been the top pick for the latest technology trends that are essential for businesses to have a hold-in this competitive world.</p>
-                                    <a href="https://www.emizentech.com/python-development-services.html" class="emizentech-more">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                    <img src="~/assets/images/android.png" alt="Python" width="103" height="67">
+                                    <h3>Android</h3>
+                                    <p> Our android developers are the industry-toppers in the field of android mobile application development in Dubai, thus we could offer you the best mobile application solutions in Dubai at an affordable cost.</p>
+                                    <Nuxt-Link to="/android-app-development" class="emizentech-more">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></Nuxt-Link>
                                 </div>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-sm-6 d-flex">
                                 <div class="expertise-item">
-                                    <img src="~/assets/images/asp.png" alt="Asp" width="103" height="67">
-                                    <h3>ASP.NET</h3>
-                                    <p>A perfect choice for the emerging businesses, ASP.NET assists in developing secure websites and applications.</p>
-                                    <a href="https://www.emizentech.com/asp-net-development.html" class="emizentech-more">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                    <img src="~/assets/images/iphone.png" alt="Asp" width="103" height="67">
+                                    <h3>IOS</h3>
+                                    <p>Diginixai is the No. 1 iOS App Development agency in Dubai, we deliver unparalleled iOS application development services for all major industry verticals like logistics, education, healthcare, retail, finance, etc.</p>
+                                    <Nuxt-Link to="/ios-app-development" class="emizentech-more">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></Nuxt-Link>
                                 </div>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-sm-6 d-flex">
                                 <div class="expertise-item">
-                                    <img src="~/assets/images/ror.png" alt="ror" width="103" height="67">
-                                    <h3>ROR</h3>
-                                    <p>The most commonly-employed and open-source web framework, Ruby on Rails develops server-side apps and helps with simplified tasks.</p>
-                                    <a href="https://www.emizentech.com/ruby-on-rails.html" class="emizentech-more">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                    <img src="~/assets/images/angular-developer1.png" alt="ror" width="103" height="67">
+                                    <h3>Angular</h3>
+                                    <p>We are acclaimed to proffer top grade AngularJS solutions throughout the globe.</p>
+                                    <Nuxt-Link to="/angular-js-development">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></Nuxt-Link>
                                 </div>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-sm-6 d-flex">
@@ -50,15 +50,15 @@
                                     <img src="~/assets/images/php.png" alt="Php" width="103" height="67">
                                     <h3>PHP</h3>
                                     <p>It is the most preferred language used for web development as it asks for less time to load web pages. It also comes with easy-to-use extensions.</p>
-                                    <a href="https://www.emizentech.com/php-development.html" class="emizentech-more">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                    <Nuxt-Link to="/php-web-development" class="emizentech-more">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></Nuxt-Link>
                                 </div>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-sm-6 d-flex">
                                 <div class="expertise-item">
-                                    <img src="~/assets/images/java2.png" alt="JAVA" width="103" height="67">
-                                    <h3>Java</h3>
-                                    <p>This language offers faster access to technology updates and renders enterprise development features for the customers employing Java SE technology.</p>
-                                    <a href="https://www.emizentech.com/java-development.html" class="emizentech-more">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                    <img src="~/assets/images/laravel-mini.png" alt="Laravel" width="103" height="67">
+                                    <h3>Laravel</h3>
+                                    <p>We have expertise in all inches of website development solutions, ranging from creating a simple static web page to providing critical & E-commerce website development services, and custom web application development services.</p>
+                                    <Nuxt-Link to="/laravel-development-services" class="emizentech-more">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></Nuxt-Link>
                                 </div>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-sm-6 d-flex">
@@ -66,12 +66,12 @@
                                     <img src="~/assets/images/nodejs.png" alt="nodejs" width="103" height="67">
                                     <h3>Node</h3>
                                     <p>The Flutter developers get an easy track to develop and deploy visually appealing and fast mobile applications on both iOS and Android platforms.</p>
-                                    <a href="https://www.emizentech.com/nodejs-development.html" class="emizentech-more">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                    <Nuxt-Link to="/node-js-development" class="emizentech-more">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></Nuxt-Link>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane fade" id="trending" role="tabpanel" aria-labelledby="trending-tab">
+                    <!-- <div class="tab-pane fade" id="trending" role="tabpanel" aria-labelledby="trending-tab">
                         <div class="row">
                             <div class="col-xl-6"></div>
                             <div class="col-xl-3 col-lg-4 col-sm-6 d-flex">
@@ -117,7 +117,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

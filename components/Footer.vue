@@ -7,41 +7,38 @@
             <h3>Contact Us</h3>
             <ul>
               <li>
-                <a href="https://www.emizentech.com/mobile-app-development.html"
-                  >Hire Mobile app Developer</a
+                <Nuxt-Link to="/android-app-development"
+                  >Hire Android app Developer</Nuxt-Link
                 >
               </li>
               <li>
-                <a
-                  href="https://www.emizentech.com/hire-laravel-developers.html"
-                  >Hire Laravel Developer</a
+                <Nuxt-Link to="/ios-app-development"
+                  >Hire IOS App Developer</Nuxt-Link
                 >
               </li>
               <li>
-                <a
-                  href="https://www.emizentech.com/hire-salesforce-developer.html"
-                  >Hire Salesforce Developer</a
+                <Nuxt-Link to="/ar-vr-development-services"
+                  >Hire AR / VR Developer</Nuxt-Link
                 >
               </li>
               <li>
-                <a href="https://www.emizentech.com/hire-magento-developer.html"
-                  >Hire Magento Developer</a
+                <Nuxt-Link to="/magento-development"
+                  >Hire Magento Developer</Nuxt-Link
                 >
               </li>
               <li>
-                <a href="https://www.emizentech.com/hire-python-developers.html"
-                  >Hire Python Developer</a
+                <Nuxt-Link to="/laravel-development-services"
+                  >Hire laravel Developer</Nuxt-Link
                 >
               </li>
               <li>
-                <a href="https://www.emizentech.com/hire-shopify-developer.html"
-                  >Hire Shopify Developer</a
+                <Nuxt-Link to="/shopify-development-services"
+                  >Hire Shopify Developer</Nuxt-Link
                 >
               </li>
               <li>
-                <a
-                  href="https://www.emizentech.com/hire-iphone-app-developers.html"
-                  >Hire iPhone Developer</a
+                <Nuxt-Link to="/wordpress-website-development-services"
+                  >Hire Wordpress Developer</Nuxt-Link
                 >
               </li>
             </ul>
@@ -50,29 +47,25 @@
             <h3>Quick Links</h3>
             <ul>
               <li>
-                <a href="https://www.emizentech.com/about-us.html">About Us</a>
+                <Nuxt-Link to="/about-us">About Us</Nuxt-Link>
               </li>
               <li>
-                <a href="https://www.emizentech.com/career.html">Career</a>
+                <Nuxt-Link to="/our-founders">Our Founders</Nuxt-Link>
               </li>
               <li>
-                <a href="https://www.emizentech.com/our-team.html">Our Team</a>
+                <Nuxt-Link to="/awards">Awards</Nuxt-Link>
               </li>
-              <li><a href="JavaScript:void(0)">Life @ Emizen</a></li>
+              <li><Nuxt-Link to="/blog">Blog</Nuxt-Link></li>
               <li>
-                <a href="https://www.emizentech.com/partnership.html"
-                  >Partnership</a
+                <Nuxt-Link to="/corporate-training"
+                  >Corporate Training</Nuxt-Link
                 >
               </li>
               <li>
-                <a href="https://www.emizentech.com/portfolio.html"
-                  >Portfolio</a
-                >
+                <Nuxt-Link to="/portfolio-and-projects">Portfolio</Nuxt-Link>
               </li>
               <li>
-                <a href="https://www.emizentech.com/contact-us.html"
-                  >Contact Us</a
-                >
+                <Nuxt-Link to="/contact-us">Contact Us</Nuxt-Link>
               </li>
             </ul>
           </div>
@@ -80,40 +73,34 @@
             <h3>Expertise</h3>
             <ul>
               <li>
-                <a href="https://www.emizentech.com/php-development.html"
-                  >PHP Development</a
+                <Nuxt-Link to="/php-web-development">PHP Development</Nuxt-Link>
+              </li>
+              <li>
+                <Nuxt-Link to="/node-js-development"
+                  >Node JS Development</Nuxt-Link
                 >
               </li>
               <li>
-                <a
-                  href="https://www.emizentech.com/python-development-services.html"
-                  >Python Development</a
+                <Nuxt-Link to="/opencart-development-services"
+                  >Opencart Development</Nuxt-Link
                 >
               </li>
               <li>
-                <a href="https://www.emizentech.com/ruby-on-rails.html"
-                  >ROR Development</a
+                <Nuxt-Link to="/angular-js-development"
+                  >Angular JS Development</Nuxt-Link
                 >
               </li>
               <li>
-                <a href="https://www.emizentech.com/java-development.html"
-                  >Java Development</a
+                <Nuxt-Link to="/android-app-development"
+                  >Android Development</Nuxt-Link
                 >
               </li>
               <li>
-                <a href="https://www.emizentech.com/asp-net-development.html"
-                  >ASP.Net Development</a
-                >
+                <Nuxt-Link to="/ios-app-development">IOS Development</Nuxt-Link>
               </li>
               <li>
-                <a href="https://www.emizentech.com/nodejs-development.html"
-                  >Node JS Development</a
-                >
-              </li>
-              <li>
-                <a
-                  href="https://www.emizentech.com/react-native-app-development-services.html"
-                  >React Native Development</a
+                <Nuxt-Link to="/node-js-development"
+                  >Node JS Development</Nuxt-Link
                 >
               </li>
             </ul>
@@ -122,40 +109,36 @@
             <h3>Solutions</h3>
             <ul>
               <li>
-                <a href="https://www.emizentech.com/ecommerce-development.html"
-                  >E-Commerce Development</a
+                <Nuxt-Link to="/ecommerce-website-development-services"
+                  >E-Commerce Development</Nuxt-Link
                 >
               </li>
               <li>
-                <a href="https://www.emizentech.com/mobile-app-development.html"
-                  >Mobile App Development</a
+                <Nuxt-Link to="/android-app-development"
+                  >Mobile App Development</Nuxt-Link
                 >
               </li>
               <li>
-                <a href="https://www.emizentech.com/web-development.html"
-                  >Website Development</a
+                <Nuxt-Link to="/website-development-services"
+                  >Website Development</Nuxt-Link
                 >
               </li>
               <li>
-                <a href="https://www.emizentech.com/salesforce.html"
-                  >Salesforce Commerce</a
+                <Nuxt-Link to="/blockchain-services">Blockchain</Nuxt-Link>
+              </li>
+              <li>
+                <Nuxt-Link to="/magento-development"
+                  >Magento Services</Nuxt-Link
                 >
               </li>
               <li>
-                <a
-                  href="https://www.emizentech.com/magento-development-services.html"
-                  >Magento Store</a
+                <Nuxt-Link to="/shopify-development-services"
+                  >Shopify Store</Nuxt-Link
                 >
               </li>
               <li>
-                <a href="https://www.emizentech.com/shopify-development.html"
-                  >Shopify Store</a
-                >
-              </li>
-              <li>
-                <a
-                  href="https://www.emizentech.com/woocommerce-development.html"
-                  >WooCommerce Store</a
+                <Nuxt-Link to="/woocommerce-development-services"
+                  >WooCommerce Store</Nuxt-Link
                 >
               </li>
             </ul>
@@ -516,36 +499,35 @@
                   width="21"
                   height="22"
                 />
-                Overall client rating is 4.9 out of 250 Clients for Emizentech
+                Overall client rating is 4.9 out of 250 Clients for Diginixai
               </p>
               <h6>
-                Copyright © 2013 -
-                <a href="JavaScript:void(0)">Refund Policy</a> |
-                <a href="https://www.emizentech.com/privacy-policy.html"
-                  >Privacy Policy</a
+                Copyright © 2013 - Diginixai |
+                <Nuxt-Link to="/privacy-policy"
+                  >Privacy Policy</Nuxt-Link
                 >
-                <img
+                <!-- <img
                   src="~/assets/images/protect.png"
                   alt="Protect"
                   width="96"
                   height="16"
-                />
+                /> -->
               </h6>
             </div>
             <div class="col-lg-4 text-lg-right">
               <div class="emizentech-social">
-                <a href="https://www.facebook.com/EmizenTech/" target="_blank"
+                <a href="https://www.facebook.com/diginixai" target="_blank"
                   ><i class="fa fa-facebook" aria-hidden="true"></i
                 ></a>
                 <a
-                  href="http://www.linkedin.com/company/emizen-tech"
+                  href="https://www.linkedin.com/company/diginix-ai-software-solution"
                   target="_blank"
                   ><i class="fa fa-linkedin" aria-hidden="true"></i
                 ></a>
-                <a href="https://www.instagram.com/emizentech/" target="_blank"
-                  ><i class="fa fa-instagram" aria-hidden="true"></i
+                <a href="skype:diginixai?chat" target="_blank"
+                  ><i class="fa fa-skype" aria-hidden="true"></i
                 ></a>
-                <a href="https://twitter.com/EmizenTech" target="_blank"
+                <a href="https://twitter.com/diginixai" target="_blank"
                   ><i class="fa fa-twitter" aria-hidden="true"></i
                 ></a>
               </div>

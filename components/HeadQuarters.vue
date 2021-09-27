@@ -8,7 +8,7 @@
                     <div class="Company-address">
                         <h3 class="company-title">headquarters</h3>
                         <p class="address d-flex align-items-center">
-                            <img src="~/assets/images/address-icon.png" class="img-fluid" alt="address-icon"> #23 Chase Tower, opp. Metro Pillar 31, <br> Rajiv Vihar Colony, Jaipur, Rajasthan 302019
+                            <img src="~/assets/images/address-icon.png" class="img-fluid" alt="address-icon"> 401-500, ETA Star House, AL Muteena, Dubai, United Arab Emirates
                         </p>
                     </div>
                     <div class="emizen-location pt-3">
@@ -19,8 +19,8 @@
                                 <span class="location-group">
 <img src="~/assets/images/usa.png" class="img-fluid" alt="address-icon">
 <span>
-USA <br>
-+1- (332) 255-7117
+EGYPT <br>
++202-24010612
 </span>
                                 </span>
                             </li>
@@ -29,8 +29,8 @@ USA <br>
                                 <span class="location-group">
 <img src="~/assets/images/uk.png" class="img-fluid" alt="address-icon">
 <span>
-UK <br>
-+44-2038158019
+INDIA <br>
++91 98897 97416
 </span>
                                 </span>
                             </li>
@@ -39,14 +39,16 @@ UK <br>
                                 <span class="location-group">
 <img src="~/assets/images/Singapore.png" class="img-fluid" alt="address-icon">
 <span>
-Singapore <br>
-+65-31382077
+SAUDI ARABIA <br>
++966-122869565
 </span>
                                 </span>
                             </li>
                         </ul>
                     </div>
-                    <div class="emizen-offers pt-4 text-center text-sm-left">
+                    
+                    
+                    <!-- <div class="emizen-offers pt-4 text-center text-sm-left">
                         <h1>We offer a 60-minute<span class="d-block"> FREE CONSULTATION!</span></h1>
                         <div class=" emizion-main d-sm-flex align-items-center pt-3">
                             <img src="~/assets/images/emizion-main.png" class="img-fluid" alt="address-icon">
@@ -66,7 +68,7 @@ Singapore <br>
                                 </ul>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="col-sm-6">
@@ -74,7 +76,7 @@ Singapore <br>
 
                         <h3 class="text-center text-sm-left">Don’t be Shy</h3>
                         <h2 class="text-center text-sm-left">Say Hello!</h2>
-                        <form method="POST" id="contact-form" action="https://www.emizentech.com/#">
+                        <form method="POST" id="contact-form" action="/">
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-group">
@@ -110,7 +112,7 @@ Singapore <br>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-group">
-                                        <input type="text" name="find" class="form-control" placeholder="How did you find Emizentech" id="Email-id">
+                                        <input type="text" name="find" class="form-control" placeholder="How did you find Diginixai" id="Email-id">
                                     </div>
                                 </div>
                                 <div class="col-12">
