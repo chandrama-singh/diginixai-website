@@ -24,8 +24,6 @@
                 <img
                   src="~/assets/zamkan.png"
                   alt="Logo"
-                  width="154"
-                  height="86"
                 />
               </div>
             </div>
@@ -39,16 +37,7 @@
                 />
               </div>
             </div>
-            <div class="col-lg-2 col">
-              <div class="client-image">
-                <img
-                  src="~/assets/gamex.png"
-                  alt="Logo"
-                  width="154"
-                  height="86"
-                />
-              </div>
-            </div>
+          
             <div class="col-lg-2 col">
               <div class="client-image filter-invert">
                 <img

@@ -22,7 +22,7 @@
         </div>
     </header>
 
-    <div class="emizentech-navigation">
+    <div class="emizentech-navigation"  >
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-3">
@@ -1535,10 +1535,56 @@
     </div>
   </div>
 </template>
-
 <script>
 export default {
+  data() {
+    return {
+      isActive: false,
+      collapsed: true,
+    }
+  },
 
+  created() {
+    if (process.browser) {
+      window.addEventListener('scroll', this.handleScroll)
+    }
+  },
+  destroyed() {
+    if (process.browser) {
+      window.removeEventListener('scroll', this.handleScroll)
+    }
+  },
+  methods: {
+    handleScroll(event) {
+      // Any code to be executed when the window is scrolled
+      if (scrollY < 5) {
+        this.isActive = false
+      } else {
+        this.isActive = true
+      }
+    },
+    showHide() {
+      const burger = document.querySelector('.icon')
+      const dropdown = document.querySelector('.dropdown')
+      if (this.collapsed) {
+        dropdown.style.maxHeight = dropdown.scrollHeight + 'px'
+        this.collapsed = false
+      } else {
+        dropdown.style.maxHeight = ''
+        this.collapsed = true
+      }
+      if (burger.innerHTML == '<i class="fa fa-bars 2x"></i>')
+        burger.innerHTML = '<i class="fa fa-times 2x"></i>'
+      else burger.innerHTML = '<i class="fa fa-bars 2x"></i>'
+      window.addEventListener('resize', () => {
+        if (!this.collapsed) {
+          dropdown.style.maxHeight = ''
+          this.collapsed = true
+        }
+        burger.innerHTML = '<i class="fa fa-bars 2x"></i>'
+      })
+    },
+  },
 }
 </script>
 
