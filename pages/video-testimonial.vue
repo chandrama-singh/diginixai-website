@@ -21,6 +21,9 @@
 </div>
 </div>
 
+<Started/>
+  <Stats/>
+  
 <section class="emizentech-cta">
       <div class="container">
         <div class="cta-wrap">
@@ -52,7 +55,7 @@
         </div>
       </div>
     </section>
-
+  
     <FooterMenu />
 
     

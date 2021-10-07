@@ -5,7 +5,7 @@
     <section class="law-banner">
       <div class="container">
         <div class="row align-items-center">
-          <div class="col-12 text-center">
+          <div class="col-12 text-center text-white">
             <h2>LAW Enforcement</h2>
           </div>
         </div>
